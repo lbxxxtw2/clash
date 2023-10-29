@@ -2,9 +2,7 @@
 J2,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxHxPuwYBkq3c9qPtWNUkGtg/ts
 無線新聞台,http://103.45.68.47/gy/gy163/TVB.php?id=2#https://epg.pw/stream/7673962ca22c9a4a0c3082d40a3374943c5d26c4113634b42306933c642ebc08.ctv
 无线财经资讯,http://103.45.68.47/gy/gy163/TVB.php?id=6#http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxNR4FqM3EgPoN7yqNVDCIzY/ts#http://50.7.238.114:8278/tvbcaijing_twn/playlist.m3u8?tid=MD3D9552893795528937&ct=19254&tsum=77d4c2db4fa7537d7dd3eb19f933526d
-明珠台,https://pi.0472.org/tv/mzt.php?auth=2310201855#http://ainm.cc/a/play/php/gudou.php?id=mzt#http://r.jdshipin.com/ZQ4kN#http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
-有线新闻台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxGka1Gyk649HqhQ_FRiGAtQ/ts#https://epg.pw/stream/62de1488de6d094fddcbafd642b00abd04b1b64bfa9fc78485895a51ecfb90f7.m3u8#https://epg.pw/stream/ddcee8ae223200a8e79c3d10f153c7b9ad14ead3449536d9cf0d3a7272aef0f8.m3u8#https://epg.pw/stream/cb206191db20ab3776f20fa69ee8db6d329d213c60c9d6acafab79e4bdadb357.m3u8
-有线财经,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxHH6Cbmgjccwd3cHg2UkfaU/ts
+明珠台,http://ainm.cc/a/play/php/gudou.php?id=mzt#http://r.jdshipin.com/ZQ4kN#http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
 NOW新聞台,https://epg.pw/stream/2c5cd39ab3b2274e97f37a1711a56db2f00cafe21b977befc22cd0fb05f3c12b.ctv
 Viu TV,https://epg.pw/stream/e75064964d8deac20e6e137a40e2c59b10104b50986230c89c0bf57a58887a3e.ctv#https://epg.pw/stream/e063ee2925c2160d15c5804e61dd4d09836ce2cfeb22d89e7c90f7491270a68d.m3u8#https://epg.pw/stream/813fe962130bf27d85d2a8f6114a7fb066f40b7323165ce8c3bc26ff0cb5ef7f.m3u8
 TVB亞洲劇[1920*1080],https://epg.pw/stream/c88adc69fe22cc05c7ff2984ad14db99f461e6dda12687cb7bbaf5e03a357a38.m3u8#https://epg.pw/stream/a4696392133577ed03dbedefe5c18c3c7a178b0899b2f814fa6c532bc521f8f4.m3u8
