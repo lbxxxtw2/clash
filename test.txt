@@ -42,3 +42,68 @@ J2,http://120.84.96.95:808/hls/86/index.m3u8
 龍華日韓劇,http://218.32.47.179:8535/http/192.168.1.9:8088/hls/15/80/foxsports2.m3u8
 龍華偶像劇,http://218.32.47.179:8536/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8
 衛視電影FHD,http://218.32.47.179:18553/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
+翡翠台,http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
+翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
+翡翠台,http://113.117.74.45:8081/hls/67/index.m3u8
+翡翠台,http://107.151.203.111:2209/135/hk.php?id=tvbfct
+明珠台,http://50.7.238.114:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad
+无线新闻台,http://live.cooltv.top/tv/tvb.php?id=0
+无线财经体育资讯台,http://live.cooltv.top/tv/tvb.php?id=2
+RTHK31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8
+RTHK31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
+RTHK32,http://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+RTHK32,http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8
+HOY TV,http://uc6.i-cable.com/live_freedirect/opentvhd001_h.live/playlist.m3u8
+HOY TV,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+凤凰中文,http://198.16.100.90:8278/phoenixtv_hd/playlist.m3u8?tid=MF6F2163882521638825&ct=19249&tsum=2375037c2689c4190d14c8a52bc35c83
+凤凰中文,http://107.151.203.111:2209/135/hk.php?id=fhzw
+凤凰中文,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
+凤凰中文,http://111.20.40.170/PLTV/88888893/224/3221226547/index.m3u8
+凤凰中文,http://113.117.74.19:8081/hls/36/index.m3u8
+凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+凤凰资讯,http://210.210.155.37/qwr9ew/s/s21/01.m3u8
+凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+凤凰资讯,http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
+凤凰资讯,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
+凤凰资讯,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
+凤凰资讯,http://107.151.203.111:2209/135/hk.php?id=fhzx
+凤凰资讯,http://113.117.74.19:8081/hls/37/index.m3u8
+凤凰资讯,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+凤凰香港,http://107.151.203.111:2209/135/hk.php?id=fhhk
+凤凰香港,http://113.117.74.45:8081/hls/38/index.m3u8
+VIU TV,http://r.jdshipin.com/vSJvl
+无线新闻台,http://live.cooltv.top/tv/tvb.php?id=0&hq
+无线财经体育资讯台,http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt
+无线财经体育资讯台,http://198.16.100.90:8278/tvbcaijing_twn/playlist.m3u8?tid=MD3D9552893795528937&ct=19254&tsum=77d4c2db4fa7537d7dd3eb19f933526d
+耀才财经,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
+澳门 Macau,http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
+澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+澳亚卫视,http://107.151.203.111:2209/135/hk.php?id=aoya
+澳门莲花 [电影],http://live.cooltv.top/tv/lotus.php
+澳门莲花 [电影],http://anren.live/HK/BiIOU11uLA.m3u8
+澳门莲花 [电影],http://107.151.203.111:2209/135/hk.php?id=amlh
+台湾 纬来综合,http://123.51.230.108:18540/.m3u8
+台湾 东森新闻,http://61.221.81.93:8078/hls/33/80/ebcnews.m3u8
+台湾 东森戏剧,http://123.51.230.108:18538/.m3u8
+台湾 东森电影,http://120.84.96.87:808/hls/32/index.m3u8
+台湾 东森电影,http://107.151.203.111:2209/135/hk.php?id=dsdyt
+台湾 东森电影,http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
+台湾 东森美洲,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=156397&extension=ts&play_token=2fQZ7EF20L
+台湾 东森超视34.5 标清,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+台湾 东森财经新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+台湾 中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+台湾 中天新闻,http://tv.redrainl.site:9500/live.m3u8?c=3
+台湾 中天新闻,http://50.7.238.114:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
+台湾 中天亚洲台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
+台湾 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+台湾 TVBS新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+台湾 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+台湾 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+台湾 中视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+台湾 中视,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
+台湾 民视新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+台湾 台视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+台湾 台视CTS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
+ELTA影剧,http://198.16.100.90:8278/eltayingju_twn/playlist.m3u8?tid=MFFF8590726285907262&ct=19249&tsum=ae4cb19fed11696df934d6e2489e2978
+东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+东森电影,http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
