@@ -29,6 +29,7 @@ hms_devid=2292&prioritypopid=40&vqe=3
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0 
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
+TVB翡翠台,https://pull-f5-spe.ixigua.com/yeslivetv.com/beebf2b0-ac46-4513-a87c-892f225c545a/index.m3u8
 TVB翡翠台,http://113.117.74.15:8081/hls/67/index.m3u8
 TVB翡翠台,http://r.jdshipin.com/qClQf
 TVB翡翠台,http://r.jdshipin.com/62WM7
