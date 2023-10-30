@@ -1,13 +1,1 @@
-TVB J2,https://j3.lhlh.app/mv.m3u8
-TVB J2,https://cdn.hklive.tv/xxxx/82/index.m3u8
-TVB J2,https://live.astradamy.com/tvbj2/index.m3u8
-翡翠台,https://cdn.hklive.tv/xxxx/81/index.m3u8
-翡翠台,https://live.astradamy.com/tvbfc/index.m3u8
-翡翠台,http://23.237.10.66:16106
-TVB News Channel,https://cdn.hklive.tv/xxxx/83/index.m3u8
-TVB News Channel,https://tvp22.sky4k.top/index1.php
-ViuTV,https://cdn.hklive.tv/xxxx/99/index.m3u8
-ViuTVsix,http://61.238.6.49:8000/bysid/96
-ViuTVsix,https://cdn.hklive.tv/xxxx/96/index.m3u8
-ViuTVsix,https://live.astradamy.com/viutv6/index.m3u8
-有線新聞台,https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
+
