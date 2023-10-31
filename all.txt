@@ -1,23 +1,25 @@
-翡翠台,http://lu1.cc/a/play/php/gudou.php?id=fct
-翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
-翡翠台,https://pi.0472.org/tv/fct.php?auth=2310201855
-翡翠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxCgMBzU9XfDMGLwaGxto_X4/ts
-翡翠台,http://r.jdshipin.com/62WM7
-翡翠台,http://r.jdshipin.com/qClQf
-翡翠台,http://r.jdshipin.com/n90gt
 翡翠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts
-翡翠台,https://epg.pw/stream/55148f6bbc04101a5e1f15a10682660e9ecaef5d1d13320d4f652ebb01ccbf80.m3u8
-翡翠台,https://epg.pw/stream/90b0d448e52deeb54372ed3d7c0f9afe0617da63fc23f482af47f55710bc7d08.ctv
-翡翠台,https://epg.pw/stream/b43f94b33e3f2222a12195487519c698c65d7c2d50bc627205f24e20919c6fe2.ctv
+翡翠台,http://www.namewee.xyz/gudou.php?id=1350
+翡翠台,https://pi.0472.org/tv/fct.php?auth=2310201855
+翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
+翡翠台,http://r.jdshipin.com/qrfbg
+翡翠台,http://r.jdshipin.com/qClQf
+翡翠台,https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
+翡翠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxCgMBzU9XfDMGLwaGxto_X4/ts
+翡翠台,http://r.jdshipin.com/n90gt
+翡翠台,http://lu1.cc/a/play/php/gudou.php?id=fct
+翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
+翡翠台,http://120.236.57.77:9901/tsfile/live/1076_1.m3u8
 TVB J2,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxHxPuwYBkq3c9qPtWNUkGtg/ts
 TVB J2,https://dispatch.ulivetv.net/v/live/ccns1caueri8.m3u8?
+明珠台,http://ainm.cc/a/play/php/gudou.php?id=mzt#http://r.jdshipin.com/ZQ4kN
+明珠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
 无线新闻台,http://103.45.68.47/gy/gy163/TVB.php?id=2
 无线新闻台,https://epg.pw/stream/7673962ca22c9a4a0c3082d40a3374943c5d26c4113634b42306933c642ebc08.ctv
 无线财经资讯台,http://103.45.68.47/gy/gy163/TVB.php?id=6
 无线财经资讯台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxNR4FqM3EgPoN7yqNVDCIzY/ts
 无线财经资讯台,http://50.7.238.114:8278/tvbcaijing_twn/playlist.m3u8?tid=MD3D9552893795528937&ct=19254&tsum=77d4c2db4fa7537d7dd3eb19f933526d
-明珠台,http://ainm.cc/a/play/php/gudou.php?id=mzt#http://r.jdshipin.com/ZQ4kN
-明珠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
+无线娱乐新闻台,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 TVB亞洲剧,https://epg.pw/stream/c88adc69fe22cc05c7ff2984ad14db99f461e6dda12687cb7bbaf5e03a357a38.m3u8
 TVB亞洲剧,https://epg.pw/stream/a4696392133577ed03dbedefe5c18c3c7a178b0899b2f814fa6c532bc521f8f4.m3u8
 香港卫视,http://107.151.203.111:2209/135/hk.php?id=hkws
