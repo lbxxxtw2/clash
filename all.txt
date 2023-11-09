@@ -4,6 +4,7 @@
 翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
 翡翠台,https://epg.pw/stream/90b0d448e52deeb54372ed3d7c0f9afe0617da63fc23f482af47f55710bc7d08.ctv
 翡翠台,https://epg.pw/stream/b43f94b33e3f2222a12195487519c698c65d7c2d50bc627205f24e20919c6fe2.ctv
+翡翠台,http://103.45.68.47:666/gy/gy844/xsj.php?id=feicui
 翡翠台,http://r.jdshipin.com/qrfbg
 翡翠台,http://r.jdshipin.com/qClQf
 翡翠台,https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
