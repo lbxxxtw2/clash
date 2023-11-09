@@ -2,7 +2,6 @@
 翡翠台,http://www.namewee.xyz/gudou.php?id=1350
 翡翠台,https://pi.0472.org/tv/fct.php?auth=202311030915
 翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
-翡翠台,https://pi.0472.org/tv/fct.php?auth=2310201855
 翡翠台,https://epg.pw/stream/90b0d448e52deeb54372ed3d7c0f9afe0617da63fc23f482af47f55710bc7d08.ctv
 翡翠台,https://epg.pw/stream/b43f94b33e3f2222a12195487519c698c65d7c2d50bc627205f24e20919c6fe2.ctv
 翡翠台,http://r.jdshipin.com/qrfbg
@@ -17,7 +16,7 @@ TVB J2,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxHxPuwYBkq3c9qPtWN
 TVB J2,http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032
 TVB J2,https://dispatch.ulivetv.net/v/live/ccns1caueri8.m3u8?
 明珠台,http://ainm.cc/a/play/php/gudou.php?id=mzt#http://r.jdshipin.com/ZQ4kN
-明珠台,https://pi.0472.org/tv/mzt.php?auth=2310201855
+明珠台,https://pi.0472.org/tv/mzt.php?auth=202311030915
 明珠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
 无线新闻台,http://103.45.68.47/gy/gy163/TVB.php?id=2
 无线新闻台,http://live.cooltv.top/tv/tvb.php?id=0
