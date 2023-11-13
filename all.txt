@@ -1,18 +1,10 @@
-翡翠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts
-翡翠台,http://www.namewee.xyz/gudou.php?id=1350
-翡翠台,https://pi.0472.org/tv/fct.php?auth=202311030915
 翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
-翡翠台,https://epg.pw/stream/90b0d448e52deeb54372ed3d7c0f9afe0617da63fc23f482af47f55710bc7d08.ctv
-翡翠台,https://epg.pw/stream/b43f94b33e3f2222a12195487519c698c65d7c2d50bc627205f24e20919c6fe2.ctv
-翡翠台,http://103.45.68.47:666/gy/gy844/xsj.php?id=feicui
-翡翠台,http://r.jdshipin.com/qrfbg
-翡翠台,http://r.jdshipin.com/qClQf
 翡翠台,https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
-翡翠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxCgMBzU9XfDMGLwaGxto_X4/ts
 翡翠台,http://r.jdshipin.com/n90gt
-翡翠台,http://lu1.cc/a/play/php/gudou.php?id=fct
-翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
-翡翠台,http://120.236.57.77:9901/tsfile/live/1076_1.m3u8
+翡翠台,https://sc2022.stream-link.org/tv2306.php?id=h02&checkedby:iptvcat.com
+翡翠台,http://r.jdshipin.com/62WM7
+翡翠台,https://pi.0472.org/tv/fct.php?auth=2309081833
+翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 TVB J2,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxHxPuwYBkq3c9qPtWNUkGtg/ts
 TVB J2,http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032
 TVB J2,http://103.45.68.47:666/gy/gy844/xsj.php?id=j2
