@@ -1,0 +1,736 @@
+{
+    "live": [
+        {
+            "itemid": "uid0000",
+            "name": "翡翠台",
+            "num": "00001",
+            "urllist": "http://103.45.68.47:666/gy/gy817/豆豆.php?id=1350_4500"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "翡翠台",
+            "num": "00002",
+            "urllist": "http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "翡翠台",
+            "num": "00003",
+            "urllist": "http://r.jdshipin.com/n90gt"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "翡翠台",
+            "num": "00004",
+            "urllist": "https://sc2022.stream-link.org/tv2306.php?id=h02&checkedby:iptvcat.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "翡翠台",
+            "num": "00005",
+            "urllist": "http://r.jdshipin.com/62WM7"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "翡翠台",
+            "num": "00006",
+            "urllist": "https://pi.0472.org/tv/fct.php?auth=2309081833"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "翡翠台",
+            "num": "00007",
+            "urllist": "https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "TVB J2",
+            "num": "00008",
+            "urllist": "http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxHxPuwYBkq3c9qPtWNUkGtg/ts"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "TVB J2",
+            "num": "00009",
+            "urllist": "http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "TVB J2",
+            "num": "00010",
+            "urllist": "http://103.45.68.47:666/gy/gy844/xsj.php?id=j2"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "TVB J2",
+            "num": "00011",
+            "urllist": "https://dispatch.ulivetv.net/v/live/ccns1caueri8.m3u8?"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "明珠台",
+            "num": "00012",
+            "urllist": "http://ainm.cc/a/play/php/gudou.php?id=mzt#http://r.jdshipin.com/ZQ4kN"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "明珠台",
+            "num": "00013",
+            "urllist": "https://pi.0472.org/tv/mzt.php?auth=202311030915"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "明珠台",
+            "num": "00014",
+            "urllist": "http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "无线新闻台",
+            "num": "00015",
+            "urllist": "http://103.45.68.47/gy/gy163/TVB.php?id=2"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "无线新闻台",
+            "num": "00016",
+            "urllist": "http://live.cooltv.top/tv/tvb.php?id=0"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "无线新闻台",
+            "num": "00017",
+            "urllist": "https://epg.pw/stream/910ef14a8e43064a71b46c9cd8c9dbc07a743742a2e048372936aacfa2c0db53.ctv"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "无线新闻台",
+            "num": "00018",
+            "urllist": "https://epg.pw/stream/ba4c5958a71b186772a834e2e0874a3d3389f9dc41d3d563c50dc07273c38b8e.ctv"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "无线新闻台",
+            "num": "00019",
+            "urllist": "https://epg.pw/stream/61f17fbba48271a6195cb5969b4207d5b152993ad4f225b88ec13c630863bb84.ctv"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "无线新闻台",
+            "num": "00020",
+            "urllist": "https://epg.pw/stream/2da5c502746b28cbfa6e5dbe1dfad3e6267d87a90aca143972f750babd778c6e.ctv"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "无线新闻台",
+            "num": "00021",
+            "urllist": "https://epg.pw/stream/7673962ca22c9a4a0c3082d40a3374943c5d26c4113634b42306933c642ebc08.ctv"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "无线财经资讯台",
+            "num": "00022",
+            "urllist": "http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxNR4FqM3EgPoN7yqNVDCIzY/ts"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "无线财经资讯台",
+            "num": "00023",
+            "urllist": "https://epg.pw/stream/8dcda10eb1debea0dc3c59d849d382dc315925c6e2952b37402e94cd6aa2098e.ctv"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "无线财经资讯台",
+            "num": "00024",
+            "urllist": "http://50.7.238.114:8278/tvbcaijing_twn/playlist.m3u8?tid=MD3D9552893795528937&ct=19254&tsum=77d4c2db4fa7537d7dd3eb19f933526d"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "无线娱乐新闻台",
+            "num": "00025",
+            "urllist": "http://line.premiumpowers.net/play/live.php?mac=00:1A:79:69:40:42&extension=ts&stream=571188"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "无线娱乐新闻台",
+            "num": "00026",
+            "urllist": "https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "TVB亞洲剧",
+            "num": "00027",
+            "urllist": "https://epg.pw/stream/c88adc69fe22cc05c7ff2984ad14db99f461e6dda12687cb7bbaf5e03a357a38.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "TVB亞洲剧",
+            "num": "00028",
+            "urllist": "https://epg.pw/stream/a4696392133577ed03dbedefe5c18c3c7a178b0899b2f814fa6c532bc521f8f4.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "有线新闻台",
+            "num": "00029",
+            "urllist": "https://epg.pw/stream/ddcee8ae223200a8e79c3d10f153c7b9ad14ead3449536d9cf0d3a7272aef0f8.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "有线新闻台",
+            "num": "00030",
+            "urllist": "https://epg.pw/stream/cb206191db20ab3776f20fa69ee8db6d329d213c60c9d6acafab79e4bdadb357.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "有线新闻台",
+            "num": "00031",
+            "urllist": "https://epg.pw/stream/62de1488de6d094fddcbafd642b00abd04b1b64bfa9fc78485895a51ecfb90f7.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "Viu TV",
+            "num": "00032",
+            "urllist": "https://epg.pw/stream/54f8a444681bccbbbddd88dabfea261a54d4e032c0fa06851af993e450bc33af.ctv"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "ViuTV6",
+            "num": "00033",
+            "urllist": "https://epg.pw/stream/e3b6ef61296cb3a88c8940bf8d296959a56b9ab06d5299f75dd9334205ec9d14.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "ViuTV6",
+            "num": "00034",
+            "urllist": "https://epg.pw/stream/ce997cdceb30bec1b3e49630af6fef6a52231dd3b92a47a46be268eb4d403ec7.ctv香港卫视,http://107.151.203.111:2209/135/hk.php?id=hkws"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "香港卫视",
+            "num": "00035",
+            "urllist": "http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "香港卫视",
+            "num": "00036",
+            "urllist": "http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "香港卫视",
+            "num": "00037",
+            "urllist": "http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "RTHK32",
+            "num": "00038",
+            "urllist": "https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "RTHK32",
+            "num": "00039",
+            "urllist": "https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "RTHK32",
+            "num": "00040",
+            "urllist": "https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "RTHK32",
+            "num": "00041",
+            "urllist": "http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "RTHK32",
+            "num": "00042",
+            "urllist": "https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "RTHK32",
+            "num": "00043",
+            "urllist": "https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "澳亚卫视",
+            "num": "00044",
+            "urllist": "https://pi.0472.org/tv/aoya.php?auth=2310201855"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "澳亚卫视",
+            "num": "00045",
+            "urllist": "https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "莲花卫视",
+            "num": "00046",
+            "urllist": "https://cntv.sbs/tv/lhws.php"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "澳门莲花",
+            "num": "00047",
+            "urllist": "http://107.151.203.111:2209/135/hk.php?id=amlh"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "凤凰香港",
+            "num": "00048",
+            "urllist": "http://php.17186.eu.org:80/phtv/fhxg.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "凤凰香港",
+            "num": "00049",
+            "urllist": "http://php.17186.eu.org/phtv/fhhk.flv"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "凤凰香港",
+            "num": "00050",
+            "urllist": "http://lcx-olt.8866.org:8181/tsfile/live/1071_1.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "凤凰香港",
+            "num": "00051",
+            "urllist": "http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "凤凰香港",
+            "num": "00052",
+            "urllist": "http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "凤凰香港",
+            "num": "00053",
+            "urllist": "http://39.135.138.58:18890/PLTV/88888888/224/3221226251/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "凤凰香港",
+            "num": "00054",
+            "urllist": "http://113.117.74.23:8081/hls/38/index.m3u8#http://php.17186.eu.org/phtv/fhhk.m3u8#http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8、"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "凤凰中文",
+            "num": "00055",
+            "urllist": "http://php.17186.eu.org:80/phtv/fhzw.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "凤凰中文",
+            "num": "00056",
+            "urllist": "http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "凤凰中文",
+            "num": "00057",
+            "urllist": "http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "凤凰中文",
+            "num": "00058",
+            "urllist": "http://php.17186.eu.org/phtv/fhzw.flv"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "凤凰中文",
+            "num": "00059",
+            "urllist": "http://php.17186.eu.org/phtv/asfj/fhzw.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "凤凰中文",
+            "num": "00060",
+            "urllist": "http://php.17186.eu.org/phtv/fhzw.flv"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "凤凰中文",
+            "num": "00061",
+            "urllist": "http://php.17186.eu.org/phtv/fhzw.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "凤凰中文",
+            "num": "00062",
+            "urllist": "http://r.jdshipin.com/cCCzW"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "凤凰中文",
+            "num": "00063",
+            "urllist": "http://198.16.100.90:8278/phoenixtv_hd/playlist.m3u8?tid=MFBF2713938527139385&ct=19225&tsum=1c8ca0899277714ab83db57245220068"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "凤凰中文",
+            "num": "00064",
+            "urllist": "http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "凤凰资讯",
+            "num": "00065",
+            "urllist": "http://php.17186.eu.org:80/phtv/fhzx.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "凤凰资讯",
+            "num": "00066",
+            "urllist": "http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "凤凰资讯",
+            "num": "00067",
+            "urllist": "http://php.17186.eu.org/phtv/fhzx.flv"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "凤凰资讯",
+            "num": "00068",
+            "urllist": "http://php.17186.eu.org/phtv/asfj/fhzx.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "凤凰资讯",
+            "num": "00069",
+            "urllist": "http://php.17186.eu.org/phtv/fhzx.flv"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "凤凰资讯",
+            "num": "00070",
+            "urllist": "http://php.17186.eu.org/phtv/fhzx.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "凤凰资讯",
+            "num": "00071",
+            "urllist": "http://r.jdshipin.com/0Rp07"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "凤凰资讯",
+            "num": "00072",
+            "urllist": "http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8#http://50.7.238.114:8278/phoenixinfo_hd/playlist.m3u8?tid=MB5B7253262872532628&ct=19249&tsum=e2b2dcd00f39adb64b6c03601da1e0e0#http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxOWMNRRmQ4GoB2umIvUvoJg/ts"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "凤凰电影",
+            "num": "00073",
+            "urllist": "http://lcx-olt.8866.org:8181/tsfile/live/1074_1.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "凤凰电影",
+            "num": "00074",
+            "urllist": "http://111.59.189.40:8445/tsfile/live/1022_1.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "香港衛視文旅",
+            "num": "00075",
+            "urllist": "https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "广东体育",
+            "num": "00076",
+            "urllist": "http://gmxw.7766.org:808/hls/2/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "TVBS",
+            "num": "00077",
+            "urllist": "http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "TVBS",
+            "num": "00078",
+            "urllist": "http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "TVBS",
+            "num": "00079",
+            "urllist": "http://38.64.72.148/hls/modn/list/4006/playlist.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "TVBS",
+            "num": "00080",
+            "urllist": "http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601&ct=19249&tsum=513a9dcb42fa8b98e1792d513dd3e2ee"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "TVBS",
+            "num": "00081",
+            "urllist": "https://epg.pw/stream/12a215629774049468d1cbe7e6e4d668b32960b72fcfa034ac8269f1300c1270.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "TVBS",
+            "num": "00082",
+            "urllist": "https://epg.pw/stream/e5ea85f8c05b463598deb2bd3490272191a18b6235807e15ce8876809c014396.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "TVBS亞洲",
+            "num": "00083",
+            "urllist": "http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "TVBS亞洲",
+            "num": "00084",
+            "urllist": "http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "TVBS亞洲",
+            "num": "00085",
+            "urllist": "http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "中天综合",
+            "num": "00086",
+            "urllist": "http://50.7.238.114:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "中天新闻",
+            "num": "00087",
+            "urllist": "http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxMlF8Uc6ZwzdhEsFnSz2QeU/ts"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "中天新闻",
+            "num": "00088",
+            "urllist": "http://50.7.238.114:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "中天娱乐",
+            "num": "00089",
+            "urllist": "http://162.19.247.76:22222/live/ztyl/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "中天娱乐",
+            "num": "00090",
+            "urllist": "http://198.16.100.90:8278/ctient/playlist.m3u8?tid=m6780c60bd34a13540795&ct=17874&tsum=06089e289a460b0685447b7656d550e3"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "东森综合",
+            "num": "00091",
+            "urllist": "http://198.16.100.90:8278/ettvzhonghe/playlist.m3u8?tid=MC4C1214674912146749&ct=19254&tsum=9b96a50ba99dca1a02a27b05a6fb4b0d"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "东森综合",
+            "num": "00092",
+            "urllist": "http://50.7.238.114:8278/ettvzhonghe/playlist.m3u8?tid=MC4C1214674912146749&ct=19254&tsum=9b96a50ba99dca1a02a27b05a6fb4b0d"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "东森新闻",
+            "num": "00093",
+            "urllist": "http://198.16.100.90:8278/ettvnews/playlist.m3u8?tid=MC4C3328955833289558&ct=19249&tsum=d68431432600bbf503d95f629f3acc11"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "东森电影",
+            "num": "00094",
+            "urllist": "http://lcx-olt.8866.org:8181/tsfile/live/1075_1.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "东森电影",
+            "num": "00095",
+            "urllist": "http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "东森电影",
+            "num": "00096",
+            "urllist": "http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "东森戏剧",
+            "num": "00097",
+            "urllist": "http://198.16.100.90:8278/ettvdrama/playlist.m3u8?tid=MA2A9945921599459215&ct=19249&tsum=c9097ecdf4a17c0922196dbf04b0c6e7"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "东森戏剧",
+            "num": "00098",
+            "urllist": "http://50.7.238.114:8278/ettvdrama/playlist.m3u8?tid=MA2A9945921599459215&ct=19249&tsum=c9097ecdf4a17c0922196dbf04b0c6e7"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "东森戏剧",
+            "num": "00099",
+            "urllist": "http://162.19.247.76:22222/live/dsxj/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "东森财经",
+            "num": "00100",
+            "urllist": "http://50.7.238.114:8278/ettvcaijing_twn/playlist.m3u8?tid=m999b5a0f7fca17599138&ct=17874&tsum=345085d2d6d4401fdb3da968dfee5a54"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "东森超视",
+            "num": "00101",
+            "urllist": "http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "东森超视",
+            "num": "00102",
+            "urllist": "http://50.7.238.114:8278/ettvsuper/playlist.m3u8?tid=MB0B9022098390220983&ct=19249&tsum=594e3a93afe766cf27fd21b8addee391"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "台视新闻",
+            "num": "00103",
+            "urllist": "http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "台视新闻",
+            "num": "00104",
+            "urllist": "http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "民视新闻",
+            "num": "00105",
+            "urllist": "http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "民视新闻",
+            "num": "00106",
+            "urllist": "http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "民视新闻",
+            "num": "00107",
+            "urllist": "http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "民视新闻",
+            "num": "00108",
+            "urllist": "http://38.64.72.148/hls/modn/list/4012/playlist.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "三立台湾",
+            "num": "00109",
+            "urllist": "https://epg.pw/stream/cc4cae00306d97a1a7525911ee10a1983538f96a7fc920e563352cdd10002b36.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "三立台湾",
+            "num": "00110",
+            "urllist": "https://epg.pw/stream/6cbb5a395d787bd3f6333051a9436880165517d14c0cf42385908f669b061e88.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "三立台湾",
+            "num": "00111",
+            "urllist": "https://epg.pw/stream/c7dbae714c89491ea3eea1f746be7982f4fa8a8c81d67b3854ff67d46931a191.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "三立台湾",
+            "num": "00112",
+            "urllist": "https://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678506~exp=9007200919419497~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=cfd432e7da8eece68fe4a4da3a3bc08ab1bbc50b147a84c95ae3d4a569e932b1"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "三立都会",
+            "num": "00113",
+            "urllist": "https://epg.pw/stream/b49c002c700cdbcd7cb82dceff7a4a3029193d5edb6ce9e216d0c338e352856d.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "三立都会",
+            "num": "00114",
+            "urllist": "https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "华视",
+            "num": "00115",
+            "urllist": "http://162.19.247.76:22222/live/huashi/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "中视",
+            "num": "00116",
+            "urllist": "http://162.19.247.76:22222/live/zhongshi/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "中视HD",
+            "num": "00117",
+            "urllist": "https://epg.pw/stream/ebf76ae4777c4e7ba677d629f4c3b71d25913fdaf6e0f7d04f41e5f6138f7698.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "大立電视",
+            "num": "00118",
+            "urllist": "http://www.dalitv.com.tw:4568/live/dali/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "人间卫视",
+            "num": "00119",
+            "urllist": "http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "人间卫视",
+            "num": "00120",
+            "urllist": "https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "人间卫视",
+            "num": "00121",
+            "urllist": "https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8"
+        }
+    ],
+    "type": [
+        {
+            "id": "uid0000",
+            "name": "=未分组="
+        }
+    ]
+}
