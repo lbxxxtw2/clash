@@ -1,4 +1,4 @@
-港澳频道,#genre#
+港澳,#genre#
 翡翠台,https://sc2022.stream-link.org/tv2306.php?id=h01
 翡翠台,https://epg.pw/stream/0e22249951c49760b078dc8b0ba7751cd2f13d69964892dddb16160127171c2c.ctv
 翡翠台,http://s1.dtmb-s1.cc/dvb-steam/81/index.m3u8?token=N82zio4AYAUK9cyndrbm6g&expires=1700661983
@@ -38,7 +38,7 @@ Now精選體育,https://sc2022.stream-link.org/tv2306.php?id=s01
 鳳凰衛視中文台,https://sc2022.stream-link.org/tv2306.php?id=h19
 澳門蓮花衛視,https://sc2022.stream-link.org/tv2306.php?id=h20
 五星體育,https://sc2022.stream-link.org/tv2306.php?id=s02
-台湾频道,#genre#
+台湾,#genre#
 東森新聞,https://sc2022.stream-link.org/tv2306.php?id=t01
 東森財經新聞,https://sc2022.stream-link.org/tv2306.php?id=t02
 中天新聞,https://sc2022.stream-link.org/tv2306.php?id=t03
@@ -80,7 +80,7 @@ History歷史頻道,https://sc2022.stream-link.org/tv2306.php?id=t35
 靖天日本台,https://sc2022.stream-link.org/tv2306.php?id=t36
 靖天電影台,https://sc2022.stream-link.org/tv2306.php?id=t37
 ELTA娛樂台,https://sc2022.stream-link.org/tv2306.php?id=t38
-国际频道,#genre#
+国际,#genre#
 中央新聞台,https://sc2022.stream-link.org/tv2306.php?id=h14
 Love Nature,https://sc2022.stream-link.org/tv2306.php?id=t39
 Jelli,http://s1.dtmb-s1.cc/ott-steam/108/index.m3u8?token=a-2yUVJYwzYVoDAL2O-AOg&expires=1700661983
