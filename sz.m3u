@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="EPG" tvg-name="EPG(電子節目單)" tvg-logo="https://www.stream-link.org/tv_logo/stream_link_logo.png" group-title="SL",EPG下載(https://www.stream-link.org/epg/guide.xml)
-http://www.stream-link.org/epg/guide.xml
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="http://hklive.tv/png_logo/81.png" group-title="[DTMB] 602MHz",翡翠台
 http://s1.dtmb-s1.cc/dvb-steam/81/index.m3u8?token=N82zio4AYAUK9cyndrbm6g&expires=1700661983
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="http://hklive.tv/png_logo/81.png" group-title="[DTMB] 602MHz",翡翠台
