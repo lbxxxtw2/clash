@@ -80,7 +80,7 @@ History歷史頻道,https://sc2022.stream-link.org/tv2306.php?id=t35
 靖天日本台,https://sc2022.stream-link.org/tv2306.php?id=t36
 靖天電影台,https://sc2022.stream-link.org/tv2306.php?id=t37
 ELTA娛樂台,https://sc2022.stream-link.org/tv2306.php?id=t38
-国际,#genre#
+国际频道,#genre#
 中央新聞台,https://sc2022.stream-link.org/tv2306.php?id=h14
 Love Nature,https://sc2022.stream-link.org/tv2306.php?id=t39
 Jelli,http://s1.dtmb-s1.cc/ott-steam/108/index.m3u8?token=a-2yUVJYwzYVoDAL2O-AOg&expires=1700661983
