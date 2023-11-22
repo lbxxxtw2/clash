@@ -2,9 +2,13 @@
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="http://hklive.tv/png_logo/81.png" group-title="[DTMB] 602MHz",翡翠台
 http://s1.dtmb-s1.cc/dvb-steam/81/index.m3u8?token=N82zio4AYAUK9cyndrbm6g&expires=1700661983
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="http://hklive.tv/png_logo/81.png" group-title="[DTMB] 602MHz",翡翠台
+https://epg.pw/stream/0e22249951c49760b078dc8b0ba7751cd2f13d69964892dddb16160127171c2c.ctv
+#EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="http://hklive.tv/png_logo/81.png" group-title="[DTMB] 602MHz",翡翠台
 https://sc2022.stream-link.org/tv2306.php?id=h01
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="http://hklive.tv/png_logo/81.png" group-title="[DTMB] 602MHz",翡翠台
-https://sc2022.stream-link.org/tv2306.php?id=h02
+https://epg.pw/stream/eacc8839c893bd08bff7894a40e012e551fe159dea4eb1d40254254bd4cf1044.ctv
+#EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="http://hklive.tv/png_logo/81.png" group-title="[DTMB] 602MHz",翡翠台
+https://epg.pw/stream/1417f1ccf5d6c9900879891d523bc18cfe17c644a5af97efa6f727d5f4f8ef7d.m3u8
 #EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="http://hklive.tv/png_logo/82.png" group-title="[DTMB] 586MHz",J2台
 http://s1.dtmb-s1.cc/dvb-steam/82/index.m3u8?token=BN-ToWY21E2AIT1ooFcBhg&expires=1700661983
 #EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="http://hklive.tv/png_logo/82.png" group-title="[DTMB] 586MHz",J2台
@@ -25,6 +29,12 @@ https://sc2022.stream-link.org/tv2306.php?id=h05
 https://sc2022.stream-link.org/tv2306.php?id=h07
 #EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="http://hklive.tv/png_logo/99.png" group-title="[DTMB] 602MHz",ViuTV
 http://s1.dtmb-s1.cc/dvb-steam/99/index.m3u8?token=3lD_QTTW4y9KWX7guBC7gQ&expires=1700661983
+#EXTINF:-1 tvg-id="102" tvg-name="Viu" tvg-logo="http://hklive.tv/png_logo/102.png" group-title="[OTT/Web] NOW TV",Viu
+https://epg.pw/stream/8364f173f45162eb4dda2149f59a9e84544fe18360b5f998512210bfca8211a4.ctv
+#EXTINF:-1 tvg-id="102" tvg-name="Viu" tvg-logo="http://hklive.tv/png_logo/102.png" group-title="[OTT/Web] NOW TV",Viu
+http://s1.dtmb-s1.cc/ott-steam/102/index.m3u8?token=5Jw8ZahfzcW0_hXZ_zv0oA&expires=1700661983
+#EXTINF:-1 tvg-id="96" tvg-name="ViuTV Six" tvg-logo="http://hklive.tv/png_logo/96.png" group-title="[DTMB] 602MHz",ViuTV Six
+https://epg.pw/stream/e3b6ef61296cb3a88c8940bf8d296959a56b9ab06d5299f75dd9334205ec9d14.m3u8
 #EXTINF:-1 tvg-id="96" tvg-name="ViuTV Six" tvg-logo="http://hklive.tv/png_logo/96.png" group-title="[DTMB] 602MHz",ViuTV Six
 http://s1.dtmb-s1.cc/dvb-steam/96/index.m3u8?token=tE06mmI3LoWODRz2xM6DGA&expires=1700661983
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV99" tvg-logo="https://www.stream-link.org/tv_logo/viutv.png" group-title="香港電視娛樂",ViuTV99
@@ -45,8 +55,6 @@ http://s1.dtmb-s1.cc/dvb-steam/77/index.m3u8?token=OexLs8sMxgetr_HuraUxVQ&expire
 http://s1.dtmb-s1.cc/dvb-steam/78/index.m3u8?token=sxSRKFi96d5ZTG-F0jHKMg&expires=1700661983
 #EXTINF:-1 tvg-id="76" tvg-name="香港國際財經台" tvg-logo="http://hklive.tv/png_logo/76.png" group-title="[DTMB] 482MHz",HOY 國際財經台
 http://s1.dtmb-s1.cc/dvb-steam/76/index.m3u8?token=wNbM6PdkY55TDeXAzlrTzA&expires=1700661983
-#EXTINF:-1 tvg-id="102" tvg-name="Viu" tvg-logo="http://hklive.tv/png_logo/102.png" group-title="[OTT/Web] NOW TV",Viu
-http://s1.dtmb-s1.cc/ott-steam/102/index.m3u8?token=5Jw8ZahfzcW0_hXZ_zv0oA&expires=1700661983
 #EXTINF:-1 tvg-id="108" tvg-name="Viu" tvg-logo="http://hklive.tv/png_logo/108.png" group-title="[OTT/Web] NOW TV",Jelli
 http://s1.dtmb-s1.cc/ott-steam/108/index.m3u8?token=a-2yUVJYwzYVoDAL2O-AOg&expires=1700661983
 #EXTINF:-1 tvg-id="133" tvg-name="Viu" tvg-logo="http://hklive.tv/png_logo/133.png" group-title="[OTT/Web] NOW TV",Popcorn
