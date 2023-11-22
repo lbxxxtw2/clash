@@ -183,8 +183,6 @@ CCTV女性時尚,http://111.20.40.170/PLTV/88888893/224/3221226969/index.m3u8
 内蒙古农牧频道,https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800
 内蒙古蒙语卫视,https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
 内蒙古蒙语文化,https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
-
-
 通道时政,http://live.tongdaotv.com:8087/live/tdtv.m3u8
 CEC国际教育[720*540],http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
 江苏卫视,https://live.goodiptv.club/api/bestv.php?id=jswshd8m/8000000
