@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="http://hklive.tv/png_logo/81.png" group-title="[DTMB] 602MHz",翡翠台
-http://s1.dtmb-s1.cc/dvb-steam/81/index.m3u8?token=N82zio4AYAUK9cyndrbm6g&expires=1700661983
-#EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="http://hklive.tv/png_logo/81.png" group-title="[DTMB] 602MHz",翡翠台
 https://epg.pw/stream/0e22249951c49760b078dc8b0ba7751cd2f13d69964892dddb16160127171c2c.ctv
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="http://hklive.tv/png_logo/81.png" group-title="[DTMB] 602MHz",翡翠台
 https://sc2022.stream-link.org/tv2306.php?id=h01
