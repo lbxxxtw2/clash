@@ -32,8 +32,6 @@ Viu TV,https://epg.pw/stream/54f8a444681bccbbbddd88dabfea261a54d4e032c0fa06851af
 ViuTV6,https://epg.pw/stream/e3b6ef61296cb3a88c8940bf8d296959a56b9ab06d5299f75dd9334205ec9d14.m3u8
 ViuTV6,https://epg.pw/stream/ce997cdceb30bec1b3e49630af6fef6a52231dd3b92a47a46be268eb4d403ec7.ctv香港卫视,http://107.151.203.111:2209/135/hk.php?id=hkws
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
-香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
 RTHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
 RTHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8
