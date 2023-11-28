@@ -75,19 +75,19 @@ RTHK32,https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 香港衛視文旅,https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
 
-TVB翡翠台,http://r.jdshipin.com/qClQf
-TVB翡翠台,http://113.64.147.180:8081/hls/67/index.m3u8
-TVB翡翠台,http://r.jdshipin.com/62WM7
-TVB翡翠台,http://r.jdshipin.com/n90gt
-TVB翡翠台,http://113.117.74.20:8081/hls/25/index.m3u8
-TVB翡翠台,http://120.236.57.77:9901/tsfile/live/1076_1.m3u8
-TVB明珠,http://r.jdshipin.com/ZQ4kN
-TVB明珠,http://113.64.147.180:8081/hls/26/index.m3u8
-TVB明珠,http://113.117.74.20:8081/hls/26/index.m3u8
-J2@频道,http://107.167.12.58:27347/livehttpplay?channel_id=30030
-J2@频道,http://107.167.12.58:27347/livehttpplay?channel_id=30023
-J2@频道,http://107.167.12.58:27347/livehttpplay?channel_id=20122
-J2@频道,http://andychuxdd.asuscomm.com:9981/stream/channelid/1563650536?profile=pass
+翡翠台,http://r.jdshipin.com/qClQf
+翡翠台,http://113.64.147.180:8081/hls/67/index.m3u8
+翡翠台,http://r.jdshipin.com/62WM7
+翡翠台,http://r.jdshipin.com/n90gt
+翡翠台,http://113.117.74.20:8081/hls/25/index.m3u8
+翡翠台,http://120.236.57.77:9901/tsfile/live/1076_1.m3u8
+明珠台,http://r.jdshipin.com/ZQ4kN
+明珠台,http://113.64.147.180:8081/hls/26/index.m3u8
+明珠台,http://113.117.74.20:8081/hls/26/index.m3u8
+TVB J2,http://107.167.12.58:27347/livehttpplay?channel_id=30030
+TVB J2,http://107.167.12.58:27347/livehttpplay?channel_id=30023
+TVB J2,http://107.167.12.58:27347/livehttpplay?channel_id=20122
+TVB J2,http://andychuxdd.asuscomm.com:9981/stream/channelid/1563650536?profile=pass
 有線新聞,http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8
 TVB娱乐.新闻,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153504
 TVB 星河,http://nsszds.f3322.net:8081/hls/135/index.m3u8
@@ -267,7 +267,45 @@ MO,rtmp://119.81.124.89/sat/tv761
 緯來,rtmp://119.81.124.89/sat/tv771
 
 广东,#genre#
+广东珠江,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=gdzhujiang_1500&/PLTV/hls.smil.m3u8
 广东体育,http://gmxw.7766.org:808/hls/2/index.m3u8
+广东公共,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=gdpublic_1500&/PLTV/hls.smil.m3u8
+广东新闻,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=gdnews_1500&/PLTV/hls.smil.m3u8
+南方卫视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=gdnanfang_1500&/PLTV/hls.smil.m3u8
+广东经视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=GDjingjikejiaoHD_3000&/PLTV/hls.smil.m3u8
+广东综艺,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=gdzongyi_1500&/PLTV/hls.smil.m3u8
+广东房产,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=fangchan_1500&/PLTV/hls.smil.m3u8
+珠江电影,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=zjfilms_1500&/PLTV/hls.smil.m3u8
+现代教育,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=xiandaijiaoyu_1500&/PLTV/hls.smil.m3u8
+广州综合,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=guangzhou_1500&/PLTV/hls.smil.m3u8
+广州新闻,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=gznews_1500&/PLTV/hls.smil.m3u8
+广州经济,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=gzeconomic_1500&/PLTV/hls.smil.m3u8
+广州生活,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=gzlife_1500&/PLTV/hls.smil.m3u8
+广州竞赛,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=gzcompetition_1500&/PLTV/hls.smil.m3u8
+广州影视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=gzfilms_1500&/PLTV/hls.smil.m3u8
+广州少儿,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=gzchild_1500&/PLTV/hls.smil.m3u8
+新会综合,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=xinhui_1500&/PLTV/hls.smil.m3u8
+湛江综合,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=zhanjiangzonghe_1500&/PLTV/hls.smil.m3u8
+韶关综合,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=saiaiguanzonghe_1500&/PLTV/hls.smil.m3u8
+韶关公共,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=saiaiguangonggong_1500&/PLTV/hls.smil.m3u8
+博罗经典,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=boluojingdian_1500&/PLTV/hls.smil.m3u8
+云浮一套,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=yunfuyitao_1500&/PLTV/hls.smil.m3u8
+云浮二套,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=yunfuertao_1500&/PLTV/hls.smil.m3u8
+珠海一套,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=zhuhaiyitao_1500&/PLTV/hls.smil.m3u8
+珠海二套,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=zhuhaiertao_1500&/PLTV/hls.smil.m3u8
+江门一套,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=jiangmenyitao_1500&/PLTV/hls.smil.m3u8
+江门二套,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=jiangmenertao_1500&/PLTV/hls.smil.m3u8
+中山一套,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=zhongshanyitao_1500&/PLTV/hls.smil.m3u8
+中山二套,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=zhongshanertao_1500&/PLTV/hls.smil.m3u8
+河源一套,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=heyuanyitao_1500&/PLTV/hls.smil.m3u8
+河源二套,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=heyuanertao_1500&/PLTV/hls.smil.m3u8
+肇庆一套,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=zaiaiqingyitao_1500&/PLTV/hls.smil.m3u8
+肇庆二套,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=zaiaiqingertao_1500&/PLTV/hls.smil.m3u8
+惠州一套,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=huizhouyitao_1500&/PLTV/hls.smil.m3u8
+惠州二套,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=huizhouertao_1500&/PLTV/hls.smil.m3u8
+汕头一套,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=shantouyitaogaoqing_1500&/PLTV/hls.smil.m3u8
+汕头二套,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=shantouertaogaoqing_1500&/PLTV/hls.smil.m3u8
+汕头三套,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=shantousantaogaoqing_1500&/PLTV/hls.smil.m3u8
 珠海1套新闻综合频道,https://zhtv-tsl.cutv.com/zZGtroL/11qz9G0.m3u8
 珠海2套生活频道,https://zhtv-tsl.cutv.com/HtyU8ou/42lH9y0.m3u8
 河源综合频道,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
