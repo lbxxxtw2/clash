@@ -8,7 +8,6 @@
 翡翠台,http://r.jdshipin.com/62WM7
 TVB J2,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxHxPuwYBkq3c9qPtWNUkGtg/ts
 TVB J2,http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032
-TVB J2,http://103.45.68.47:666/gy/gy844/xsj.php?id=j2
 TVB J2,https://dispatch.ulivetv.net/v/live/ccns1caueri8.m3u8?
 明珠台,http://ainm.cc/a/play/php/gudou.php?id=mzt#http://r.jdshipin.com/ZQ4kN
 明珠台,https://pi.0472.org/tv/mzt.php?auth=202311030915
