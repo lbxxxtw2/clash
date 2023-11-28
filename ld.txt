@@ -123,7 +123,9 @@ TVB 星河,http://nsszds.f3322.net:8081/hls/135/index.m3u8
 广东体育,http://218.17.196.234:9901/tsfile/live/1001_1.m3u8
 广东体育,http://gxdl-lhs.8866.org:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://223.109.210.41/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8
-深圳电视台都市频道,http://livepull-tcyzb.sztv.com.cn/live/dushi01.m3u8
+深圳公共频道,http://gmxw.7766.org:808/hls/156/index.m3u8
+深圳公共频道,http://223.109.210.41/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel52/index.m3u8
+深圳都市频道,http://livepull-tcyzb.sztv.com.cn/live/dushi01.m3u8
 珠海1套新闻综合频道,https://zhtv-tsl.cutv.com/zZGtroL/cqztG0r.m3u8
 河源综合频道,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 河源公共频道,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
