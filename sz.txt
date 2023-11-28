@@ -37,7 +37,8 @@ Now精選體育,https://sc2022.stream-link.org/tv2306.php?id=s01
 鳳凰衛視資訊台,https://sc2022.stream-link.org/tv2306.php?id=h18
 鳳凰衛視中文台,https://sc2022.stream-link.org/tv2306.php?id=h19
 澳門蓮花衛視,https://sc2022.stream-link.org/tv2306.php?id=h20
-五星體育,https://sc2022.stream-link.org/tv2306.php?id=s02
+
+
 台湾,#genre#
 東森新聞,https://sc2022.stream-link.org/tv2306.php?id=t01
 東森財經新聞,https://sc2022.stream-link.org/tv2306.php?id=t02
