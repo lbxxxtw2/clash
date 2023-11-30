@@ -1,19 +1,7 @@
 港澳,#genre#
-翡翠台,http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
-翡翠台,https://pi.0472.org/tv/fct.php?auth=231122
-翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
-翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
 翡翠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts
-翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,http://www.namewee.xyz/gudou.php?id=1350
-翡翠台,http://r.jdshipin.com/n90gt
-翡翠台,http://lu1.cc/tv/php/gudou.php?id=fct
-翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
-翡翠台,http://r.jdshipin.com/qClQf
-翡翠台,http://113.64.147.180:8081/hls/67/index.m3u8
-翡翠台,http://113.117.74.20:8081/hls/25/index.m3u8
 翡翠台,http://120.236.57.77:9901/tsfile/live/1076_1.m3u8
-明珠台,http://r.jdshipin.com/ZQ4kN
 TVB J2,http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70
 TVB J2,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxHxPuwYBkq3c9qPtWNUkGtg/ts
 TVB J2,http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032
@@ -22,17 +10,8 @@ TVB J2,http://107.167.12.58:27347/livehttpplay?channel_id=30030
 TVB J2,http://107.167.12.58:27347/livehttpplay?channel_id=30023
 TVB J2,http://107.167.12.58:27347/livehttpplay?channel_id=20122
 TVB J2,http://andychuxdd.asuscomm.com:9981/stream/channelid/1563650536?profile=pass
-明珠台,http://ainm.cc/a/play/php/gudou.php?id=mzt#http://r.jdshipin.com/ZQ4kN
-明珠台,https://pi.0472.org/tv/mzt.php?auth=202311030915
-明珠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
 明珠台,http://113.64.147.180:8081/hls/26/index.m3u8
-明珠台,http://113.117.74.20:8081/hls/26/index.m3u8
-无线新闻台,http://103.45.68.47/gy/gy163/TVB.php?id=2
-无线新闻台,http://live.cooltv.top/tv/tvb.php?id=0
-无线新闻台,https://epg.pw/stream/910ef14a8e43064a71b46c9cd8c9dbc07a743742a2e048372936aacfa2c0db53.ctv
 无线新闻台,https://epg.pw/stream/ba4c5958a71b186772a834e2e0874a3d3389f9dc41d3d563c50dc07273c38b8e.ctv
-无线新闻台,https://epg.pw/stream/61f17fbba48271a6195cb5969b4207d5b152993ad4f225b88ec13c630863bb84.ctv
-无线新闻台,https://epg.pw/stream/2da5c502746b28cbfa6e5dbe1dfad3e6267d87a90aca143972f750babd778c6e.ctv
 无线新闻台,https://epg.pw/stream/7673962ca22c9a4a0c3082d40a3374943c5d26c4113634b42306933c642ebc08.ctv
 无线财经资讯台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxNR4FqM3EgPoN7yqNVDCIzY/ts
 无线财经资讯台,https://epg.pw/stream/8dcda10eb1debea0dc3c59d849d382dc315925c6e2952b37402e94cd6aa2098e.ctv
@@ -87,7 +66,6 @@ RTHK32,https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 凤凰电影,http://lcx-olt.8866.org:8181/tsfile/live/1074_1.m3u8
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 香港衛視文旅,https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
-
 
 
 有線新聞,http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8
