@@ -1,4 +1,5 @@
 港澳,#genre#
+翡翠台,http://s2.dtmb-s2.cc/dvb-steam/81/index.m3u8?token=cHVjw1YlEBSkEgkzd5xlmQ&expires=1701899913
 翡翠台,https://sc2024.stream-link.org/tv2306.php?id=h01
 翡翠台,https://sc2024.stream-link.org/tv2306.php?id=h02
 翡翠台,https://epg.pw/stream/0e22249951c49760b078dc8b0ba7751cd2f13d69964892dddb16160127171c2c.ctv
