@@ -98,6 +98,11 @@ wow tv,https://epg.pw/stream/cb8c7a7a6688d98c77657d009a4b6e1d919539aaedaf5721593
 無線財經台,https://epg.pw/stream/9a5717216f8e5e6563211d66d2867374bfdfdd8a9ee8c48b0de2ddcb3a1f9b0d.ctv
 無線財經台,https://epg.pw/stream/4cfbd8042c72a22081ceec0c87e7bb7ded78a5ea32bb6f709e5375a7304b8d1c.ctv
 翡翠台,https://epg.pw/stream/668e856e77007183b24d51ad4f1289a57781942d4ae10827bb79a92e49e58ea0.ctv
+翡翠台,http://r.jdshipin.com/qClQf
+翡翠台,http://r.jdshipin.com/qrfbg
+翡翠台,http://r.jdshipin.com/GeWKr?id=fct720
+翡翠台,http://r.jdshipin.com/GeWKr?id=fct406
+翡翠台,http://r.jdshipin.com/thuYX
 耀才財經台,https://epg.pw/stream/c1e96c9d6e38145f7631fd9561f310261ef82a236544f7a1770cd1c6479cf2fe.m3u8
 耀才財經台,https://epg.pw/stream/30a1630dfb62c3260e2621263d459105380386fb9228611255d41360969c4a2e.m3u8
 耀才財經台,https://epg.pw/stream/3cb5dbb74bbbd3150891cf1795ae042b33baf187a619dc4ac42aa860dc85bf8e.m3u8
