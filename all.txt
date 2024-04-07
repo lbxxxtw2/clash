@@ -1,4 +1,81 @@
 香港,#genre#
+翡翠台,https://epg.pw/stream/668e856e77007183b24d51ad4f1289a57781942d4ae10827bb79a92e49e58ea0.ctv
+翡翠台,https://pi.0472.org/tv/fct.php?auth=2309081833
+翡翠台,https://iptv.hiper25.com/TVB/video.m3u8
+明珠台,https://epg.pw/stream/00a74ca4020cd952c9e1ff1f90b8f7b9be9c1da4f0a915e1e0aa7c9dfa356197.m3u8
+TVB J2,https://epg.pw/stream/1936e0180ebd92426c3868ef2bdd66c8217fbe9b33c7061122dc46c27ae56c78.ctv
+TVB J2,https://epg.pw/stream/35be49526efe9576baa6ecdfacd7c7b7a91e12d4991a5c65bebfe97313d8aa81.ctv
+TVB J2,https://epg.pw/stream/9a785bebd7cf671d3e5a7dbac74ffb79496585788e9af2bb60760b44109c84ff.ctv
+有线新闻台,https://epg.pw/stream/f5ce037a8e9402092d082473ad564342743a83b1ca784cff0df90236ee980fa9.m3u8
+有线新闻台,https://epg.pw/stream/cb206191db20ab3776f20fa69ee8db6d329d213c60c9d6acafab79e4bdadb357.m3u8
+有线新闻台,https://epg.pw/stream/fa725c21b457ccb2a030aa1febf8143b32e64a705ef842bac4dda6bb1c13f2bf.m3u8
+有线新闻台,https://epg.pw/stream/d51cb354166be0099c5d4fcfd3484b6e6a83849a6dafeaa7a625f2a2fbe24e5f.m3u8
+有线新闻台,https://epg.pw/stream/4e24596fde9c243eb4302e394190972407ee674c0c6a06ea6be4e5d349582cbe.m3u8
+有线新闻台,https://epg.pw/stream/63b7c2d407cfa08936f3ba0654dda7d631b52bf81ea07492219dae2cd78f67cd.m3u8
+有线新闻台,https://epg.pw/stream/b40679c57d10eb253a2e71d1cddfd67abe06c0eb23accc371665e9ff2e670997.ctv
+有线新闻台,https://epg.pw/stream/62de1488de6d094fddcbafd642b00abd04b1b64bfa9fc78485895a51ecfb90f7.m3u8
+有线新闻台,https://epg.pw/stream/ddcee8ae223200a8e79c3d10f153c7b9ad14ead3449536d9cf0d3a7272aef0f8.m3u8
+有线新闻台,https://epg.pw/stream/cea645ef7ddbe09e2dfeaffd5c9c6530e08b8d82a1a648cce5e12e264f3662b4.m3u8
+有线新闻台,https://epg.pw/stream/10311148721256637f60daaa945232de2d91db13870451c92a743a4d24ee08d0.m3u8
+有线新闻台,https://epg.pw/stream/bf4549e66e57de24e2048f146459a212c13a678c085028f75280258c617643bf.m3u8
+有线新闻台,https://epg.pw/stream/85796ae4baf49d8d418849d5a8de11cc916a8c6e0c4b3671ee058e4516bd355d.m3u8
+有线新闻台,https://epg.pw/stream/ea058ab8cd9ae5ff67fea662e7f511166a26a5e95205248dddadb83c59998036.m3u8
+有线新闻台,https://epg.pw/stream/950f4efaa09c59b39332fa295ae36a591264ffb271b9beef138462274c3b7b14.m3u8
+有线新闻台,https://epg.pw/stream/a546fb9f46c4fbd26bfe5b62692b029b734cb147ea737d9bd0e525822acb1a45.m3u8
+有线新闻台,https://epg.pw/stream/37621f3d1d385bf204fa33bd1783610b135e7e7ca6175e1349fec9c4f662ba34.m3u8
+有线财经信息台,https://epg.pw/stream/0fddc0600d3868b05ad741d46294410aebca0fdc4fada5028dc54e624b7b17ca.m3u8
+有线财经资讯,https://epg.pw/stream/e82c1cb2d8c23b892f8ff1ddedd4235df215dc4af511fccfe823471582bda4a0.m3u8
+有线财经资讯,https://epg.pw/stream/e536b24d25d65a1e5ba8dad6f1762956d955f9d857068f79aa03386a75638d17.m3u8
+有线财经资讯,https://epg.pw/stream/23db82730f3b43b390d230a69d0ea0bff90c718930b4616f8815019ad7db1523.m3u8
+有线财经资讯,https://epg.pw/stream/5c4073692c6bfe2a6fcfa1ad9dc419ddf9264bcd61f4fdd78f980235227e8b0f.m3u8
+無線新聞台,https://epg.pw/stream/24ad86b6b170c8279e4b2961c998b8f0837e3217812ead12388ec930f2cb4ca8.ctv
+無線新聞台,https://epg.pw/stream/1d57a34778340406c923ddde53b9bbfd4903d711783cf2d6eda414ce79d59f07.ctv
+無線新聞台,https://epg.pw/stream/cf9a086284373e6083058ffee13a822e2e193f5e19d3ff25b6e90062e4109c89.ctv
+無線財經台,https://epg.pw/stream/9a5717216f8e5e6563211d66d2867374bfdfdd8a9ee8c48b0de2ddcb3a1f9b0d.ctv
+無線財經台,https://epg.pw/stream/4cfbd8042c72a22081ceec0c87e7bb7ded78a5ea32bb6f709e5375a7304b8d1c.ctv
+TVB亞洲劇,https://epg.pw/stream/c88adc69fe22cc05c7ff2984ad14db99f461e6dda12687cb7bbaf5e03a357a38.m3u8
+TVB亞洲劇,https://epg.pw/stream/a4696392133577ed03dbedefe5c18c3c7a178b0899b2f814fa6c532bc521f8f4.m3u8
+TVB亞洲劇,https://epg.pw/stream/5bf2b1b6e25985960785ccef6dc0acddc7424b6fc178ba1530817265e730f56f.m3u8
+TVB亞洲劇,https://epg.pw/stream/546bdd4b82259d8d136893bafc3b1fa4dec137fb88ab10b9fa02b7469bc83a0c.m3u8
+TVB亞洲劇,https://epg.pw/stream/df891b505a8433ebc8b75612066a1cc25b14149d1d52136d6c5e3b19e86aa6cf.m3u8
+TVB亞洲劇,https://epg.pw/stream/3ac58ed08ada7fe3ab14bdbb13805a81339d7f9a66b0753a51af051a4ddfddf0.m3u8
+TVB亞洲劇,https://epg.pw/stream/bce244fa023794cc786b2de797ae2b66b630c1a93aa2f23d2ad31ab0045d830a.m3u8
+TVB亞洲劇,https://epg.pw/stream/7843556b9457c79f5185c8dc71e2c07c55dc12b034635c8075a8847163f8b483.m3u8
+TVB娛樂新聞,https://epg.pw/stream/57737ed82a70288e90bca3ef3b9e7ed3e8b896445947908bd76d4ed3c4ba6c43.m3u8
+TVB星河,https://epg.pw/stream/eee97f3ab8d484adff720fc3c90eb1f280b02264d5d2e3971262bb416aab5767.m3u8
+TVB星河,https://epg.pw/stream/3388eca1a9b5d5c9a7da8bd8b4da3460113b22b0582b44f51a8111fc90f91749.m3u8
+Viu TV,https://epg.pw/stream/e063ee2925c2160d15c5804e61dd4d09836ce2cfeb22d89e7c90f7491270a68d.m3u8
+Viu TV,https://epg.pw/stream/813fe962130bf27d85d2a8f6114a7fb066f40b7323165ce8c3bc26ff0cb5ef7f.m3u8
+ViuTV HD,https://epg.pw/stream/e0aab9aab1e920e6b8a58cf554cb894167d14600cc796be0ba30a2ef58de3043.ctv
+ViuTV HD,https://epg.pw/stream/40a9d35c0e69e321c82e5777ff79d726a63bbfb854e9fe708dab487eb7a96985.ctv
+ViuTV HD,https://epg.pw/stream/e3b6ef61296cb3a88c8940bf8d296959a56b9ab06d5299f75dd9334205ec9d14.ctv
+耀才財經台,https://epg.pw/stream/c1e96c9d6e38145f7631fd9561f310261ef82a236544f7a1770cd1c6479cf2fe.m3u8
+耀才財經台,https://epg.pw/stream/30a1630dfb62c3260e2621263d459105380386fb9228611255d41360969c4a2e.m3u8
+耀才財經台,https://epg.pw/stream/3cb5dbb74bbbd3150891cf1795ae042b33baf187a619dc4ac42aa860dc85bf8e.m3u8
+耀才財經台,https://epg.pw/stream/72e6d938d023bbb1ad2c783c86273475d217a32541d77fb5c4113cfe7ae02b2b.m3u8
+耀才財經臺,https://epg.pw/stream/4eb5076e2c3d0b2d37160044f2676c072abecaaa7b3e9ddc24230af1e824d4cb.m3u8
+耀才財經臺,https://epg.pw/stream/22c49293812a53154c679325dd65258944d73c180c1c47d19ac3a339ce95292b.m3u8
+香港台,https://epg.pw/stream/5492f2271bb30ee93eddc180adb43f886da2add0a63ab8f1362853b0735a8f4e.ctv
+香港有线新闻,https://epg.pw/stream/4c65fc12a950810e9f068c55b2abf43cf7937762e9c5d4d44381205743c731bf.ctv
+香港有线新闻,https://epg.pw/stream/1b440a21b089797aecfd8328b5f587036dbeb394a97b3baaaca595ca6692ef93.m3u8
+香港衛視文旅臺,https://epg.pw/stream/3bba1f61c9bbdb7c3299de2153884249bff20165adcea8abe1fe4fb837f7eb31.m3u8
+鳳凰衛視,https://epg.pw/stream/13e8dfbbcf8907b7afd173dc6f1aeb8ac51739bf127c4f4a04961546abbd240d.ctv
+鳳凰衛視,https://epg.pw/stream/68c3a76c75c866649b2efe296eba20d56e2080cbd70f70bd88c9fe9681b503a6.ctv
+鳳凰衛視,https://epg.pw/stream/bcd622d1a4cc558d4c32465e7460648b9921c4a5463db22cef0c090fe5a6921c.ctv
+鳳凰衛視,https://epg.pw/stream/65fc7261391f517d492bcb39744dac30e62a23b0eccb971c9d78ff2037b56124.ctv
+鳳凰衛視,https://epg.pw/stream/8eba86326a2a212c83d80d159da7533ebba70b10da96fae0e85ee0a86ecd9b49.ctv
+鳳凰衛視,https://epg.pw/stream/d6fe4c36d8b6dc5508574970a5b579b78b916dd3b92b5d45fb25d4eb92f48942.m3u8
+鳳凰衛視,https://epg.pw/stream/d9c119544f1760041bb610b865e55c930f22cebfd36d420ed6811757be416936.ctv
+鳳凰衛視,https://epg.pw/stream/aa98dcd3447197ff2a08c7605c93929ee0b5df9e0975a1b60f454f543317ff1e.m3u8
+鳳凰衛視,https://epg.pw/stream/39d50ab14e9d515c7712e21884ce9b40882ac45cbdaf50c2c30f54fef97d21b4.ctv
+鳳凰衛視,https://epg.pw/stream/e6886dbde2158fbb51da8cd6db21e2bb5fb68f4e5aa4db51e3589f30c20a13d8.m3u8
+鳳凰衛視,https://epg.pw/stream/c77a6c3e914fd27b23140776fce89ecf408b6e3adb44621bef4ffce24931d730.m3u8
+鳳凰衛視,https://epg.pw/stream/4449f787f5ea0c3b693485107c2f18722fb73ffe25173e86b3a6c88ee50f8f28.m3u8
+鳳凰衛視,https://epg.pw/stream/bed861174ca3f5d4dd96d8bfc52fd0e2990a69c3e02324ef736495435192d7fa.m3u8
+鳳凰電影,https://epg.pw/stream/9ed301e39bb8ca159e243f22b480bf96dd911e48e89709a29959a5aab65608cf.ctv
+鳳凰電影,https://epg.pw/stream/eb5c379a2d045382ce7f8ffa78e5b7d184a3c44fffe574d72e3fab54a7d696f7.ctv
+鳳凰香港,https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8
+鳳凰香港,https://epg.pw/stream/8352ad260441ed0064f63f7a25eb3a7268a68b391f08a345b9bdbefd51aa330f.m3u8
 ASTRO华丽(翡MAS),https://epg.pw/stream/9844e656e3c825bf567e65700b778253cd3845746c04ed4381ffc35ef1e1c486.ctv
 ASTRO华丽(翡MAS),https://epg.pw/stream/87424e9fb6e25b9b628bfa3e327e65e73a57c9f83c09f8abd479b1f3d062ea49.ctv
 ASTRO华丽(翡MAS),https://epg.pw/stream/ddedf632ce91681c3f61f742fed863509e419bd1942dc1aec59dbe04f859d87d.ctv
@@ -42,25 +119,6 @@ RTHK34,https://epg.pw/stream/1aa0397c46a7e75ff0e222452f51d74d7d1144244166ef3c075
 RTHK34,https://epg.pw/stream/6e369058eba43ac78a0c076f78eaa1227afd471bdccf9df70077738d1152e0ba.m3u8
 RTHK34,https://epg.pw/stream/16e85bed392dd123c9d057343c09e2310c6975d4866da8c92f7b0127fa865523.m3u8
 RTHK34,https://epg.pw/stream/8dc8b380861cc994bb3d9bb64f415d0d313eef5c60b5efbec01551f461837c92.m3u8
-TVB J2,https://epg.pw/stream/1936e0180ebd92426c3868ef2bdd66c8217fbe9b33c7061122dc46c27ae56c78.ctv
-TVB J2,https://epg.pw/stream/35be49526efe9576baa6ecdfacd7c7b7a91e12d4991a5c65bebfe97313d8aa81.ctv
-TVB J2,https://epg.pw/stream/9a785bebd7cf671d3e5a7dbac74ffb79496585788e9af2bb60760b44109c84ff.ctv
-TVB亞洲劇,https://epg.pw/stream/c88adc69fe22cc05c7ff2984ad14db99f461e6dda12687cb7bbaf5e03a357a38.m3u8
-TVB亞洲劇,https://epg.pw/stream/a4696392133577ed03dbedefe5c18c3c7a178b0899b2f814fa6c532bc521f8f4.m3u8
-TVB亞洲劇,https://epg.pw/stream/5bf2b1b6e25985960785ccef6dc0acddc7424b6fc178ba1530817265e730f56f.m3u8
-TVB亞洲劇,https://epg.pw/stream/546bdd4b82259d8d136893bafc3b1fa4dec137fb88ab10b9fa02b7469bc83a0c.m3u8
-TVB亞洲劇,https://epg.pw/stream/df891b505a8433ebc8b75612066a1cc25b14149d1d52136d6c5e3b19e86aa6cf.m3u8
-TVB亞洲劇,https://epg.pw/stream/3ac58ed08ada7fe3ab14bdbb13805a81339d7f9a66b0753a51af051a4ddfddf0.m3u8
-TVB亞洲劇,https://epg.pw/stream/bce244fa023794cc786b2de797ae2b66b630c1a93aa2f23d2ad31ab0045d830a.m3u8
-TVB亞洲劇,https://epg.pw/stream/7843556b9457c79f5185c8dc71e2c07c55dc12b034635c8075a8847163f8b483.m3u8
-TVB娛樂新聞,https://epg.pw/stream/57737ed82a70288e90bca3ef3b9e7ed3e8b896445947908bd76d4ed3c4ba6c43.m3u8
-TVB星河,https://epg.pw/stream/eee97f3ab8d484adff720fc3c90eb1f280b02264d5d2e3971262bb416aab5767.m3u8
-TVB星河,https://epg.pw/stream/3388eca1a9b5d5c9a7da8bd8b4da3460113b22b0582b44f51a8111fc90f91749.m3u8
-Viu TV,https://epg.pw/stream/e063ee2925c2160d15c5804e61dd4d09836ce2cfeb22d89e7c90f7491270a68d.m3u8
-Viu TV,https://epg.pw/stream/813fe962130bf27d85d2a8f6114a7fb066f40b7323165ce8c3bc26ff0cb5ef7f.m3u8
-ViuTV HD,https://epg.pw/stream/e0aab9aab1e920e6b8a58cf554cb894167d14600cc796be0ba30a2ef58de3043.ctv
-ViuTV HD,https://epg.pw/stream/40a9d35c0e69e321c82e5777ff79d726a63bbfb854e9fe708dab487eb7a96985.ctv
-ViuTV HD,https://epg.pw/stream/e3b6ef61296cb3a88c8940bf8d296959a56b9ab06d5299f75dd9334205ec9d14.ctv
 discovery id,https://epg.pw/stream/8dac86825af17958c13e5eabee0168f6a409f591cd827b886394ecd9b2237d2c.ctv
 discovery id,https://epg.pw/stream/16e7322b146c0edbaa6db49ca5957c6636b6a9394ad4ba5410f841af98c01bec.ctv
 discovery id,https://epg.pw/stream/8cb6bea748427bbc2cc171e39457f629f39d6342f744a333ba85800a18c579d4.m3u8
@@ -69,387 +127,6 @@ star (720p),https://epg.pw/stream/f24adf3ae738b4720ff1599714fc3ba70607c0f3ceea78
 tvb娛樂新聞,https://epg.pw/stream/129148399c951de40a4cff7cc62787466f1b6df54c1c44216760dbc9395dc0a3.m3u8
 wow tv,https://epg.pw/stream/cb8c7a7a6688d98c77657d009a4b6e1d919539aaedaf57215931014d11e001b8.m3u8
 天映頻道,https://epg.pw/stream/e6e326ff18624c5a513d9663ed91a0aae2c5d30a6baca900796bb58f2a619f94.m3u8
-明珠台,https://epg.pw/stream/00a74ca4020cd952c9e1ff1f90b8f7b9be9c1da4f0a915e1e0aa7c9dfa356197.m3u8
-有线新闻台,https://epg.pw/stream/f5ce037a8e9402092d082473ad564342743a83b1ca784cff0df90236ee980fa9.m3u8
-有线新闻台,https://epg.pw/stream/cb206191db20ab3776f20fa69ee8db6d329d213c60c9d6acafab79e4bdadb357.m3u8
-有线新闻台,https://epg.pw/stream/fa725c21b457ccb2a030aa1febf8143b32e64a705ef842bac4dda6bb1c13f2bf.m3u8
-有线新闻台,https://epg.pw/stream/d51cb354166be0099c5d4fcfd3484b6e6a83849a6dafeaa7a625f2a2fbe24e5f.m3u8
-有线新闻台,https://epg.pw/stream/4e24596fde9c243eb4302e394190972407ee674c0c6a06ea6be4e5d349582cbe.m3u8
-有线新闻台,https://epg.pw/stream/63b7c2d407cfa08936f3ba0654dda7d631b52bf81ea07492219dae2cd78f67cd.m3u8
-有线新闻台,https://epg.pw/stream/b40679c57d10eb253a2e71d1cddfd67abe06c0eb23accc371665e9ff2e670997.ctv
-有线新闻台,https://epg.pw/stream/62de1488de6d094fddcbafd642b00abd04b1b64bfa9fc78485895a51ecfb90f7.m3u8
-有线新闻台,https://epg.pw/stream/ddcee8ae223200a8e79c3d10f153c7b9ad14ead3449536d9cf0d3a7272aef0f8.m3u8
-有线新闻台,https://epg.pw/stream/cea645ef7ddbe09e2dfeaffd5c9c6530e08b8d82a1a648cce5e12e264f3662b4.m3u8
-有线新闻台,https://epg.pw/stream/10311148721256637f60daaa945232de2d91db13870451c92a743a4d24ee08d0.m3u8
-有线新闻台,https://epg.pw/stream/bf4549e66e57de24e2048f146459a212c13a678c085028f75280258c617643bf.m3u8
-有线新闻台,https://epg.pw/stream/85796ae4baf49d8d418849d5a8de11cc916a8c6e0c4b3671ee058e4516bd355d.m3u8
-有线新闻台,https://epg.pw/stream/ea058ab8cd9ae5ff67fea662e7f511166a26a5e95205248dddadb83c59998036.m3u8
-有线新闻台,https://epg.pw/stream/950f4efaa09c59b39332fa295ae36a591264ffb271b9beef138462274c3b7b14.m3u8
-有线新闻台,https://epg.pw/stream/a546fb9f46c4fbd26bfe5b62692b029b734cb147ea737d9bd0e525822acb1a45.m3u8
-有线新闻台,https://epg.pw/stream/37621f3d1d385bf204fa33bd1783610b135e7e7ca6175e1349fec9c4f662ba34.m3u8
-有线财经信息台,https://epg.pw/stream/0fddc0600d3868b05ad741d46294410aebca0fdc4fada5028dc54e624b7b17ca.m3u8
-有线财经资讯,https://epg.pw/stream/e82c1cb2d8c23b892f8ff1ddedd4235df215dc4af511fccfe823471582bda4a0.m3u8
-有线财经资讯,https://epg.pw/stream/e536b24d25d65a1e5ba8dad6f1762956d955f9d857068f79aa03386a75638d17.m3u8
-有线财经资讯,https://epg.pw/stream/23db82730f3b43b390d230a69d0ea0bff90c718930b4616f8815019ad7db1523.m3u8
-有线财经资讯,https://epg.pw/stream/5c4073692c6bfe2a6fcfa1ad9dc419ddf9264bcd61f4fdd78f980235227e8b0f.m3u8
-無線新聞台,https://epg.pw/stream/24ad86b6b170c8279e4b2961c998b8f0837e3217812ead12388ec930f2cb4ca8.ctv
-無線新聞台,https://epg.pw/stream/1d57a34778340406c923ddde53b9bbfd4903d711783cf2d6eda414ce79d59f07.ctv
-無線新聞台,https://epg.pw/stream/cf9a086284373e6083058ffee13a822e2e193f5e19d3ff25b6e90062e4109c89.ctv
-無線財經台,https://epg.pw/stream/9a5717216f8e5e6563211d66d2867374bfdfdd8a9ee8c48b0de2ddcb3a1f9b0d.ctv
-無線財經台,https://epg.pw/stream/4cfbd8042c72a22081ceec0c87e7bb7ded78a5ea32bb6f709e5375a7304b8d1c.ctv
-翡翠台,https://epg.pw/stream/668e856e77007183b24d51ad4f1289a57781942d4ae10827bb79a92e49e58ea0.ctv
-翡翠台,https://pi.0472.org/tv/fct.php?auth=2309081833
-翡翠台,https://iptv.hiper25.com/TVB/video.m3u8
-耀才財經台,https://epg.pw/stream/c1e96c9d6e38145f7631fd9561f310261ef82a236544f7a1770cd1c6479cf2fe.m3u8
-耀才財經台,https://epg.pw/stream/30a1630dfb62c3260e2621263d459105380386fb9228611255d41360969c4a2e.m3u8
-耀才財經台,https://epg.pw/stream/3cb5dbb74bbbd3150891cf1795ae042b33baf187a619dc4ac42aa860dc85bf8e.m3u8
-耀才財經台,https://epg.pw/stream/72e6d938d023bbb1ad2c783c86273475d217a32541d77fb5c4113cfe7ae02b2b.m3u8
-耀才財經臺,https://epg.pw/stream/4eb5076e2c3d0b2d37160044f2676c072abecaaa7b3e9ddc24230af1e824d4cb.m3u8
-耀才財經臺,https://epg.pw/stream/22c49293812a53154c679325dd65258944d73c180c1c47d19ac3a339ce95292b.m3u8
-香港台,https://epg.pw/stream/5492f2271bb30ee93eddc180adb43f886da2add0a63ab8f1362853b0735a8f4e.ctv
-香港有线新闻,https://epg.pw/stream/4c65fc12a950810e9f068c55b2abf43cf7937762e9c5d4d44381205743c731bf.ctv
-香港有线新闻,https://epg.pw/stream/1b440a21b089797aecfd8328b5f587036dbeb394a97b3baaaca595ca6692ef93.m3u8
-香港衛視文旅臺,https://epg.pw/stream/3bba1f61c9bbdb7c3299de2153884249bff20165adcea8abe1fe4fb837f7eb31.m3u8
-鳳凰衛視,https://epg.pw/stream/13e8dfbbcf8907b7afd173dc6f1aeb8ac51739bf127c4f4a04961546abbd240d.ctv
-鳳凰衛視,https://epg.pw/stream/68c3a76c75c866649b2efe296eba20d56e2080cbd70f70bd88c9fe9681b503a6.ctv
-鳳凰衛視,https://epg.pw/stream/bcd622d1a4cc558d4c32465e7460648b9921c4a5463db22cef0c090fe5a6921c.ctv
-鳳凰衛視,https://epg.pw/stream/65fc7261391f517d492bcb39744dac30e62a23b0eccb971c9d78ff2037b56124.ctv
-鳳凰衛視,https://epg.pw/stream/8eba86326a2a212c83d80d159da7533ebba70b10da96fae0e85ee0a86ecd9b49.ctv
-鳳凰衛視,https://epg.pw/stream/d6fe4c36d8b6dc5508574970a5b579b78b916dd3b92b5d45fb25d4eb92f48942.m3u8
-鳳凰衛視,https://epg.pw/stream/d9c119544f1760041bb610b865e55c930f22cebfd36d420ed6811757be416936.ctv
-鳳凰衛視,https://epg.pw/stream/aa98dcd3447197ff2a08c7605c93929ee0b5df9e0975a1b60f454f543317ff1e.m3u8
-鳳凰衛視,https://epg.pw/stream/39d50ab14e9d515c7712e21884ce9b40882ac45cbdaf50c2c30f54fef97d21b4.ctv
-鳳凰衛視,https://epg.pw/stream/e6886dbde2158fbb51da8cd6db21e2bb5fb68f4e5aa4db51e3589f30c20a13d8.m3u8
-鳳凰衛視,https://epg.pw/stream/c77a6c3e914fd27b23140776fce89ecf408b6e3adb44621bef4ffce24931d730.m3u8
-鳳凰衛視,https://epg.pw/stream/4449f787f5ea0c3b693485107c2f18722fb73ffe25173e86b3a6c88ee50f8f28.m3u8
-鳳凰衛視,https://epg.pw/stream/bed861174ca3f5d4dd96d8bfc52fd0e2990a69c3e02324ef736495435192d7fa.m3u8
-鳳凰電影,https://epg.pw/stream/9ed301e39bb8ca159e243f22b480bf96dd911e48e89709a29959a5aab65608cf.ctv
-鳳凰電影,https://epg.pw/stream/eb5c379a2d045382ce7f8ffa78e5b7d184a3c44fffe574d72e3fab54a7d696f7.ctv
-鳳凰香港,https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8
-鳳凰香港,https://epg.pw/stream/8352ad260441ed0064f63f7a25eb3a7268a68b391f08a345b9bdbefd51aa330f.m3u8
-阿富汗,#genre#
-LCN TV,https://epg.pw/stream/d8795679a0e31f6e7757013f2a58f85622abc85f5a61f5fe64313417e3c96c1c.m3u8
-LCN TV,https://epg.pw/stream/c8cf278ea478dcb45d0881efa649b1be4188a636260f08049bd0a224a5a1fffc.m3u8
-非洲,#genre#
-Kalsan TV Somali,https://epg.pw/stream/d20815ed7699fd0fc734b46817e30381bd3b092b0859256941e5fb142ede73bd.m3u8
-Kalsan TV Somali,https://epg.pw/stream/c0699a8d39f5ed1b61a6951352ccfc925fe69058e8427741298702aed58fbc73.m3u8
-RTB Africa,https://epg.pw/stream/8ce553e535ab233b144d3d69d748dc9235d74a8a0eefbf272037f67792ff0415.m3u8
-Sudan TV,https://epg.pw/stream/9004e4c218487176be4af12d4ef57dc7d798c7db2f587cddd210cf1a1c9ec54a.m3u8
-Sudan TV,https://epg.pw/stream/8e9c5245f5babfc8336aadd242a6a4f28f6f229503254c62df67a42f77d79cf5.m3u8
-canal algérie,https://epg.pw/stream/2d1b908dd75dceab90a52f685cec4d243f3554ab476285b477f3bc47b3f4b257.m3u8
-god tv africa,https://epg.pw/stream/3d50f6219a895b74a262e895ad4603d9437d32f03231c1b5601874fbde6871d4.m3u8
-gtv,https://epg.pw/stream/bd479af08e90369369ffc0014e9ac718b3a63c9f4aa27e559ea1d3cad060c880.m3u8
-ibn tv africa,https://epg.pw/stream/a732d57dc14a5c39cdf98cc9f4853fe99c12d579c05cad9ab9c8a152f37b8512.m3u8
-sen tv,https://epg.pw/stream/258d005a0974b2e5234737a554442a50d0ed4f38936971483e84e022c7d05faa.m3u8
-vision 4 (360p),https://epg.pw/stream/48207f68c97c94640c3b8955d0f00d707f7d1b273ce68a39739ce68fd56ac17f.m3u8
-阿爾巴利亞,#genre#
-3 plus,https://epg.pw/stream/7dd080a0900277b43d602fd622dfb158df6acfba2dba8459cb0e51f984b005e5.ctv
-3 plus,https://epg.pw/stream/d9581c5580bc9d4c4a3be089d111b9804792c284471be40564dd0c6afaac1329.m3u8
-folk tv,https://epg.pw/stream/26216adb4824b42e4c3d3a4acee0296f8ea8997d161a7402ab7af19605f1d918.m3u8
-folk tv,https://epg.pw/stream/aa77caaad4e53947d4decf621a057a1608dd43b6a129429a5f5adf6be2ec52f3.m3u8
-folk tv,https://epg.pw/stream/490ca731401498e47312dc9d42c2fa6bc5a2026f907b4be14bd94ab412a7fbe4.m3u8
-folk tv,https://epg.pw/stream/b8c2f8174aca17ac3968e2c7e8540c3fe493e460559764606810a569a81228cb.m3u8
-kanali 7,https://epg.pw/stream/cf4cca86ec48c5f6060e01b22ae8bc49e5a610457dcb59e65fe367accbc65231.m3u8
-news 24 albania,https://epg.pw/stream/120dbc30245854de44c6d6246173247507e73f9f8b6eb86745279d9ea205b531.m3u8
-ora news,https://epg.pw/stream/1b1c47bddbc8addff2a5bc4cd4becda67fbbae575cb4c00030bf94e46bd3ff72.m3u8
-sport 4,https://epg.pw/stream/44d2b10794ed82d18da49e7aaf649b7c2661d0b7c4c1aff21f04754817131988.m3u8
-top tv,https://epg.pw/stream/97fd71124b7764678d5b2da5462a139c0a18a92382f651e898f16decb97ffbc0.m3u8
-top tv,https://epg.pw/stream/c06cb744bc067f63aa03534d840c68eaf327e17d8033f06e42ab7b96f1378d74.m3u8
-tv 7 albania,https://epg.pw/stream/3bae309573b44e66451cfef58b2eb3906e58929a98f2260716cc8bba8aed00d9.m3u8
-vizion plus,https://epg.pw/stream/3b78cc061fdfb6d4077be725cf4aa2888e1fb1b44b164f4cf2963d01f02e3c5d.m3u8
-vizion plus,https://epg.pw/stream/490363f9e2134db5c1c33c36e05adbd9f9bfa786d42bac9f2a64d4d0a945ef85.m3u8
-vizion plus,https://epg.pw/stream/c9151caa89e7ed0209252873eaace7a73cb9f2d6b5eb6dd680f14be144f25136.m3u8
-阿爾及利亞,#genre#
-medi 1 tv maghreb,https://epg.pw/stream/d90058d1f41f20af705128e4ff6eb6e7b552e7c0d0b46c631f477c347a182499.m3u8
-rasd tv,https://epg.pw/stream/47d1a775c70d5430a55c4e4bd1a295e1200dff9886799e3ba73861f9c81cdfba.m3u8
-安哥拉,#genre#
-tpa 7,https://epg.pw/stream/45423533b1a6f8c69d3918bba8528730ab48859582364499c8ea1b515f1dbdaf.m3u8
-阿根廷,#genre#
-DeporTV,https://epg.pw/stream/4c6b63680f7c1f2530f67883477237bb200d6339b533fa34ee155a6a7ef2bb25.m3u8
-Magazine,https://epg.pw/stream/b1566b691fe5743f5e948c321a90e074364bde60bc4c10d504f69c3be5db68db.m3u8
-Magazine,https://epg.pw/stream/877792832be9172f4d3e12486f03184eed411e14bb86b07f2ce4ff30e17005dd.m3u8
-amrita tv (720p),https://epg.pw/stream/10b481233810460fae510236ac1284ac1e3f6cbdf4bc7e92a7e0fe241fe8c96c.m3u8
-amrita tv (720p),https://epg.pw/stream/3dee4d4dabd783a709f76fcb978d74d89372c2290547f349b58ffb7eb06b2225.m3u8
-amrita tv (720p),https://epg.pw/stream/da2214e6fe051dc558ddd2783d94959b62295c9ed39abd027d8e2c78a68286e0.m3u8
-amrita tv (720p),https://epg.pw/stream/df4f423b724413dc3b0a11797bd8dc48a424b9d47b230c3c908801388de704ae.m3u8
-anime tv,https://epg.pw/stream/df49e5fd3a5740f95e672d3e1f96cb90623077bd2c56c4d435699e460613ef57.m3u8
-canal 2,https://epg.pw/stream/af14509f1ea1f9fbd1b8d715122d6c23399aca6ec063882ab3b2fda6d5d5c59d.m3u8
-canal 2,https://epg.pw/stream/c9cdcfb63ce49bbd615336cb7c248e2f44c0e880c0b0d48d034160794ee363fc.m3u8
-canal 21,https://epg.pw/stream/308a7db2a60fa5c50a76ed3edb17bfc9b2e081248036f8c1343c2f50d9346324.m3u8
-canal 4,https://epg.pw/stream/c6f3be41ced472a4cd2df4ecf6a45b2969bce0581b5b5fa8184475eb0dda4d37.m3u8
-canal rural,https://epg.pw/stream/83667afff9e53d49ce221fe296ff98cb8db23b8d2a1db0ca668175445ecb46dd.m3u8
-canal rural,https://epg.pw/stream/94453d28e96adf34d02a25ceccc76da1df74dd1854e02e8cda04746540dc4c3f.m3u8
-dtv,https://epg.pw/stream/3406619460b47ce22b07fb4e7df8baa698b126b9161d9258660e309c7c102173.m3u8
-el trece,https://epg.pw/stream/a3db5e8adf7724a815fe91967a0c98c2b9ee6680eb79ce5ec204eed38d66bb85.m3u8
-pakapaka,https://epg.pw/stream/d38c931d298da4ab0e4f38fe97491030ea717514a9097e551d836834d6c0f9e2.m3u8
-telemax,https://epg.pw/stream/5a3ca6db586c34793ec73a5b885c4e35b4419a07befc0608396068531c6e13ca.m3u8
-todo noticias,https://epg.pw/stream/d74bcdb6647083cb7c677ea71b0329f2d53515811f77e3de1293594540843ad8.m3u8
-tyc sports,https://epg.pw/stream/d669c38238effda39a79e9ba06f3dc790d23b46a80212e958b3a680bbccaf094.m3u8
-亞美尼亞,#genre#
-3abn,https://epg.pw/stream/325d72328c939779e2ec3eeda6c7e64276bfae816b19c0a755c990499e155127.m3u8
-armenia tv hd,https://epg.pw/stream/500d8ced30055f38b3e37f5194eb6a8a53631e9f3579e262802dd337ff86a399.m3u8
-armenia tv hd,https://epg.pw/stream/d5116033c928ae52ce40c9bf50d647ece0af51dc5059413ffe75c5891a6b30d9.m3u8
-armenia tv hd,https://epg.pw/stream/253c687c4c6bbb8a1a9bbf99a40997e6a280fd5cceb4119f3eb9b0c7d3203787.m3u8
-armenia tv hd,https://epg.pw/stream/b7fbdc917c8f9810f48087bb888287912520eeca23d6d9d70dc00d1ec3d31fd1.m3u8
-box anime hd,https://epg.pw/stream/967dff6b854142214378de065e3bbd990003074d7ad28526eb94b4a091305754.m3u8
-澳大利亞,#genre#
-ABC NEWS 24,https://epg.pw/stream/5843872596afe2cb45d198314871ee40c1a0821e1afcd508c0ec883eb210ecdd.m3u8
-ABC NEWS 24,https://epg.pw/stream/4f1f755a72d39f5887cdd68f29472723d68e2e36dab03c381944b14c3954fb10.m3u8
-Australia Channel,https://epg.pw/stream/60076f92fff720362c4e7e66696011f043a58f626e7e3ecc46b13b81011179c4.m3u8
-abc tv (720p),https://epg.pw/stream/fd33a74fb805774db5beb3ac313e77ca934736419575c5fcf57ee97d013314e4.m3u8
-abcaustralia,https://epg.pw/stream/731e9f5ecc5de2a0afe5d5482b3a57d63d1354283a7e13951a910cf813ce87bf.ctv
-abcaustralia,https://epg.pw/stream/2701cb696b11e523550367f883b9ae64c40214949d1e05d8821267a460d1b79d.ctv
-abcaustralia,https://epg.pw/stream/3c6d2b4e4fc0b42de0d40f38a8e0ac738ee963437080dab5993763f2c01fa576.ctv
-abcaustralia,https://epg.pw/stream/42ff3dce9ecfcdd5dd212ccee833ac3c404e4a6ba2a0997e6aff5075b5c95dc5.ctv
-abcaustralia,https://epg.pw/stream/1939b4757e8e08ea241b54d9be09e80ba7af11d68b28c04b2f35616b0cda00f7.m3u8
-beIN Sports Australia,https://epg.pw/stream/ad271b3e781d89542ba85848512c023b14c2a2898a41af54cc97ba7eb88cc7f1.m3u8
-fresh (720p),https://epg.pw/stream/b6b92f839830c390d9993d50373c9c129f5ca5df860a215269e5e4c611fffea8.m3u8
-nrb tv,https://epg.pw/stream/b3e08a15407df010d7963b6e80fbdfa79dd09b31843694cd0583b4577714107c.m3u8
-ntv austria,https://epg.pw/stream/0c7bdafd879cb46a0859d56646dd19777cfb6faeffb09ae3dbb06130bb172608.m3u8
-ntv austria,https://epg.pw/stream/6b6943f72103afd1fde75e2a06a650cf2fed19fa57499e868f533a6ab7985ba8.m3u8
-time line australia,https://epg.pw/stream/4bcd7faf01ec16339e7cb2a0ebd082056d70d5909666ed0e2fcc8faa7382cb61.m3u8
-巴林,#genre#
-Al Maaref TV,https://epg.pw/stream/faa6c2c49c0c07983cea1f10a8d39eb87f59f8b29b6608272b83e6cb77751e89.m3u8
-Bahrain Sports TV,https://epg.pw/stream/63a27856707ff07c39b59b59bfc75650949293ea8233a7e85ddc03dae87e8c26.m3u8
-Bahrain Sports TV,https://epg.pw/stream/eba02520a4b4d89a14f42603ad31122fe1edc9fd77bc00bbf99e42e4e18681e9.m3u8
-巴巴多斯,#genre#
-Tempo TV,https://epg.pw/stream/88aaae7bb129d48ff8219b1fd3fa183036455ecd267300987a4c1861d0e6ce4c.m3u8
-Tempo TV,https://epg.pw/stream/eb4fdbab6cd4912a72ab46df3aab1a0d82e4037591e49c7105f359eeff6907a7.m3u8
-cinerama tv,https://epg.pw/stream/fab8fbbb30b22c62a9523470613ca4b2083c4b7452c08dcb818777a9010a9d94.m3u8
-白俄羅斯,#genre#
-Беларусь 5,https://epg.pw/stream/7486932cea8b1c931d6447e679e1572539c33fadf3c1384532b64543c42cb858.m3u8
-беларусь 1,https://epg.pw/stream/26e158fbbcca256cb4f63abee2d9c5d0743ddfd9da24923bb3d8a626b699f1d4.m3u8
-беларусь 2,https://epg.pw/stream/96fc79554337dfebab8138834b36968197292a403a18c3f6bd42a74dc1cfb617.m3u8
-беларусь 2,https://epg.pw/stream/1febed7ef27c33018d17c23c51d94298fd33b45dea900931efd5849bdc68bb7e.m3u8
-比利時,#genre#
-Vtm,https://epg.pw/stream/3f7283fa869c25941161a01044501bf18640041ca0e303e0f05c9cc47cccb63d.m3u8
-rtl-tvi (1080p) [not 24/7],https://epg.pw/stream/10dc74f9ea44895e80972ee52d334bfe9ab0ff04c36d6863656b1a6ea7ee6c92.m3u8
-巴西,#genre#
-Anime TV! Brazil,https://epg.pw/stream/b016f44dc1d528c87d09ae80a2f59da29ca080a825f7f0d321b74acec25766d7.m3u8
-HBO Xtreme,https://epg.pw/stream/9443c5ca1c6bcedd1ee4f88fe8d888d1715e6023b26117e92f4f68555e3d77f7.ctv
-HBO Xtreme,https://epg.pw/stream/6915206fdb22c6e3f8a6aa5c2192fb2d567a1162a90d48d622be1f86cb658e2a.ctv
-HBO Xtreme,https://epg.pw/stream/8b5f64409da60a9deabbc3bfa8f863e5ba81312715d74ebadd3604c83cc486d8.m3u8
-Rede NGT Brazil,https://epg.pw/stream/ff3977b0f29d8e26a3c3ec33caa1db79c99c91ef5a8cd2eaf85e57c63488273c.m3u8
-Rede TV! Paraná (Brazil),https://epg.pw/stream/778ac55d7063d04863f1da60a47be1e391a7afa2eda392e6c2bbf05b8406b069.m3u8
-Runtime Action! [Brazil],https://epg.pw/stream/b9c6bde401b0710f5fa17c65fb6ddaa6203d4be784324bcc746cc6a631392a3e.m3u8
-SporTV 1,https://epg.pw/stream/12057eea5088e1ab12023c10367fa4c10b428087c77bc9dd701953cfe996f0aa.ctv
-TV Aberta,https://epg.pw/stream/bdf2cad4a6119b98de39302cb49793fc16e4aed9536058e4e25e4d335ef954e0.m3u8
-TV Globo Brasilia,https://epg.pw/stream/295b6836ded024ae3dc836417f92c19c0bc07050fa09752651205d9a9e301fca.ctv
-TV Nova Play,https://epg.pw/stream/c0a8e6a079dea096f6fb6c437910622c3219b014238691f3d6ad30bd24cbc50c.m3u8
-TVCI [Brazil],https://epg.pw/stream/8f732d75c3158b55a4f425c925c3e1fe4b33fc51615e1e7588bc2bd644752eac.m3u8
-TVE RS Brazil,https://epg.pw/stream/d8ff35bee990478489f9b6ee744140ad291203f6029da1620f30b96b59f2af88.m3u8
-WebCine TV (Brasil),https://epg.pw/stream/e92f1f70e3ce335040ffaed8b5a165b07dedd623ad5a17dfafad9a573ead14ae.m3u8
-WebTV Paraná [Brazil],https://epg.pw/stream/5a93de88ce76e2129f04e1a0a9b4eaf163829c01f4c8af83e3ad6650e883e912.m3u8
-a&e,https://epg.pw/stream/44b6012f501c8938266af9dc8983611a1c2ec8f5e95f6ee2f01a9896897e52d1.m3u8
-action (kcks-ld4) (480p),https://epg.pw/stream/afd2ffafad12c705d5cf89422cd9f7bca05de070e3bae438bdb0375988a394a8.m3u8
-all sports,https://epg.pw/stream/bb4a0a2a5234874749eec5469e0c11199f33091e92a340c60d6edb7548ca1acd.m3u8
-amazon sat,https://epg.pw/stream/28415fc3ccb039c9174034796c5dacdd9b0f839fa331e40df1e8d1027325cbc7.m3u8
-amazon sat,https://epg.pw/stream/173db67a46d5f8f31f171021f681ccd669c20df7e4ea7d792a19ec0d6b15739a.m3u8
-artn tv,https://epg.pw/stream/b8c6d8f514366a0910c2261c7df7b30f08e783c198e0357690a3a44cc180f1c7.m3u8
-band mg,https://epg.pw/stream/721c1a29b65dad9515d3318fb2ddfc781b3f5365a7556360a6ac765487852a4c.m3u8
-band mg,https://epg.pw/stream/9696dda55fe5c38a0867e52b7a4ed45425f902755bcbb60fb450274b6b857405.m3u8
-food network,https://epg.pw/stream/f78b02569b9ef4f4ca7a328c1a2f0ae0b767727528f24c018fe9bbebff7d6f40.ctv
-food network,https://epg.pw/stream/105ca1df928d1ccd15550e9ab3a7edd460e594bf1517f524213020a7c5bd0f25.m3u8
-food network,https://epg.pw/stream/eddc0a93adbd6dcab25bc834f7ce696537168e7b0e4b76611610b0eea8d3cf45.m3u8
-globo news,https://epg.pw/stream/f8abfabde50425ec3bbe6cf961f0e757092d5db61b0a228900d613e5066af8a0.ctv
-globo rj 5,https://epg.pw/stream/13f25e3b9f3ddd37998780477f7c2250cfa0b511afe4a76302309f8ce985d5f9.ctv
-globo rj 5,https://epg.pw/stream/088475e79e9baf70709f7dc958ed33ffad05583a5868320d2483db573f7caca6.m3u8
-gospel cartoon,https://epg.pw/stream/36dc9cfd8b2d82fa1a222f092b0d3aee54e9989efdf550ac2b10e11e6eaf1c90.m3u8
-multishow,https://epg.pw/stream/53a88ab3d28186b4049d442bc3a2d640ca8616fd4a841ac6466d3fedc166b5b9.ctv
-novo tempo,https://epg.pw/stream/f296af92ca372a95bd296ae2b4ceedf3485fe95600ca0073e82189fc5c80e642.m3u8
-record news,https://epg.pw/stream/424e34fbf1ad676088a431b0e240e5072fe372e5f7c72f7584a25da01beb694e.m3u8
-record news,https://epg.pw/stream/90665e8d65bc5d38f6521f6da2d3aa6de728473de6c9f5d806f496f69d1cbd1c.m3u8
-rede família tv,https://epg.pw/stream/5e0e397b155969b4629ff891304d0347d86effccfd7456ff3509a97ef105179e.m3u8
-rede família tv,https://epg.pw/stream/4587e4d61ae03ab93520bb684e5b0bf769830189fc61fc737b51252f40040f42.m3u8
-rede tv! (paraná),https://epg.pw/stream/cbd5e2f4c3cc2e744581d7b995e2fd0162e5014ffe75687545ef41bdec125240.m3u8
-rede tv! (paraná),https://epg.pw/stream/08861a174bccfecf795458017e063e39960b77e33ba9150a44b6853a774dfec8.m3u8
-rede utv,https://epg.pw/stream/ec81f830998e507cc1706c3ca0651c55eaee73ed8d7e0efcf5c9a855a0638474.m3u8
-rede utv,https://epg.pw/stream/990f7baf8ce3a5a80557ef390da20d0a45235405e7c6c001135188e75baec6ad.m3u8
-rede utv,https://epg.pw/stream/67589f880ceeb7216c5de25d6c610003889bccb2250f56b6dab6e14cdd7be02e.m3u8
-rede utv,https://epg.pw/stream/e0e216f750bfec8932da36b1e58ec9cb67364d6f0fbe475fca19bd92ba4a14ce.m3u8
-rede vida,https://epg.pw/stream/857121562c2444347e9dc8917c74c459016646d33a9a44505afc2affabb476c2.m3u8
-rede vida,https://epg.pw/stream/23f635f7129247aaf96af0013a145eee226e229e4f11863e92019a68a232460a.m3u8
-retrô cartoon,https://epg.pw/stream/698f67d57789a7d9c2e1ce63a5cb0079dc6f1b94d5514da0c6646ab2ffea78b0.m3u8
-retrô cartoon,https://epg.pw/stream/62c4381e6a8f80225dccbf303bf84e29147dbd24ecafa5b39c2952234917cf76.m3u8
-sbt 2,https://epg.pw/stream/59ac239aeb3639d4ecae83766d6d4af3187674b9fc31773a70342a9a809e36ba.m3u8
-sbt sp,https://epg.pw/stream/861ba1e7dfd447c2751a3267ae19ebbe562da045a6d27228a052821d91397864.m3u8
-sbt sp,https://epg.pw/stream/ba59eb505cd6582966115eeb9269ba401224f408ef8d86a0d0acec48c0131adf.m3u8
-space,https://epg.pw/stream/d780d85ffb8ce3b8e233739370a05d4a5900dc2c696c2765bde2df23132751fa.m3u8
-sportv,https://epg.pw/stream/50897b48e52eb5d94f7ebd67ac08b7f1fc60ca29dcbd555199b29058c55ea6be.ctv
-sportv,https://epg.pw/stream/c6e9a1f57a2fb9ee1293e8e35e1ce53a8399766dea37c0016ecd71f0c9b940c8.ctv
-tela viva (360p),https://epg.pw/stream/e7ae2e21e789c021178aec1594ab13f51f2d8b425627056e9a3a8d263aca70d7.m3u8
-tela viva (360p),https://epg.pw/stream/e45429efbb0ff1782ccef784654bf17e828bebd715034abb13a2ec55fe5c5a43.m3u8
-tela viva (360p),https://epg.pw/stream/4851a9e5ec3a18c98d1724a6db9fa108f358084be29841a1499a66cc581ea7d9.m3u8
-telecine action fhd,https://epg.pw/stream/3924a6ec11c3371f210bcb0136181a12bc31e6d2561e63992d08847919a2bf70.ctv
-tv aparecida,https://epg.pw/stream/ed84334142b6d556487876509e24aeab8527a995cd50b75257dff51d922a7f97.m3u8
-tv brasil central - tbc,https://epg.pw/stream/0ed0c521514e70c49a1a1aec89aebae87e9bae055958a7ffe6eeb427384f1055.ctv
-tv brasil central - tbc,https://epg.pw/stream/d31c76c412ac15c01e88ad3bf87b9a6bad694097f8adfbbdf49b270ebd18b863.m3u8
-tv brasil central - tbc,https://epg.pw/stream/f7f00c8ecd3f21659d456ac614cc5247c4b05b84a57099720cb19f1a99ffc92e.m3u8
-tv brasil central - tbc,https://epg.pw/stream/98508e21fdc648ea13ff221f28750af9da787f693f3a16afd25ba632e64c35f2.m3u8
-tv clube,https://epg.pw/stream/905e38ed1df81593fbf94e422ffc956fb03b5eb6f04b2f4138c77135fea61ff3.m3u8
-tv cultura,https://epg.pw/stream/4330d33533f375b3a5742ce5d51650347fb84b6d40f762ec0a044e40c1cfa369.m3u8
-tv cultura,https://epg.pw/stream/4dc2620a8a5bb3ecc5433bf7e933fb750160ef683c8f8174069c3b3b0a8ea6c4.m3u8
-tv digital biriguí,https://epg.pw/stream/c74928d84abeaa54f93a918ef3eaac336b64d57d07b41d31caaff64f27e5c5f8.m3u8
-tv digital biriguí,https://epg.pw/stream/5bf66891175ce8ba8e2d01c4fd49970c744e41d29fe4aee6d1a682ca70eb5628.m3u8
-tv gazeta,https://epg.pw/stream/f1b714b98f2b5d651a693c4c5b349e15ee8219d96ae286f5b89c91fe2388b3e5.m3u8
-tv japi,https://epg.pw/stream/8b6dfa75bd65805b6b2ea8bd5f6e5ced9998c69999ed97480cfc34e2cfc022d1.m3u8
-tv japi,https://epg.pw/stream/a9f3edf7f14a02a16748b04a6b8a5c5dc6102fbf985683abcedd677d87310713.m3u8
-tv japi,https://epg.pw/stream/3fe35f16b813edb5f9eb7a2d1a4922e843e1fcdcd0331ca7d2de3ce865dea437.m3u8
-ulb tv,https://epg.pw/stream/5e138a5590c51ffd21f852fb4974fa005f8811a49cb1d1763380006eb4af95b9.m3u8
-warner,https://epg.pw/stream/8739be297a3d6cad10c1cc2a40042057e9dd769830547fdd5742150b7eb144ce.ctv
-文萊,#genre#
-rtb sukmaindera fhd,https://epg.pw/stream/bd22f6dc33b12ae96c2fe8026d6679eaea9783917f4a090d8f10c4fe99083753.m3u8
-rtb sukmaindera fhd,https://epg.pw/stream/c7faa82062fe74bdb1f06df338284e33ec2ab99bb205721a81bf13162f5678ab.m3u8
-rtb sukmaindera fhd,https://epg.pw/stream/64a3c198b86395a9b678d0d626d1b08279de8b6c5c3946030bfb5fe0594f91a2.m3u8
-保加利亞,#genre#
-6+ hd,https://epg.pw/stream/c36c66a65569457256002bbbfff1affbae08e4d105e1fd7a181d95f545c24117.m3u8
-7 tv,https://epg.pw/stream/8efc062766dd7e39c8201d68bbf0df2e06d31765e97638d8686570cfebf75009.m3u8
-dtv,https://epg.pw/stream/bcb128954cf1a338bdc2ea472b27dac03896cc045938711734ddc021364a439e.m3u8
-dtv,https://epg.pw/stream/d9a71069e1e4964adb9d22540603ff49b96ff0ffda7da04fcf7b5d7889c4d01f.m3u8
-first music channel bielorrusia,https://epg.pw/stream/851edc660fa08eb57595b9ad1acb2af67bfd5d33b85bd45a3b5ac5c794e9bf91.ctv
-first music channel bielorrusia,https://epg.pw/stream/94fa4cfc79c73f106bf188dc43a028effa6ddfab059757f561268b538d8cd5d6.ctv
-first music channel bielorrusia,https://epg.pw/stream/ff237188122bb3fcf57fd98ffef4026d033bbf0f7244d2c55211c9c9198da9c7.m3u8
-this is bulgaria hd (1080p),https://epg.pw/stream/a45cd92abc8b188ad369c9a0ffd38591b4bf8d9edcea80a33b225e6c0e23f32c.m3u8
-this is bulgaria hd (1080p),https://epg.pw/stream/a9bf1f2ded9c203dcda4805e87d526806771c320f502caa872e1b2e98a5b4a67.m3u8
-tiankov folk (576p),https://epg.pw/stream/88c29f67d05c51e7eecd6771c014a4f97a244e4b80e7aa203c9df886a0f8e9e7.m3u8
-tiankov folk (576p),https://epg.pw/stream/ab774029b34eda4b786650ac5b6484dc15d2452226d6d2bae3f791d192fe9fe5.m3u8
-tvn-bulgaria,https://epg.pw/stream/a61319a3098639f7ce66181b247b9913a9c682f3613d38487230c42b7eeee709.m3u8
-柬埔寨,#genre#
-afn tv,https://epg.pw/stream/36178b00481de91d1b2464796a131df6734ab854620cc509e9e8b34f74d4be12.m3u8
-afn tv,https://epg.pw/stream/aedeea1f357012b2621a1d65ba0b390bbcfc857e50852fad12c65ead88ecdbaf.m3u8
-afn tv,https://epg.pw/stream/4c1fb7cc931b03768691e8c55651411d33cd6a4c0a621daeeb2e04d270521c92.m3u8
-bayon tv,https://epg.pw/stream/3fb7f5978b8034b5c305c2f7c88b86817aa75ffaa72d03aa0a12192458307544.m3u8
-btv,https://epg.pw/stream/dad627a1b0a888ab5aceb95d5b15e8fa39728d1813f7f22ffbb1547b669d7a79.m3u8
-btv,https://epg.pw/stream/433845cf4923afd0e691d0e119f3d3dca68e2b507164d6c3a51b5bbf563d41fd.m3u8
-más tv,https://epg.pw/stream/91cc992e0d0c8a9b2df357fde86dc542d5ac7c6ebdcb21ab09176b1806ef907d.m3u8
-más tv,https://epg.pw/stream/127aeb0b3aa6998112ac2c507fcccc4fbaae0864931078ff26be14db0e07ec65.m3u8
-ton tv,https://epg.pw/stream/671b16be48dfad49798694584eddabd11f6e37523734053fd36921dceb7a2f9b.m3u8
-ton tv,https://epg.pw/stream/f38696c02cb3aac1aaecfb67e48b64bbdbd967b214014c18ab8105dc448e416d.m3u8
-tv5 cambodia,https://epg.pw/stream/4b9513bd7ed056dd915f26b2df84894a457ac7b35a99b9259a9acc0cbf791197.m3u8
-tvku,https://epg.pw/stream/091e5cee134e2631229275d3de71cca86ba78e2c1a3017c375664c3c38e1eadb.m3u8
-tvku,https://epg.pw/stream/c5f154ccba9a2b21d6aec8c0fff4fb2a95be1344c8383b6f992043861827c044.m3u8
-tvku,https://epg.pw/stream/9de7f7dd254b887031daef19d6fd23c1af9a48789c68775589a37210829a6a3e.m3u8
-tvku,https://epg.pw/stream/739b2896205d0eded42c2c18ab8e289249e48411ef9d246abbffa500d856e765.m3u8
-tvku,https://epg.pw/stream/c4f9828eca334d4fec84e8d9f59c923857435465f8103046f814023742ce7696.m3u8
-tvku,https://epg.pw/stream/435021d9eb5bf1c1db2405198973c4c14442bdd2b2e0c095599b41251d3ba2ed.m3u8
-加拿大,#genre#
- Fox Sports Racing,https://epg.pw/stream/dc25210123c35aff781bb27250f3fe7a272bd33af2397d0ed890380e97e89b27.m3u8
- Fox Sports Racing,https://epg.pw/stream/a165a98134bff44625379ebb6145bdacd1ca9c79b5c9cdd6ebb540fb359ed9f9.m3u8
- Fox Sports Racing,https://epg.pw/stream/3d8e97b90a231099e00222179e4a1a223e9ecc502ca455a425a3028e26469dbf.m3u8
- Fox Sports Racing,https://epg.pw/stream/11f820f6cff0adaae6a77a3a8c112300dc39b661d63d993043eb16530efb2cf0.m3u8
- Fox Sports Racing,https://epg.pw/stream/9db0e8ed0826c1674c5708d891e9a7a999222383e03007e608358c7e1506e7cb.m3u8
- Fox Sports Racing,https://epg.pw/stream/5425ccd6ef1a6ce7e6bb801865bdc509692478a4e9f3285511c001ac993a1de9.m3u8
- Fox Sports Racing,https://epg.pw/stream/972bc559a0c83c3de2c56422c15850fc6ef7d555d6b92960db864bef9776769a.m3u8
- Fox Sports Racing,https://epg.pw/stream/7ffacfd00ef742a96bfca5c681af14f0317f57a8cd8d0a5e491339964ceb2332.m3u8
- Fox Sports Racing,https://epg.pw/stream/b096e6d8d3c47b4489f5933ec77e28836b0ceab3dfc68609a50c81e747e6067d.m3u8
- Fox Sports Racing,https://epg.pw/stream/c2cf56b3616a48fc017d686e564675ba53a0fb5e08d6c439351164f7b5404d6f.m3u8
- Fox Sports Racing,https://epg.pw/stream/1c6232302798c826c3e5db4b0aa4541df17a36ac0dedde48bd1bfe6ac00f5862.m3u8
- Fox Sports Racing,https://epg.pw/stream/fab301e63cf441b75dc818e1713dbdd16ad7e0f2c571c3e24faac30d84b347ea.m3u8
- Fox Sports Racing,https://epg.pw/stream/0304723564f7017d128d75c7b09cbf485d99cf83f49fe8f663c32930ae063246.m3u8
- Fox Sports Racing,https://epg.pw/stream/0d23b1f9df249a1af5fc919e2321acb6caca4563480bcd86b0f1efce7c3d1305.m3u8
- Fox Sports Racing,https://epg.pw/stream/456d34177e701dddf0d88090aff9200fdf2ed50d7ac3c09ee3d01dc4c5507590.m3u8
- Fox Sports Racing,https://epg.pw/stream/664bfc068f79b70ebbf53590ac31547fa75ccac1eb4e87f3d88a928a5db92b5e.m3u8
- Fox Sports Racing,https://epg.pw/stream/8eb6d24aef3cb138cca35c2bad169bf0db5ce315c841382da4344976a9bee406.m3u8
- Fox Sports Racing,https://epg.pw/stream/483fe46b76b875a3ab09f612fa258837a75eecedc142843c8056910211da67de.m3u8
- Fox Sports Racing,https://epg.pw/stream/4232466ff03e4fb260ff1872693836b6c1818dfecad5be8adb31e83745dd73ba.m3u8
- Fox Sports Racing,https://epg.pw/stream/eb6f0983890a1b2cb0d827fc3fef93083618faf59d65de308f383699eb001ee3.m3u8
- Fox Sports Racing,https://epg.pw/stream/d2dd924de6d31d3429e42ed859cbdb1103e41ef87af085232017666a507d55f9.m3u8
- Fox Sports Racing,https://epg.pw/stream/f6d05a2b69b71d56585749db49b60c9ddd7f2f9e55ab522d6b2b3f6af79b49e4.m3u8
- Fox Sports Racing,https://epg.pw/stream/d7c4102f8493e796c510f4115414dc3906c07cf3a85d161ea2d1d43d5de9ecba.m3u8
- Fox Sports Racing,https://epg.pw/stream/35679358049273a0a5f76ca9753a6425a0d927a51c07d41f024068e96247993b.m3u8
- Fox Sports Racing,https://epg.pw/stream/98ceb693da2c6cd28a0929bffaac5f6aa6347d1e692ea813c99b94f73d99de94.m3u8
- Fox Sports Racing,https://epg.pw/stream/0b262438970289eacb14a5e04e8c52171687e6e21fae2bb4e60bb530e12b2bf7.m3u8
- Fox Sports Racing,https://epg.pw/stream/9eda2fc8ec514b4a61bf696bf0c521fce12eac38cc58a626008e4ebd01bbc6aa.m3u8
- Fox Sports Racing,https://epg.pw/stream/c4368af827b56536c6671e1e4680fa316a0935185299074cf14172a6c4a2793a.m3u8
- Fox Sports Racing,https://epg.pw/stream/2ac0ecdeca5839399895c69fc7d223c14185652a857e34e9de7f41c4f0d2b43e.m3u8
- Fox Sports Racing,https://epg.pw/stream/c2bfcdfb027d5f6919ffbc29b718f37483ee45639e1d2449e7c1f8a4ae4bcae8.m3u8
- Fox Sports Racing,https://epg.pw/stream/af8f50302f622a8e6c8e72d09a0e4ba2f684fa2c770790ac9ad4831b07b8a8d4.m3u8
- Fox Sports Racing,https://epg.pw/stream/2e6607cd224bd0b918a18c555734a0c2ce5d3bd32af3e3a3fac11ece32e371c7.ctv
- Fox Sports Racing,https://epg.pw/stream/3ff64d4318eb9b400ad9c161b84fca7d109fd7fabc98ac260116ffc44c495b03.m3u8
- Fox Sports Racing,https://epg.pw/stream/d94ddaf2c6cc0ab947d751a5967d8d55a451f77a92f19991f0c84a803912649f.m3u8
- Fox Sports Racing,https://epg.pw/stream/7227e6c0732e2f8986c2ac9a9b192c42db3e6bca822ecb5de5664bb26461f407.m3u8
- Fox Sports Racing,https://epg.pw/stream/6d096ba419014ec1d80584bf535523706d1acd71416ab26fd149fbbff7656f37.m3u8
- Fox Sports Racing,https://epg.pw/stream/deccaf36bd4a091f343cab04020ca0c569abeaf2f8fe364d35ec98f5376560a2.m3u8
- Fox Sports Racing,https://epg.pw/stream/1ae6871fa996a7cd305299a82b7cca0c45486c7285ad2acb74b97210b00c4ce9.m3u8
- Fox Sports Racing,https://epg.pw/stream/98c0392e73f2b15d254cc221a84901b84f0b11c5d661090ae13034de515ca399.ctv
- Fox Sports Racing,https://epg.pw/stream/b83568dabce5763413b419ce03c898b0e6c48c3511a0c199cb216e21600c11d8.m3u8
- Fox Sports Racing,https://epg.pw/stream/57d94a3f54c64086784747d040a24b916dabe6d6489ae71d3e9988e5a3bad770.m3u8
- Fox Sports Racing,https://epg.pw/stream/dd14e65344a8e74a5613bf8fb7bd99a041154056edc30ccee451050a49e739d3.ctv
- Fox Sports Racing,https://epg.pw/stream/777838fc8a2c1a713225f4667dff8ffbd4b1497a1b18d17ef0d5a2b8fb226a98.m3u8
- Fox Sports Racing,https://epg.pw/stream/0ec6de8eeacd8dea646bbb257eaae1e1f7e04aba7e13a76a2f1206ede25df5c5.m3u8
- Fox Sports Racing,https://epg.pw/stream/54ec98445aaff88f6a703230ee8e2bce53f2317e65c6d8dddc9fba147acbcebf.ctv
- Fox Sports Racing,https://epg.pw/stream/f0d7c5ce23b35b14bf8681b356d63ebc26a7a7d43041986936c15dac68a2ceb2.ctv
- Fox Sports Racing,https://epg.pw/stream/2430ae77580b2c7fcc9afc28758b6f43cdec396ff268b4fb80c6594275202245.m3u8
- Fox Sports Racing,https://epg.pw/stream/73119d3db8e55613cee3dc3034e31b4d634d859fcb3ce9015b463486297ea91d.m3u8
- Fox Sports Racing,https://epg.pw/stream/2f119a76990f23a59b2ee77e3a70e1f21296ea55b10372d189b7d1bc69dc7008.m3u8
- Fox Sports Racing,https://epg.pw/stream/34cbdad165c1e614d97df93ac91d1f89001bd33b69731897a67595a0d4237ecd.m3u8
- Fox Sports Racing,https://epg.pw/stream/f58244880dc858b5d9672faca0bbb3027be919f9f926c5080009230f3ec9f88f.m3u8
- Fox Sports Racing,https://epg.pw/stream/f0380ce4914878e50ce3396d17c4dc78846035d3751489521f838fe9bc944874.m3u8
- Fox Sports Racing[ipv6],https://epg.pw/stream/b933e2e18e5c50c4811a8d33467a6d34ee89eb0bdb11dfb1c6f1ce0fa97cbd3f.m3u8
- Fox Sports Racing,https://epg.pw/stream/14bbce508c9cf5b5e7cc12151881e4712eb7afc4ae1e6a58e6f78ae45a7f7c86.m3u8
- Fox Sports Racing,https://epg.pw/stream/5558e35d0f89a684443b7136569f8a46139aee9326399ec151acc391ca68f662.m3u8
- Fox Sports Racing,https://epg.pw/stream/0fab98c646087e6e71e516a2dcd5e73e5232692eadcf78f61924fed89cd0165f.m3u8
- Fox Sports Racing,https://epg.pw/stream/6504f38c3faec6882b610948335ac519ee187b9c2a0b03395c89262c4abf6a14.ctv
- Fox Sports Racing,https://epg.pw/stream/3c2925d8825c29686079a84e6f7c24587bb94aabc45c1d4227d8b1d4cc059711.m3u8
- Fox Sports Racing,https://epg.pw/stream/773f0ca05d8ba99a8b564de0a6b65817986bab94aa7e010a04912ec4b902efc0.m3u8
- Fox Sports Racing,https://epg.pw/stream/110730bc3bbf6fa7ceeaea5339ad72523fcf1ba2fceaca571f59f4a8f805b21b.m3u8
- Fox Sports Racing,https://epg.pw/stream/b353ae55d0b89bc3b497b0b84a33ac4509661e7ea20924ea3ba6cc9343fd9967.ctv
- Fox Sports Racing,https://epg.pw/stream/ac96a6a7a3562ef4339c0057589f59a045a1aa5c7ead8fb34aa70c8eed3870f4.ctv
- Fox Sports Racing,https://epg.pw/stream/01adc5efe81edb43148c5654f62e03ce81339f7aeca6725ee0a0c9b1dbf713fd.m3u8
- Fox Sports Racing,https://epg.pw/stream/285d2336fa53744bb34cb1b1a9f22d0352244b736d116860c90df86f66330e53.ctv
- Fox Sports Racing,https://epg.pw/stream/1d5c0d0341ed29c1af481ec9452b8c951a5c5561b664e3948ed5be038e9ff57e.m3u8
- Fox Sports Racing,https://epg.pw/stream/5effa9c47e2905097e172b4b68ad7b55f332ed497b7dade937d44da8eeb8e0f8.m3u8
- Fox Sports Racing,https://epg.pw/stream/115afa3aac8abf9d5aa6d3c0ab7215086ee4d42060617f4b64bd66b006b8ab01.m3u8
-Awaz News,https://epg.pw/stream/fc8260d594695d651d5ce6114fda868af009aeed154be879a40cdee4f66218c6.m3u8
-CP 24,https://epg.pw/stream/34ffca8c7db968bf7d76fd056079e7311b5f59b19d06d29611fd7d9b69c5bb59.m3u8
-CPAC,https://epg.pw/stream/72a25cc75ece1e825e2c0ce64d9b589e62979a93342497a09ab80003126f909a.m3u8
-SportsNet One,https://epg.pw/stream/6746aca1475d3854cff6a1e082efaf6645c259d360c9253244627f7615558492.m3u8
-SportsNet Pacific,https://epg.pw/stream/c024c33549e30b9dfd2e8f55711bcb63a77a01f18a2ed85eeb3667562d480b05.m3u8
-SportsNet Pacific,https://epg.pw/stream/d30de4a1e0fc2e92cf377cc1d9c8dc5cfe092c7b0c5e603eb5b1eecad9486707.ctv
-SportsNet West,https://epg.pw/stream/979874b01377b9d6141868823cdd3ecc74ccbfebcabdec60932c80543da66cc9.m3u8
-Sportsnet East,https://epg.pw/stream/f8ae3dd8e3733a94372513915fe40697d1d1fcd28e2a662f2adf80213f881cf6.m3u8
-Sportsnet East,https://epg.pw/stream/06542a0ac87ec27b16f5e096012b684d8b14df05357d6189bdef61ffa47d1486.m3u8
-Sportsnet Ontario,https://epg.pw/stream/10f2842733a31c8fb3d461c8035995cc1d6c89d0df81c8b004fa10a815db4f3b.m3u8
-TV5 Unis,https://epg.pw/stream/56199538b07b1202bcacabfdb002454b3d41d6268e5f96586504e9125ef97487.m3u8
-TVA SPORT,https://epg.pw/stream/a72e19f657706e16dbe91b423faf15422bdc1fa54ee4225ef4473664e915b5bb.m3u8
-canal 9,https://epg.pw/stream/977759f880c79f063739523f85eb63ea8e2319e66b8a72ddc412285827b5c0ce.m3u8
-canal 9,https://epg.pw/stream/f5f7d35e8788e809c1898b225969955d696d811ddff237f7f7ca29f18bed3a3d.m3u8
-canal 9,https://epg.pw/stream/2c51cae4fb7f33e4fca575dbb30a22816c9d20058fae59f3baa6cce5971ef53a.m3u8
-city tv,https://epg.pw/stream/d73050c84ef5ffe820fc9d5c7ec0336cb1711b4a05f1fc46591fd1eaa78acef8.m3u8
-city tv,https://epg.pw/stream/eecbdad996f126f6c538eb91df535bf15007a8ace558d50985d58556c1e95050.ctv
-city tv,https://epg.pw/stream/7874cf2370f8b2e93dca93c661d230d8c35c13e21cc4a7dcee11d67b6a6f34f9.m3u8
-edge sport,https://epg.pw/stream/b7a865e0d0e03c93af0e90858ef297bfa28e601185bdf37f4ed26a1486e45529.m3u8
-edge sport,https://epg.pw/stream/e4fc247c942e915fc273df9e9608d3c5e460bd4f2171d0f69c5bc09900234fe5.m3u8
-edge sport,https://epg.pw/stream/ad8b375661196f83dc1bb6d0be01b3a43448a3f4f64624eabf9501964a0dd98b.m3u8
-edge sport,https://epg.pw/stream/c4776e4afe8b7013cac8e16ab2ae7eb4a88996a252710d8ba65f485b836c9491.m3u8
-edge sport,https://epg.pw/stream/199a550da4a7ffa8fab4ed9f21226c0d52ce22f229bf47082df52744d59ac400.m3u8
-edge sport,https://epg.pw/stream/7d1cee39d0cf5cd29acd37c73a77e80f70488d890fb975f92629a9a27ce903ea.m3u8
-edge sport,https://epg.pw/stream/0f0ad6a772bc931d24368b3de20da338ac97f2ed2440f5edcc326498121ba440.m3u8
-edge sport,https://epg.pw/stream/28198b071072b42f15b4562c296a9edc89618303f691b27339b8ddc1190ce866.m3u8
-global tv,https://epg.pw/stream/c9ba0cf59817ccb6303796ff6f876d3f1ed58f8029f927364f9fd5627a7af8de.m3u8
-gtn canada,https://epg.pw/stream/f48e4779fa486a1e9cb0e9b915f5b4af57bba7951b49b8c9a906339bdb707928.m3u8
-lsn - lax sports network,https://epg.pw/stream/ce0c8495db4aa92e6d6a3fbbb2fb5acaaaa4dd8bb1701ea32362f7d363335755.m3u8
-tsn 1,https://epg.pw/stream/6fccf79b112c4509bff5fad2979d5e0fda54c3769f156b68a295d5e4f4dd27b5.ctv
-tsn 1,https://epg.pw/stream/90850035fb27d6b760a4be6a6ce8d02c9655dc22d79a657d5cf361342d9cb00c.m3u8
-tsn 4,https://epg.pw/stream/07e3ae77bf1784b175e80f40511c33278804a03f0df00e5efa8aafde2b28c129.ctv
-tsn 5,https://epg.pw/stream/41cff10f36441b129e908607340e1ddb08e6230c89db35c095a32813ba0722e7.ctv
-tva (vicenza) (720p),https://epg.pw/stream/d7277f5f0806eb2b926b0c666755f9ce1c7891395690b3c644052767b792227d.m3u8
-tva (vicenza) (720p),https://epg.pw/stream/59cf93aedc0018c5addf71cebdfe8daf9da6f45fe2b0f4e053dcc60e9178b250.m3u8
-tvo,https://epg.pw/stream/49e3553eb9fd1756ffe6750415dcdf72675e1433dbf5643b2af25b402da30dc5.m3u8
-ช่อง treehouse,https://epg.pw/stream/1bb76c321aff92fc6dcaf8aa7b3c8b1a5ba0ec42d008ee0a88379ddb88b9e387.m3u8
-ช่อง tsn 2,https://epg.pw/stream/ed2bf685073fd3ccc77845fbc478e32721d2ff83f6f4901c67dda92372c595cb.m3u8
-ช่อง tsn 2,https://epg.pw/stream/8dcaefd765ccffd51fa1832376a05a9a36a9332b43f476080b4cfafd19feb6f1.ctv
-ช่อง tsn 3,https://epg.pw/stream/86b94e5845c4de9cba1c770d381a3a8bb58c18cecc88af64ea5c924cec7a03d6.m3u8
-ช่อง tsn 3,https://epg.pw/stream/9243fb2560718ed6e5b1712a8796e0275e949d1b0bf9333751fd5646e10ce100.ctv
-智利,#genre#
-CANAL 24 HORAS SANTIAGO CHILE LATAM,https://epg.pw/stream/40adc10287958a96b105faae6ecb3ea85c5f3e18f28ed4d271e4a67cbe78e05e.m3u8
-CANAL 24 HORAS SANTIAGO CHILE LATAM,https://epg.pw/stream/ca529b884d123f723c2e701357547926a5786c7b522e6770e3c9a5032b63f79c.m3u8
-CANAL DE NOTICIAS COLCHAHUA CHILE LATAM,https://epg.pw/stream/fa954b61bcfb59cc422d4f2f883d5020982e4c6bad61ae1aba2ff77f9689dd7d.m3u8
-adn radio,https://epg.pw/stream/067541f3bbb0c971f48bd366e34c2919391a4d0f246ad2c8cf3c197327099021.m3u8
-canal 24 horas,https://epg.pw/stream/2977bda3b9a76a236999966469423689081263e135ffb3597945071b7ade4bc8.m3u8
-español,https://epg.pw/stream/5a910aacf501a123031e9f96b8e85183f9102ddb49154585678c7251129504f9.m3u8
-español,https://epg.pw/stream/9751616abe0ea1fc9f0d3c06f9af9e85a012d80cb8b217d7869130fee6d73cf6.m3u8
-telecanal 12,https://epg.pw/stream/b4af095cfac3a18ca25beab7887b21de01870363ff1492bc6ae9c29945da5071.m3u8
 中國大陸,#genre#
 BTV冬奧紀實,https://epg.pw/stream/918704cadafee62d0b51f88b812cfcb3c91dc4e0aa8582981f59435376cb068f.m3u8
 BTV卡酷少兒,https://epg.pw/stream/8d9a4c70b07dbb21a600a20002ca6fe68a6a2a7c4a1ea45f37fcf7d25c943e05.m3u8
@@ -2187,6 +1864,490 @@ rt documentary,https://epg.pw/stream/79383fa4f6857b64bb7418ac37eb40194a0f6363fdd
 黑龙新闻法治[ipv6],https://epg.pw/stream/08e8dc836a9f361c4c530b31e91fb863e7d3f974cdf9d38126038200f007d3ca.m3u8
 點掌財經,https://epg.pw/stream/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8
 點掌財經,https://epg.pw/stream/3324872dba2778cd4a7e1f147a00ec4bfd1ce5aa9408586bf8358c383c00439f.m3u8
+台灣,#genre#
+115新天地民俗臺,https://epg.pw/stream/4bb6cd65c225d9000bfa15a013db79f1068df4d235fb7e2b041dad9ae2b4d1c0.ctv
+115新天地民俗臺,https://epg.pw/stream/83cb88afa92f7469a01bb33a62c2ec15328cacbac9c0ea94f17ce3099062cac9.ctv
+115新天地民俗臺,https://epg.pw/stream/f41827a1237e7180f5397cd04a3521f6bffe93737f13bd0f27dadeaa4f900746.ctv
+115新天地民俗臺,https://epg.pw/stream/a29ba2a4077fadda7271f9196d93073850de7b69cae5be8467b20fd906de21ba.m3u8
+Animax,https://epg.pw/stream/8959c648275f5c9b5d29364c7797ce88802775c745d9c726ccee1773f599496d.m3u8
+Animax,https://epg.pw/stream/bf8b2ee2054e29c905611d47c54f2b15e6de0b5e865fed02b8cef5876e1bf99c.m3u8
+Animax,https://epg.pw/stream/c00127d805e82b76c7aadbc58c94e6c08d7e35f9fd07df19c05597173345fdaf.m3u8
+DISCOVERY HD WORLD,https://epg.pw/stream/d476259f960b090099ac5b0617a17de7d827b7225ba978cebec1b338730b64e6.m3u8
+DISCOVERY SCIENCE TW,https://epg.pw/stream/035902f8b3b563e0b5a7cd2ef2ade48b6c805f0d378d4265059b9948e469c036.m3u8
+FOOD NETWORK,https://epg.pw/stream/ca05614fef9f090bedaf74eecfac46606417411992c65e72b72a2f4ab14f9ab9.ctv
+FOOD NETWORK,https://epg.pw/stream/9a562dacceddfab5a72330a281461ffa56d00a68cc96d014bd870344a79450a9.ctv
+FOOD NETWORK,https://epg.pw/stream/cdd389fc153bb92ff0e0c1e65a487111ee595b0e2f282f486035e57c7dd2758b.ctv
+FOOD NETWORK,https://epg.pw/stream/bbfc348558d8c650ddaf84b81f10246a08f758a183b7a52a24d8c24578e718e1.ctv
+FOOD NETWORK,https://epg.pw/stream/8ad565e63c0faedd345fe35393067ebc9f1f22412a25c87bca9fad1daaacaeb0.ctv
+FOOD NETWORK,https://epg.pw/stream/533337d80c4c3c8fa80412cdd7e7d729d81563e4e71e2a522dabd7aeb307f9ac.ctv
+FOOD NETWORK,https://epg.pw/stream/c75eeb5ebde73c609cef89bca777c08845ec1cce86d1efa8ddc6e19678e8a0d3.ctv
+FOOD NETWORK,https://epg.pw/stream/40eb2114bfbf6573d78f3c3df7cd6ee56bb46d9daa8db960d572a901b09e0bd6.m3u8
+FOOD NETWORK,https://epg.pw/stream/1681c243565e4d4085a9bb7c193e3d86b7445f144325dcb9ffb934f9510641cc.ctv
+FOOD NETWORK,https://epg.pw/stream/90a1fabb5a2ee42e297b914c99b0b3faf44b1a01cdf6972dadde31110c65841c.ctv
+FOOD NETWORK,https://epg.pw/stream/a85264dc60a98dcfb2909612b9d75b6de6e41c39ea901d9c26f91e74f5661e7e.ctv
+Global Trekker,https://epg.pw/stream/752f272be46e913e470b2d0ad6dd56853a88b5fa704ae831b0217f52d83de826.m3u8
+Global Trekker,https://epg.pw/stream/315d997def5917ea5bcc0a4c05b7eaab81d844380a44ccf14af702c46e3936e3.m3u8
+LOVE NATURE,https://epg.pw/stream/1a86f28388b512beaf71e98286d7b27abbbeecacc914c05b722c1fdd40f363ab.ctv
+LOVE NATURE,https://epg.pw/stream/8d9afb048cafc1de495b12fb4f3792b9c3526d31a2900218e3cca7768176b9ff.ctv
+LOVE NATURE,https://epg.pw/stream/9c867fb0e65cff4042c840ccd9d0fc1dbdd9125d1b66e4ea2cd6c4b621279fca.ctv
+LOVE NATURE,https://epg.pw/stream/50b37a23774517c16dfe5b104ce15ec4e4d933a704184d2981c37e7735d216a6.m3u8
+LOVE NATURE,https://epg.pw/stream/59c05b5f45ace2ee35d58a647079e8c79d2c9d622f35a2744e6ca39f1e7d62f1.m3u8
+LOVE NATURE,https://epg.pw/stream/63d67f2a207e6f649f16cdeb7dc9eb190a95de243d54505301b3d4b8861ece58.m3u8
+LOVE NATURE,https://epg.pw/stream/9738bfc90d9cd020ee8a9797361cfde7c85528dadd9638913a2dc0114384c687.m3u8
+MOMO綜合,rtmp://f13h.mine.nu/sat/tv761
+Nat Geo(TW),https://epg.pw/stream/e9cbfa8672ca34172dab382da2dd3f8e5dd24a3710923924f1501faf3b7a0f64.ctv
+Nat Geo(TW),https://epg.pw/stream/91d61b540bae7482cbe1cfbf93a38cbfd6bd1cdba516c9376b89b958a5a3c89c.ctv
+Nat Geo(TW),https://epg.pw/stream/a920d05e5ca5c23ed112e7c8b33f6b2b44258e5a7f2d36465bccdbb8843d9590.ctv
+ROCK ENTERTAINMENT,https://epg.pw/stream/8c8f12557120af11c0343207e354cbbaf692b5d271cb873dd58cc9632bb99845.ctv
+ROCK ENTERTAINMENT,https://epg.pw/stream/c71eac92bcaeee9085fd48e514f10f7a0068f67721f3ad6db9e9a501f4a05cd4.ctv
+ROCK ENTERTAINMENT,https://epg.pw/stream/1f75bf19fa96a21c86b88f77f0395e931082798623c11876b7f3f74f17e073cc.ctv
+Smithsonian Channel,https://epg.pw/stream/e9b55b0627ec0d41254df6d57f8f84d9519570dab7764510b4c609677fa22f66.ctv
+Smithsonian Channel,https://epg.pw/stream/3963d8bd349fd3c3305ff7271090906dc297acb3ed1d5de31b8f124637b49b43.ctv
+TVBS,https://epg.pw/stream/00c14f2d9028476600ce529e01307b3850eacdf925d087e697a7233c759200dd.ctv
+TVBS,https://epg.pw/stream/06baf79b6e6515fa271791223499a2ecf53f1917f24c680bfa8a7539162cce76.m3u8
+TVBS Asia,https://epg.pw/stream/b24ea75b5547a557c9eaab14ada1cbcfc1fb2f927c682aad461678671fed6157.ctv
+TVBS Asia,https://epg.pw/stream/d1c9d8557652b64438ad61572eab00656194989f0fa32d241354ed5a88f7fdd6.ctv
+TVBS Asia,https://epg.pw/stream/682a73ed19c05f74af508099b3bda0f58bd5a21c8ae8d08fd6802b1deae96799.ctv
+TVBS Asia,https://epg.pw/stream/2b5093889867dda8329030e009f1829782c8ee0ebf83df594f7963e32dc7011b.ctv
+TVBS Asia,https://epg.pw/stream/bec78e286aac6635512a9f28b62fd31b8e95a4a6c3d14cfb31cc3924b0f4725c.m3u8
+TVBS Asia,https://epg.pw/stream/1d3fd64401a15fe4c03686bd236262e655ddfa84c99879ae5273532ffd2ae4af.m3u8
+WIN HD綜合,https://epg.pw/stream/beedf009af55b6adf5840ba8defe6a88bb4e1b85c6e31907f4d0c93a4d6f1d16.ctv
+discovery channel cee hd,https://epg.pw/stream/94376536df0cfe2fdad4a6e4bf5b7fa6cd6d6fe49d9a53e99bcb2344979ffced.m3u8
+discovery channel cee hd,https://epg.pw/stream/3691e4c9c5e781829bd530b40a382e355859c454dbbc7c5d3786db329953c708.ctv
+discovery channel cee hd,https://epg.pw/stream/8691024f0b37817866deb4539e1dd3e6627395cd8ad9f9c0cae3063b6f390333.m3u8
+discovery channel cee hd,https://epg.pw/stream/6660b80a6b508f316b418a3ce81968759db73898ba0a261dce84ca223ec2cdd2.ctv
+discovery channel cee hd,https://epg.pw/stream/04a408a0354c634c7cad80a9e0f90ccfebc366c4024146c243abd12f513aab4f.m3u8
+discovery channel cee hd,https://epg.pw/stream/6a9357630adb8e0e9030f25b82de1e753361d6c822c33094a27c8462eadb6ae3.m3u8
+dnj tv,https://epg.pw/stream/cbec18c957f39e0c0815864db21d245391482b6c0273620422318cc0b24de644.m3u8
+made in hollywood,https://epg.pw/stream/591e0f2e83132e57ed5dfd03f6502828ae2dbdf70e450e1f165c22c40503dae8.m3u8
+made in hollywood,https://epg.pw/stream/856120e8ee2029d1e8a5984b2ee23320b8e768a4e90544fce77d3ee8cbb3a05c.m3u8
+made in hollywood,https://epg.pw/stream/8a1cbc1af24b8d74012a128ebd952be710ea167f34d6ffc5ce6203aeb0b14710.m3u8
+made in hollywood,https://epg.pw/stream/693cb1da3ce4d83011648241a481a18182ee8c44783c0f62dbeb2024fb6a7160.m3u8
+made in hollywood,https://epg.pw/stream/cb974b3858e96b0f844f145346f9f301213096aabd05986c7da17f19c9035361.m3u8
+made in hollywood,https://epg.pw/stream/989eb94e870bd36822d0078cb3fa743a9295f65d00b4b471c365c3f5eab578e3.m3u8
+made in hollywood,https://epg.pw/stream/9c60cfc4b5a062fc264fae9f3ec66eef1d6ffc0e88f3fbde003ede2c94ad186b.m3u8
+petclub hd,https://epg.pw/stream/de8e64dbbc14a0284ad805a67edc279bde1fc6ec898904aedc6fc5e83c61225e.ctv
+petclub hd,https://epg.pw/stream/b3dba2bf19d632d892e3eafc0bb6065cd219f3b73ef17ed90c9db9d992659e38.m3u8
+「河南」新野综合,https://epg.pw/stream/e22466cc931f87ee3348117d7805f44f25f699df8a5b91430e2fc4039b901076.m3u8
+「河南」新野综合,https://epg.pw/stream/730624d47482fed3331196e40e506833a98c72142af419b50c098c0fdedb850b.m3u8
+「河南」新野综合,https://epg.pw/stream/6ab2a2e7ba69c1875adb1017afd6a908963105d2cfd5034319ee1b89b37d1ae5.ctv
+东森 超视,https://epg.pw/stream/19cb39b5599a5ea2cde824c81f55696b8f505d8ee3c6511ea3f37ea7ef1bf61b.ctv
+中天亞洲,https://epg.pw/stream/b2c21dc375aa7d91af1ae24341e9065d56b0b142fef4d75f915a2b43552f907e.ctv
+中天亞洲,https://epg.pw/stream/7d5f7bb550596ec9f43aed600bd4ef31c93b7232035060e9bba7682f0de8dd3d.ctv
+中天亞洲,https://epg.pw/stream/f6e9d7395b1bfef5477b99b6710813db95712e5e33f617ab299228a90c2411f8.ctv
+中天亞洲,https://epg.pw/stream/4631a398ff32a1e8ccae925c4571c3cff405ccc18d125b394f180965c770cb24.ctv
+中天亞洲,https://epg.pw/stream/450940587fa1fc5e0d5e7dcc867cc7cf516be1703ac460838de30e3d298296d7.ctv
+中天亞洲,https://epg.pw/stream/1e59226934cf2ee352c61f573fc21b21a7d754f3dfdef717e741678046049c72.ctv
+中天亞洲,https://epg.pw/stream/14a228ce69868c95f5c2c75922dde9d5d30f9433b12cbbc74831ce5116087799.ctv
+中天亞洲,https://epg.pw/stream/392bd5c48cfbf25180dce5e61f5f97de6dd3d429d3c750a24103e3545d7f03a0.ctv
+中天亞洲,https://epg.pw/stream/6eec344685b0c1c7a94276677b1509b3f90837f552546464ff68ba72e8795fbb.ctv
+中天亞洲,https://epg.pw/stream/51fa756c939b22fb5a247657a2cd7e04e2d6a882002ddb09661f32ec3508335c.ctv
+中天亞洲,https://epg.pw/stream/c2b02c9e0bd33be98a91eb3dbcd0c270336765c2ac46e8343d8551e6e292dce3.ctv
+中天亞洲,https://epg.pw/stream/5da11f16c4b1bd5eda82e3cc51ae9c133ab688bf8936038c45016c6af87b7c56.ctv
+中天亞洲,https://epg.pw/stream/1fc2c15e1adeb5bf15d3d9d51140f60ef5daa4a31793bf2012204b678994a97d.ctv
+中天亞洲,https://epg.pw/stream/901aaff83dc9634e8986d4bbc4342f4c87e13a77ab59054be586f0d80b68e0a2.ctv
+中天新聞,https://epg.pw/stream/e5ed1698854b95fefb5c81593d928583bcd278f72388abddb10061f8c7d927e5.m3u8
+中視,https://epg.pw/stream/00c0e49f6b0ebf36cf01a6b87955f78c400927f22fac4390ac0838cebd333d11.ctv
+中視,rtmp://f13h.mine.nu/sat/tv091
+人間衛視,https://epg.pw/stream/05b9099bef592e55129817a0f82b4cc60378970bc856b993ae9e330e85f4351f.m3u8
+人间卫视,https://epg.pw/stream/b477995b160cdb9c7e4073eb76a5e241dfe20bcfee9faf4528af9377a53bf6c5.m3u8
+人间卫视,https://epg.pw/stream/42db7d21271f321cdd59f552ed6de00b634a389edf2db56e1f2b59852f9551db.ctv
+人间卫视,https://epg.pw/stream/9d0b87502ccb47a1a2c8211dc602777d5146e941c631c933743048da0b44053d.m3u8
+人间卫视,https://epg.pw/stream/ab7bcf5a18958aaf322e01631bd9d031db56960aeabbb526a8781fbe1c1f1ba3.m3u8
+人间卫视,https://epg.pw/stream/2a4504f486633cdacf70e84a9bddad9f70e8cdf960695cb54d5f278d83b3a3a4.ctv
+人间卫视,https://epg.pw/stream/4eb0323c70d760304396dda96d4193e878c24f1080b403142386e13bd15bb06c.m3u8
+人间卫视,https://epg.pw/stream/925df6e71c4dd75f935dbe02200a19e3893eea0a125da4d28447546e7a8bd092.m3u8
+創世電視,https://epg.pw/stream/dbcb37030ce1e99f5860fd270a76e63d2aa00a6a67f609619ab25c5b81a2e0e5.m3u8
+創世電視,https://epg.pw/stream/6dd46c6e6c146cc8383089ae906128af3d45cdafbff6b580d3dde1502e9c1d84.m3u8
+华视,https://epg.pw/stream/bbbcd26d0b86feca25bac4dce21109d46ea765225564aaaedec3b2b9aa876565.ctv
+华视,rtmp://f13h.mine.nu/sat/tv111
+博斯高球,https://epg.pw/stream/7df20d4d0d04045e5722792bcd477b161e7f457e358e314dd7bc5f8bd828b294.m3u8
+台視新聞,https://epg.pw/stream/d4774ec8a87985b129d45af1ff8f45ad7c554acd0d1cb9ce6cbf122255b2140a.m3u8
+台視新聞,https://epg.pw/stream/a68a66899669d90058ad8baacda8c9e59ba8b2c5ab1fb74e50ac7d3bc971e25b.m3u8
+台視新聞,https://epg.pw/stream/e44275a32f95c673d1f2a0084465ae30047704adb964b0efc00b7d7057c512f3.m3u8
+台視新聞,https://epg.pw/stream/6ffb325e878b6ae255f12f6f11aef268b32db0d6b8b43c53fa0041975274cba5.m3u8
+台視新聞,https://epg.pw/stream/b9fa8d19fa8492880b9c9f66eca6111adf20aee719d3cb1e4a027168ca382510.m3u8
+台視新聞,https://epg.pw/stream/eac1d72af640b2368193c724070f1cceb6892b6cb329e871864697f1905af047.m3u8
+台視新聞,https://epg.pw/stream/96afb8d6fa20bb65a774f91d5caa60abc507e35ade518c7992f5f652cadd0914.m3u8
+台視新聞,https://epg.pw/stream/a399e85fa5940ba0350181fdfa9e103f3556324a504c5cb5ef35c0c4f9a04c36.m3u8
+台視新聞,https://epg.pw/stream/1e6f4fea556314599d76bcf7a81101aa774142e1bd344e2354f552f5ca2ea562.m3u8
+台視新聞,https://epg.pw/stream/d3230731a96387dccb11e86bafb66b5715c55e8b3033cbf183d4972995cea362.m3u8
+台視新聞,https://epg.pw/stream/d388b721bbe24174167197bd8df71614187bcb174879a301f1bc24ff2d8d6136.m3u8
+台視新聞,https://epg.pw/stream/07420afeb8a2edf0654aac4b73fe562896504712677577e2929d4425986b3415.m3u8
+台視新聞,https://epg.pw/stream/7e38e8d94c527c78eb0b414d29e8100d0bf3f90d5c73ce799795fe3785675319.m3u8
+台视新闻 hd,https://epg.pw/stream/4c8adef47c01115677bc13b65593946135e6fe8c470fad1db810248c3ca10150.m3u8
+台视新闻 hd,https://epg.pw/stream/323de3953f32eaf0c224d78f1db77be185fa7ce9245786b3bd95d462d86d08d8.m3u8
+唯心電視,https://epg.pw/stream/821eba8c8f03a7d2b604051525642cfdca5c96a65d2fa7ca56ea9d179674b543.m3u8
+唯心電視,https://epg.pw/stream/31720d333f6038736a253006ad6cd6b08ea29626e1e79ce203944d493500bdb1.m3u8
+唯心電視,https://epg.pw/stream/5ea267787f833cf96fdaccfa4265cb6854ff3e67e5bfd4e3fd492986bcf82527.m3u8
+唯心電視,https://epg.pw/stream/7d651c567d48727fc8f95cef7d2b349246baef656e557211c784bc62024b10d0.m3u8
+國會頻道1,https://epg.pw/stream/25175c7fccfbd6b9eb84da550d209558856d777a651e95a9eee156246c364050.m3u8
+國會頻道2,https://epg.pw/stream/80b455104735b3ab7fa31625f949f7d9e9fbc0ef3b0f3fa14023d32922f5379d.m3u8
+大愛,https://epg.pw/stream/8dab0126668b960d4130c12b25e9278ffda43f5b66fa986287ed34cd97cbd721.m3u8
+大愛,https://epg.pw/stream/634d66848d8e5fe80d4fb498f3de9e0a841cad38d5e9a12d8e1b4a807a7f5857.m3u8
+大愛2,https://epg.pw/stream/2b383d639b6b2eade22f2d085141a38ae48a98f24b8a06f485e23f7211bbf909.m3u8
+大愛2,https://epg.pw/stream/60efaf070c91949a4c4e52c9d35746ebfb99b5318b43115c15205965c5807948.m3u8
+大愛2,https://epg.pw/stream/90c3c2fa9df0e57466057e690b618d69c34f5cfe8bdea2edf0522742a91c368c.m3u8
+大愛2,https://epg.pw/stream/adefa4b3b335e22e458ee3232eb44832e815acd82cf7ad1c489d2d11274c700b.m3u8
+大愛2,https://epg.pw/stream/d8ecd4005a721625fd1cf30519dc635fdeec60f7a294302874d5638972f56f68.m3u8
+大愛2,https://epg.pw/stream/5fccf4a4972d39810ed6ac299db54c1cd33cf614dc04364ed982a90592ebff1f.m3u8
+好消息,https://epg.pw/stream/797529276770285bb5212acd5798702e0db85532c78121a94f600759dec5dabf.m3u8
+東森新聞,https://epg.pw/stream/54221319de813f4675b6ccd9ab958d744ed33570caa663c854e9727240d7cbdb.m3u8
+東森洋片,https://epg.pw/stream/8b6c965b023696353ae23ce6216297fa6f2e13236497bcfe9d9955fb69be2259.m3u8
+東森綜合,https://epg.pw/stream/540631c1a98749d22fa009988f446bf60ab5c5a0a3f13a8419d30671f0284182.m3u8
+東森美洲,https://epg.pw/stream/4f75b6abb8483c7acd3ce3b93a088cb93d1be9ec7c8bf4d9137f0f4c3a2076a6.m3u8
+東森美洲,https://epg.pw/stream/3f54de58cf44244a3a2e14cd7388cac348a17ada96c4aba4b5a65f1c4ceeabca.m3u8
+東森美洲,https://epg.pw/stream/d9a679454b6c0b5dad7d457df83d71fb9a68adec2c5f603770e94b88152c5d49.m3u8
+東森美洲衛視,https://epg.pw/stream/568e26b29122e84e3527b97eca553332274777bdf39873fb234fb6581a3f6a59.m3u8
+東森超視,rtmp://f13h.mine.nu/sat/tv331
+東森超視,https://epg.pw/stream/c4bdb9e1c44e823ee9e33f3dbd887f65ffbdfe197707325552c2720a5b872d40.m3u8
+民視,https://epg.pw/stream/151d9e43523a82c3a3bdaa1c54b08177028c783cdd72a2fa26442073dd59ffcb.ctv
+民視,rtmp://f13h.mine.nu/sat/tv051
+民視新聞,https://epg.pw/stream/d74bc09a058876e6c637224a7b60a69874cc28b06fbb467deb379dac72062e46.m3u8
+民視新聞,https://epg.pw/stream/7270ae89dc1f30cfec2c03d01b6e2fbc50863f60936b534814dfd28caa72181e.m3u8
+民視新聞,https://epg.pw/stream/c5164ddd2983de1b83d87250bb921836d47363c90dc4643440e92060c18e98e6.m3u8
+民視新聞,https://epg.pw/stream/357581cc08ace7ef32a04c9c53578fe9906e137989e1f5e0355395f7a3ae8e37.m3u8
+民視新聞,https://epg.pw/stream/9e0c5226b50fcd68d592dc0ae62154c62a9fd50732329250ee0daf4879ccae49.m3u8
+民視新聞,https://epg.pw/stream/1d469cbfb06b06cde4dc59c21272a4e6da364621e97513d03523c96d0c7afe1e.m3u8
+民視新聞,https://epg.pw/stream/75e14c76b6bf52ae5f96e83d07ea3b69008f6b017d18a395b6c6346ef60bcb27.m3u8
+民視新聞,https://epg.pw/stream/59efca9eea64079ba2ac54830e73469d9a1027e2dfd67d768bd4206567866cdb.m3u8
+民视新闻 hd,https://epg.pw/stream/b63bf1df7bf1e2c47a873d3987c2d59a08d8e4dfed1e197bce7e791eb64eb16e.m3u8
+民视新闻 hd,https://epg.pw/stream/2603220ae7a890e8e1027a6362e9aaec880131ce06da58c4e89365ce6d410772.m3u8
+民视新闻 hd,https://epg.pw/stream/6fa1566ea8689cbf43afb55f899dc5ee945e1caabde5bfc367cc510aa794d313.m3u8
+民视新闻 hd,https://epg.pw/stream/c8bfbc31e5af4b4d07b7222dc9ac9315dd57fbd663daafea3ce611c5bc57cf83.m3u8
+民视新闻 hd,https://epg.pw/stream/76f0ee00f9e59f698ff954d5f79bf2c7f5ecbc83a47381bb74906acd165bd48c.m3u8
+生命电视台,https://epg.pw/stream/3f1da41967f70b7fc0c80cce65f2a8c6d9c74b85eb97d39b0f3745b36b69a875.m3u8
+經典電影臺,https://epg.pw/stream/98b5e5e277185eb959abcae72d13987779650fbb0afc1369c19a91f0e8cc5bc4.ctv
+緯來日本,rtmp://f13h.mine.nu/sat/tv771
+緯來育樂,rtmp://f13h.mine.nu/sat/tv701
+緯來體育,https://epg.pw/stream/e5507bbdc9dfef925338d5e3be29d249880f5702d13b4519c7def49163aa386b.m3u8
+緯來體育,https://epg.pw/stream/b972b56855f08c1e06c90358613ad336cf197fddacbc2868b5abdd7294b4dc83.m3u8
+華藝MBC綜合臺,https://epg.pw/stream/c36ae18458367072e8ae84efb20ce3ba685a177e6d8237efffe9317e80603746.m3u8
+華視,https://epg.pw/stream/2ef08642072574008f65939021951a59fe9fc71369c751393f40a1b2234e18c9.m3u8
+阿富汗,#genre#
+LCN TV,https://epg.pw/stream/d8795679a0e31f6e7757013f2a58f85622abc85f5a61f5fe64313417e3c96c1c.m3u8
+LCN TV,https://epg.pw/stream/c8cf278ea478dcb45d0881efa649b1be4188a636260f08049bd0a224a5a1fffc.m3u8
+非洲,#genre#
+Kalsan TV Somali,https://epg.pw/stream/d20815ed7699fd0fc734b46817e30381bd3b092b0859256941e5fb142ede73bd.m3u8
+Kalsan TV Somali,https://epg.pw/stream/c0699a8d39f5ed1b61a6951352ccfc925fe69058e8427741298702aed58fbc73.m3u8
+RTB Africa,https://epg.pw/stream/8ce553e535ab233b144d3d69d748dc9235d74a8a0eefbf272037f67792ff0415.m3u8
+Sudan TV,https://epg.pw/stream/9004e4c218487176be4af12d4ef57dc7d798c7db2f587cddd210cf1a1c9ec54a.m3u8
+Sudan TV,https://epg.pw/stream/8e9c5245f5babfc8336aadd242a6a4f28f6f229503254c62df67a42f77d79cf5.m3u8
+canal algérie,https://epg.pw/stream/2d1b908dd75dceab90a52f685cec4d243f3554ab476285b477f3bc47b3f4b257.m3u8
+god tv africa,https://epg.pw/stream/3d50f6219a895b74a262e895ad4603d9437d32f03231c1b5601874fbde6871d4.m3u8
+gtv,https://epg.pw/stream/bd479af08e90369369ffc0014e9ac718b3a63c9f4aa27e559ea1d3cad060c880.m3u8
+ibn tv africa,https://epg.pw/stream/a732d57dc14a5c39cdf98cc9f4853fe99c12d579c05cad9ab9c8a152f37b8512.m3u8
+sen tv,https://epg.pw/stream/258d005a0974b2e5234737a554442a50d0ed4f38936971483e84e022c7d05faa.m3u8
+vision 4 (360p),https://epg.pw/stream/48207f68c97c94640c3b8955d0f00d707f7d1b273ce68a39739ce68fd56ac17f.m3u8
+阿爾巴利亞,#genre#
+3 plus,https://epg.pw/stream/7dd080a0900277b43d602fd622dfb158df6acfba2dba8459cb0e51f984b005e5.ctv
+3 plus,https://epg.pw/stream/d9581c5580bc9d4c4a3be089d111b9804792c284471be40564dd0c6afaac1329.m3u8
+folk tv,https://epg.pw/stream/26216adb4824b42e4c3d3a4acee0296f8ea8997d161a7402ab7af19605f1d918.m3u8
+folk tv,https://epg.pw/stream/aa77caaad4e53947d4decf621a057a1608dd43b6a129429a5f5adf6be2ec52f3.m3u8
+folk tv,https://epg.pw/stream/490ca731401498e47312dc9d42c2fa6bc5a2026f907b4be14bd94ab412a7fbe4.m3u8
+folk tv,https://epg.pw/stream/b8c2f8174aca17ac3968e2c7e8540c3fe493e460559764606810a569a81228cb.m3u8
+kanali 7,https://epg.pw/stream/cf4cca86ec48c5f6060e01b22ae8bc49e5a610457dcb59e65fe367accbc65231.m3u8
+news 24 albania,https://epg.pw/stream/120dbc30245854de44c6d6246173247507e73f9f8b6eb86745279d9ea205b531.m3u8
+ora news,https://epg.pw/stream/1b1c47bddbc8addff2a5bc4cd4becda67fbbae575cb4c00030bf94e46bd3ff72.m3u8
+sport 4,https://epg.pw/stream/44d2b10794ed82d18da49e7aaf649b7c2661d0b7c4c1aff21f04754817131988.m3u8
+top tv,https://epg.pw/stream/97fd71124b7764678d5b2da5462a139c0a18a92382f651e898f16decb97ffbc0.m3u8
+top tv,https://epg.pw/stream/c06cb744bc067f63aa03534d840c68eaf327e17d8033f06e42ab7b96f1378d74.m3u8
+tv 7 albania,https://epg.pw/stream/3bae309573b44e66451cfef58b2eb3906e58929a98f2260716cc8bba8aed00d9.m3u8
+vizion plus,https://epg.pw/stream/3b78cc061fdfb6d4077be725cf4aa2888e1fb1b44b164f4cf2963d01f02e3c5d.m3u8
+vizion plus,https://epg.pw/stream/490363f9e2134db5c1c33c36e05adbd9f9bfa786d42bac9f2a64d4d0a945ef85.m3u8
+vizion plus,https://epg.pw/stream/c9151caa89e7ed0209252873eaace7a73cb9f2d6b5eb6dd680f14be144f25136.m3u8
+阿爾及利亞,#genre#
+medi 1 tv maghreb,https://epg.pw/stream/d90058d1f41f20af705128e4ff6eb6e7b552e7c0d0b46c631f477c347a182499.m3u8
+rasd tv,https://epg.pw/stream/47d1a775c70d5430a55c4e4bd1a295e1200dff9886799e3ba73861f9c81cdfba.m3u8
+安哥拉,#genre#
+tpa 7,https://epg.pw/stream/45423533b1a6f8c69d3918bba8528730ab48859582364499c8ea1b515f1dbdaf.m3u8
+阿根廷,#genre#
+DeporTV,https://epg.pw/stream/4c6b63680f7c1f2530f67883477237bb200d6339b533fa34ee155a6a7ef2bb25.m3u8
+Magazine,https://epg.pw/stream/b1566b691fe5743f5e948c321a90e074364bde60bc4c10d504f69c3be5db68db.m3u8
+Magazine,https://epg.pw/stream/877792832be9172f4d3e12486f03184eed411e14bb86b07f2ce4ff30e17005dd.m3u8
+amrita tv (720p),https://epg.pw/stream/10b481233810460fae510236ac1284ac1e3f6cbdf4bc7e92a7e0fe241fe8c96c.m3u8
+amrita tv (720p),https://epg.pw/stream/3dee4d4dabd783a709f76fcb978d74d89372c2290547f349b58ffb7eb06b2225.m3u8
+amrita tv (720p),https://epg.pw/stream/da2214e6fe051dc558ddd2783d94959b62295c9ed39abd027d8e2c78a68286e0.m3u8
+amrita tv (720p),https://epg.pw/stream/df4f423b724413dc3b0a11797bd8dc48a424b9d47b230c3c908801388de704ae.m3u8
+anime tv,https://epg.pw/stream/df49e5fd3a5740f95e672d3e1f96cb90623077bd2c56c4d435699e460613ef57.m3u8
+canal 2,https://epg.pw/stream/af14509f1ea1f9fbd1b8d715122d6c23399aca6ec063882ab3b2fda6d5d5c59d.m3u8
+canal 2,https://epg.pw/stream/c9cdcfb63ce49bbd615336cb7c248e2f44c0e880c0b0d48d034160794ee363fc.m3u8
+canal 21,https://epg.pw/stream/308a7db2a60fa5c50a76ed3edb17bfc9b2e081248036f8c1343c2f50d9346324.m3u8
+canal 4,https://epg.pw/stream/c6f3be41ced472a4cd2df4ecf6a45b2969bce0581b5b5fa8184475eb0dda4d37.m3u8
+canal rural,https://epg.pw/stream/83667afff9e53d49ce221fe296ff98cb8db23b8d2a1db0ca668175445ecb46dd.m3u8
+canal rural,https://epg.pw/stream/94453d28e96adf34d02a25ceccc76da1df74dd1854e02e8cda04746540dc4c3f.m3u8
+dtv,https://epg.pw/stream/3406619460b47ce22b07fb4e7df8baa698b126b9161d9258660e309c7c102173.m3u8
+el trece,https://epg.pw/stream/a3db5e8adf7724a815fe91967a0c98c2b9ee6680eb79ce5ec204eed38d66bb85.m3u8
+pakapaka,https://epg.pw/stream/d38c931d298da4ab0e4f38fe97491030ea717514a9097e551d836834d6c0f9e2.m3u8
+telemax,https://epg.pw/stream/5a3ca6db586c34793ec73a5b885c4e35b4419a07befc0608396068531c6e13ca.m3u8
+todo noticias,https://epg.pw/stream/d74bcdb6647083cb7c677ea71b0329f2d53515811f77e3de1293594540843ad8.m3u8
+tyc sports,https://epg.pw/stream/d669c38238effda39a79e9ba06f3dc790d23b46a80212e958b3a680bbccaf094.m3u8
+亞美尼亞,#genre#
+3abn,https://epg.pw/stream/325d72328c939779e2ec3eeda6c7e64276bfae816b19c0a755c990499e155127.m3u8
+armenia tv hd,https://epg.pw/stream/500d8ced30055f38b3e37f5194eb6a8a53631e9f3579e262802dd337ff86a399.m3u8
+armenia tv hd,https://epg.pw/stream/d5116033c928ae52ce40c9bf50d647ece0af51dc5059413ffe75c5891a6b30d9.m3u8
+armenia tv hd,https://epg.pw/stream/253c687c4c6bbb8a1a9bbf99a40997e6a280fd5cceb4119f3eb9b0c7d3203787.m3u8
+armenia tv hd,https://epg.pw/stream/b7fbdc917c8f9810f48087bb888287912520eeca23d6d9d70dc00d1ec3d31fd1.m3u8
+box anime hd,https://epg.pw/stream/967dff6b854142214378de065e3bbd990003074d7ad28526eb94b4a091305754.m3u8
+澳大利亞,#genre#
+ABC NEWS 24,https://epg.pw/stream/5843872596afe2cb45d198314871ee40c1a0821e1afcd508c0ec883eb210ecdd.m3u8
+ABC NEWS 24,https://epg.pw/stream/4f1f755a72d39f5887cdd68f29472723d68e2e36dab03c381944b14c3954fb10.m3u8
+Australia Channel,https://epg.pw/stream/60076f92fff720362c4e7e66696011f043a58f626e7e3ecc46b13b81011179c4.m3u8
+abc tv (720p),https://epg.pw/stream/fd33a74fb805774db5beb3ac313e77ca934736419575c5fcf57ee97d013314e4.m3u8
+abcaustralia,https://epg.pw/stream/731e9f5ecc5de2a0afe5d5482b3a57d63d1354283a7e13951a910cf813ce87bf.ctv
+abcaustralia,https://epg.pw/stream/2701cb696b11e523550367f883b9ae64c40214949d1e05d8821267a460d1b79d.ctv
+abcaustralia,https://epg.pw/stream/3c6d2b4e4fc0b42de0d40f38a8e0ac738ee963437080dab5993763f2c01fa576.ctv
+abcaustralia,https://epg.pw/stream/42ff3dce9ecfcdd5dd212ccee833ac3c404e4a6ba2a0997e6aff5075b5c95dc5.ctv
+abcaustralia,https://epg.pw/stream/1939b4757e8e08ea241b54d9be09e80ba7af11d68b28c04b2f35616b0cda00f7.m3u8
+beIN Sports Australia,https://epg.pw/stream/ad271b3e781d89542ba85848512c023b14c2a2898a41af54cc97ba7eb88cc7f1.m3u8
+fresh (720p),https://epg.pw/stream/b6b92f839830c390d9993d50373c9c129f5ca5df860a215269e5e4c611fffea8.m3u8
+nrb tv,https://epg.pw/stream/b3e08a15407df010d7963b6e80fbdfa79dd09b31843694cd0583b4577714107c.m3u8
+ntv austria,https://epg.pw/stream/0c7bdafd879cb46a0859d56646dd19777cfb6faeffb09ae3dbb06130bb172608.m3u8
+ntv austria,https://epg.pw/stream/6b6943f72103afd1fde75e2a06a650cf2fed19fa57499e868f533a6ab7985ba8.m3u8
+time line australia,https://epg.pw/stream/4bcd7faf01ec16339e7cb2a0ebd082056d70d5909666ed0e2fcc8faa7382cb61.m3u8
+巴林,#genre#
+Al Maaref TV,https://epg.pw/stream/faa6c2c49c0c07983cea1f10a8d39eb87f59f8b29b6608272b83e6cb77751e89.m3u8
+Bahrain Sports TV,https://epg.pw/stream/63a27856707ff07c39b59b59bfc75650949293ea8233a7e85ddc03dae87e8c26.m3u8
+Bahrain Sports TV,https://epg.pw/stream/eba02520a4b4d89a14f42603ad31122fe1edc9fd77bc00bbf99e42e4e18681e9.m3u8
+巴巴多斯,#genre#
+Tempo TV,https://epg.pw/stream/88aaae7bb129d48ff8219b1fd3fa183036455ecd267300987a4c1861d0e6ce4c.m3u8
+Tempo TV,https://epg.pw/stream/eb4fdbab6cd4912a72ab46df3aab1a0d82e4037591e49c7105f359eeff6907a7.m3u8
+cinerama tv,https://epg.pw/stream/fab8fbbb30b22c62a9523470613ca4b2083c4b7452c08dcb818777a9010a9d94.m3u8
+白俄羅斯,#genre#
+Беларусь 5,https://epg.pw/stream/7486932cea8b1c931d6447e679e1572539c33fadf3c1384532b64543c42cb858.m3u8
+беларусь 1,https://epg.pw/stream/26e158fbbcca256cb4f63abee2d9c5d0743ddfd9da24923bb3d8a626b699f1d4.m3u8
+беларусь 2,https://epg.pw/stream/96fc79554337dfebab8138834b36968197292a403a18c3f6bd42a74dc1cfb617.m3u8
+беларусь 2,https://epg.pw/stream/1febed7ef27c33018d17c23c51d94298fd33b45dea900931efd5849bdc68bb7e.m3u8
+比利時,#genre#
+Vtm,https://epg.pw/stream/3f7283fa869c25941161a01044501bf18640041ca0e303e0f05c9cc47cccb63d.m3u8
+rtl-tvi (1080p) [not 24/7],https://epg.pw/stream/10dc74f9ea44895e80972ee52d334bfe9ab0ff04c36d6863656b1a6ea7ee6c92.m3u8
+巴西,#genre#
+Anime TV! Brazil,https://epg.pw/stream/b016f44dc1d528c87d09ae80a2f59da29ca080a825f7f0d321b74acec25766d7.m3u8
+HBO Xtreme,https://epg.pw/stream/9443c5ca1c6bcedd1ee4f88fe8d888d1715e6023b26117e92f4f68555e3d77f7.ctv
+HBO Xtreme,https://epg.pw/stream/6915206fdb22c6e3f8a6aa5c2192fb2d567a1162a90d48d622be1f86cb658e2a.ctv
+HBO Xtreme,https://epg.pw/stream/8b5f64409da60a9deabbc3bfa8f863e5ba81312715d74ebadd3604c83cc486d8.m3u8
+Rede NGT Brazil,https://epg.pw/stream/ff3977b0f29d8e26a3c3ec33caa1db79c99c91ef5a8cd2eaf85e57c63488273c.m3u8
+Rede TV! Paraná (Brazil),https://epg.pw/stream/778ac55d7063d04863f1da60a47be1e391a7afa2eda392e6c2bbf05b8406b069.m3u8
+Runtime Action! [Brazil],https://epg.pw/stream/b9c6bde401b0710f5fa17c65fb6ddaa6203d4be784324bcc746cc6a631392a3e.m3u8
+SporTV 1,https://epg.pw/stream/12057eea5088e1ab12023c10367fa4c10b428087c77bc9dd701953cfe996f0aa.ctv
+TV Aberta,https://epg.pw/stream/bdf2cad4a6119b98de39302cb49793fc16e4aed9536058e4e25e4d335ef954e0.m3u8
+TV Globo Brasilia,https://epg.pw/stream/295b6836ded024ae3dc836417f92c19c0bc07050fa09752651205d9a9e301fca.ctv
+TV Nova Play,https://epg.pw/stream/c0a8e6a079dea096f6fb6c437910622c3219b014238691f3d6ad30bd24cbc50c.m3u8
+TVCI [Brazil],https://epg.pw/stream/8f732d75c3158b55a4f425c925c3e1fe4b33fc51615e1e7588bc2bd644752eac.m3u8
+TVE RS Brazil,https://epg.pw/stream/d8ff35bee990478489f9b6ee744140ad291203f6029da1620f30b96b59f2af88.m3u8
+WebCine TV (Brasil),https://epg.pw/stream/e92f1f70e3ce335040ffaed8b5a165b07dedd623ad5a17dfafad9a573ead14ae.m3u8
+WebTV Paraná [Brazil],https://epg.pw/stream/5a93de88ce76e2129f04e1a0a9b4eaf163829c01f4c8af83e3ad6650e883e912.m3u8
+a&e,https://epg.pw/stream/44b6012f501c8938266af9dc8983611a1c2ec8f5e95f6ee2f01a9896897e52d1.m3u8
+action (kcks-ld4) (480p),https://epg.pw/stream/afd2ffafad12c705d5cf89422cd9f7bca05de070e3bae438bdb0375988a394a8.m3u8
+all sports,https://epg.pw/stream/bb4a0a2a5234874749eec5469e0c11199f33091e92a340c60d6edb7548ca1acd.m3u8
+amazon sat,https://epg.pw/stream/28415fc3ccb039c9174034796c5dacdd9b0f839fa331e40df1e8d1027325cbc7.m3u8
+amazon sat,https://epg.pw/stream/173db67a46d5f8f31f171021f681ccd669c20df7e4ea7d792a19ec0d6b15739a.m3u8
+artn tv,https://epg.pw/stream/b8c6d8f514366a0910c2261c7df7b30f08e783c198e0357690a3a44cc180f1c7.m3u8
+band mg,https://epg.pw/stream/721c1a29b65dad9515d3318fb2ddfc781b3f5365a7556360a6ac765487852a4c.m3u8
+band mg,https://epg.pw/stream/9696dda55fe5c38a0867e52b7a4ed45425f902755bcbb60fb450274b6b857405.m3u8
+food network,https://epg.pw/stream/f78b02569b9ef4f4ca7a328c1a2f0ae0b767727528f24c018fe9bbebff7d6f40.ctv
+food network,https://epg.pw/stream/105ca1df928d1ccd15550e9ab3a7edd460e594bf1517f524213020a7c5bd0f25.m3u8
+food network,https://epg.pw/stream/eddc0a93adbd6dcab25bc834f7ce696537168e7b0e4b76611610b0eea8d3cf45.m3u8
+globo news,https://epg.pw/stream/f8abfabde50425ec3bbe6cf961f0e757092d5db61b0a228900d613e5066af8a0.ctv
+globo rj 5,https://epg.pw/stream/13f25e3b9f3ddd37998780477f7c2250cfa0b511afe4a76302309f8ce985d5f9.ctv
+globo rj 5,https://epg.pw/stream/088475e79e9baf70709f7dc958ed33ffad05583a5868320d2483db573f7caca6.m3u8
+gospel cartoon,https://epg.pw/stream/36dc9cfd8b2d82fa1a222f092b0d3aee54e9989efdf550ac2b10e11e6eaf1c90.m3u8
+multishow,https://epg.pw/stream/53a88ab3d28186b4049d442bc3a2d640ca8616fd4a841ac6466d3fedc166b5b9.ctv
+novo tempo,https://epg.pw/stream/f296af92ca372a95bd296ae2b4ceedf3485fe95600ca0073e82189fc5c80e642.m3u8
+record news,https://epg.pw/stream/424e34fbf1ad676088a431b0e240e5072fe372e5f7c72f7584a25da01beb694e.m3u8
+record news,https://epg.pw/stream/90665e8d65bc5d38f6521f6da2d3aa6de728473de6c9f5d806f496f69d1cbd1c.m3u8
+rede família tv,https://epg.pw/stream/5e0e397b155969b4629ff891304d0347d86effccfd7456ff3509a97ef105179e.m3u8
+rede família tv,https://epg.pw/stream/4587e4d61ae03ab93520bb684e5b0bf769830189fc61fc737b51252f40040f42.m3u8
+rede tv! (paraná),https://epg.pw/stream/cbd5e2f4c3cc2e744581d7b995e2fd0162e5014ffe75687545ef41bdec125240.m3u8
+rede tv! (paraná),https://epg.pw/stream/08861a174bccfecf795458017e063e39960b77e33ba9150a44b6853a774dfec8.m3u8
+rede utv,https://epg.pw/stream/ec81f830998e507cc1706c3ca0651c55eaee73ed8d7e0efcf5c9a855a0638474.m3u8
+rede utv,https://epg.pw/stream/990f7baf8ce3a5a80557ef390da20d0a45235405e7c6c001135188e75baec6ad.m3u8
+rede utv,https://epg.pw/stream/67589f880ceeb7216c5de25d6c610003889bccb2250f56b6dab6e14cdd7be02e.m3u8
+rede utv,https://epg.pw/stream/e0e216f750bfec8932da36b1e58ec9cb67364d6f0fbe475fca19bd92ba4a14ce.m3u8
+rede vida,https://epg.pw/stream/857121562c2444347e9dc8917c74c459016646d33a9a44505afc2affabb476c2.m3u8
+rede vida,https://epg.pw/stream/23f635f7129247aaf96af0013a145eee226e229e4f11863e92019a68a232460a.m3u8
+retrô cartoon,https://epg.pw/stream/698f67d57789a7d9c2e1ce63a5cb0079dc6f1b94d5514da0c6646ab2ffea78b0.m3u8
+retrô cartoon,https://epg.pw/stream/62c4381e6a8f80225dccbf303bf84e29147dbd24ecafa5b39c2952234917cf76.m3u8
+sbt 2,https://epg.pw/stream/59ac239aeb3639d4ecae83766d6d4af3187674b9fc31773a70342a9a809e36ba.m3u8
+sbt sp,https://epg.pw/stream/861ba1e7dfd447c2751a3267ae19ebbe562da045a6d27228a052821d91397864.m3u8
+sbt sp,https://epg.pw/stream/ba59eb505cd6582966115eeb9269ba401224f408ef8d86a0d0acec48c0131adf.m3u8
+space,https://epg.pw/stream/d780d85ffb8ce3b8e233739370a05d4a5900dc2c696c2765bde2df23132751fa.m3u8
+sportv,https://epg.pw/stream/50897b48e52eb5d94f7ebd67ac08b7f1fc60ca29dcbd555199b29058c55ea6be.ctv
+sportv,https://epg.pw/stream/c6e9a1f57a2fb9ee1293e8e35e1ce53a8399766dea37c0016ecd71f0c9b940c8.ctv
+tela viva (360p),https://epg.pw/stream/e7ae2e21e789c021178aec1594ab13f51f2d8b425627056e9a3a8d263aca70d7.m3u8
+tela viva (360p),https://epg.pw/stream/e45429efbb0ff1782ccef784654bf17e828bebd715034abb13a2ec55fe5c5a43.m3u8
+tela viva (360p),https://epg.pw/stream/4851a9e5ec3a18c98d1724a6db9fa108f358084be29841a1499a66cc581ea7d9.m3u8
+telecine action fhd,https://epg.pw/stream/3924a6ec11c3371f210bcb0136181a12bc31e6d2561e63992d08847919a2bf70.ctv
+tv aparecida,https://epg.pw/stream/ed84334142b6d556487876509e24aeab8527a995cd50b75257dff51d922a7f97.m3u8
+tv brasil central - tbc,https://epg.pw/stream/0ed0c521514e70c49a1a1aec89aebae87e9bae055958a7ffe6eeb427384f1055.ctv
+tv brasil central - tbc,https://epg.pw/stream/d31c76c412ac15c01e88ad3bf87b9a6bad694097f8adfbbdf49b270ebd18b863.m3u8
+tv brasil central - tbc,https://epg.pw/stream/f7f00c8ecd3f21659d456ac614cc5247c4b05b84a57099720cb19f1a99ffc92e.m3u8
+tv brasil central - tbc,https://epg.pw/stream/98508e21fdc648ea13ff221f28750af9da787f693f3a16afd25ba632e64c35f2.m3u8
+tv clube,https://epg.pw/stream/905e38ed1df81593fbf94e422ffc956fb03b5eb6f04b2f4138c77135fea61ff3.m3u8
+tv cultura,https://epg.pw/stream/4330d33533f375b3a5742ce5d51650347fb84b6d40f762ec0a044e40c1cfa369.m3u8
+tv cultura,https://epg.pw/stream/4dc2620a8a5bb3ecc5433bf7e933fb750160ef683c8f8174069c3b3b0a8ea6c4.m3u8
+tv digital biriguí,https://epg.pw/stream/c74928d84abeaa54f93a918ef3eaac336b64d57d07b41d31caaff64f27e5c5f8.m3u8
+tv digital biriguí,https://epg.pw/stream/5bf66891175ce8ba8e2d01c4fd49970c744e41d29fe4aee6d1a682ca70eb5628.m3u8
+tv gazeta,https://epg.pw/stream/f1b714b98f2b5d651a693c4c5b349e15ee8219d96ae286f5b89c91fe2388b3e5.m3u8
+tv japi,https://epg.pw/stream/8b6dfa75bd65805b6b2ea8bd5f6e5ced9998c69999ed97480cfc34e2cfc022d1.m3u8
+tv japi,https://epg.pw/stream/a9f3edf7f14a02a16748b04a6b8a5c5dc6102fbf985683abcedd677d87310713.m3u8
+tv japi,https://epg.pw/stream/3fe35f16b813edb5f9eb7a2d1a4922e843e1fcdcd0331ca7d2de3ce865dea437.m3u8
+ulb tv,https://epg.pw/stream/5e138a5590c51ffd21f852fb4974fa005f8811a49cb1d1763380006eb4af95b9.m3u8
+warner,https://epg.pw/stream/8739be297a3d6cad10c1cc2a40042057e9dd769830547fdd5742150b7eb144ce.ctv
+文萊,#genre#
+rtb sukmaindera fhd,https://epg.pw/stream/bd22f6dc33b12ae96c2fe8026d6679eaea9783917f4a090d8f10c4fe99083753.m3u8
+rtb sukmaindera fhd,https://epg.pw/stream/c7faa82062fe74bdb1f06df338284e33ec2ab99bb205721a81bf13162f5678ab.m3u8
+rtb sukmaindera fhd,https://epg.pw/stream/64a3c198b86395a9b678d0d626d1b08279de8b6c5c3946030bfb5fe0594f91a2.m3u8
+保加利亞,#genre#
+6+ hd,https://epg.pw/stream/c36c66a65569457256002bbbfff1affbae08e4d105e1fd7a181d95f545c24117.m3u8
+7 tv,https://epg.pw/stream/8efc062766dd7e39c8201d68bbf0df2e06d31765e97638d8686570cfebf75009.m3u8
+dtv,https://epg.pw/stream/bcb128954cf1a338bdc2ea472b27dac03896cc045938711734ddc021364a439e.m3u8
+dtv,https://epg.pw/stream/d9a71069e1e4964adb9d22540603ff49b96ff0ffda7da04fcf7b5d7889c4d01f.m3u8
+first music channel bielorrusia,https://epg.pw/stream/851edc660fa08eb57595b9ad1acb2af67bfd5d33b85bd45a3b5ac5c794e9bf91.ctv
+first music channel bielorrusia,https://epg.pw/stream/94fa4cfc79c73f106bf188dc43a028effa6ddfab059757f561268b538d8cd5d6.ctv
+first music channel bielorrusia,https://epg.pw/stream/ff237188122bb3fcf57fd98ffef4026d033bbf0f7244d2c55211c9c9198da9c7.m3u8
+this is bulgaria hd (1080p),https://epg.pw/stream/a45cd92abc8b188ad369c9a0ffd38591b4bf8d9edcea80a33b225e6c0e23f32c.m3u8
+this is bulgaria hd (1080p),https://epg.pw/stream/a9bf1f2ded9c203dcda4805e87d526806771c320f502caa872e1b2e98a5b4a67.m3u8
+tiankov folk (576p),https://epg.pw/stream/88c29f67d05c51e7eecd6771c014a4f97a244e4b80e7aa203c9df886a0f8e9e7.m3u8
+tiankov folk (576p),https://epg.pw/stream/ab774029b34eda4b786650ac5b6484dc15d2452226d6d2bae3f791d192fe9fe5.m3u8
+tvn-bulgaria,https://epg.pw/stream/a61319a3098639f7ce66181b247b9913a9c682f3613d38487230c42b7eeee709.m3u8
+柬埔寨,#genre#
+afn tv,https://epg.pw/stream/36178b00481de91d1b2464796a131df6734ab854620cc509e9e8b34f74d4be12.m3u8
+afn tv,https://epg.pw/stream/aedeea1f357012b2621a1d65ba0b390bbcfc857e50852fad12c65ead88ecdbaf.m3u8
+afn tv,https://epg.pw/stream/4c1fb7cc931b03768691e8c55651411d33cd6a4c0a621daeeb2e04d270521c92.m3u8
+bayon tv,https://epg.pw/stream/3fb7f5978b8034b5c305c2f7c88b86817aa75ffaa72d03aa0a12192458307544.m3u8
+btv,https://epg.pw/stream/dad627a1b0a888ab5aceb95d5b15e8fa39728d1813f7f22ffbb1547b669d7a79.m3u8
+btv,https://epg.pw/stream/433845cf4923afd0e691d0e119f3d3dca68e2b507164d6c3a51b5bbf563d41fd.m3u8
+más tv,https://epg.pw/stream/91cc992e0d0c8a9b2df357fde86dc542d5ac7c6ebdcb21ab09176b1806ef907d.m3u8
+más tv,https://epg.pw/stream/127aeb0b3aa6998112ac2c507fcccc4fbaae0864931078ff26be14db0e07ec65.m3u8
+ton tv,https://epg.pw/stream/671b16be48dfad49798694584eddabd11f6e37523734053fd36921dceb7a2f9b.m3u8
+ton tv,https://epg.pw/stream/f38696c02cb3aac1aaecfb67e48b64bbdbd967b214014c18ab8105dc448e416d.m3u8
+tv5 cambodia,https://epg.pw/stream/4b9513bd7ed056dd915f26b2df84894a457ac7b35a99b9259a9acc0cbf791197.m3u8
+tvku,https://epg.pw/stream/091e5cee134e2631229275d3de71cca86ba78e2c1a3017c375664c3c38e1eadb.m3u8
+tvku,https://epg.pw/stream/c5f154ccba9a2b21d6aec8c0fff4fb2a95be1344c8383b6f992043861827c044.m3u8
+tvku,https://epg.pw/stream/9de7f7dd254b887031daef19d6fd23c1af9a48789c68775589a37210829a6a3e.m3u8
+tvku,https://epg.pw/stream/739b2896205d0eded42c2c18ab8e289249e48411ef9d246abbffa500d856e765.m3u8
+tvku,https://epg.pw/stream/c4f9828eca334d4fec84e8d9f59c923857435465f8103046f814023742ce7696.m3u8
+tvku,https://epg.pw/stream/435021d9eb5bf1c1db2405198973c4c14442bdd2b2e0c095599b41251d3ba2ed.m3u8
+加拿大,#genre#
+ Fox Sports Racing,https://epg.pw/stream/dc25210123c35aff781bb27250f3fe7a272bd33af2397d0ed890380e97e89b27.m3u8
+ Fox Sports Racing,https://epg.pw/stream/a165a98134bff44625379ebb6145bdacd1ca9c79b5c9cdd6ebb540fb359ed9f9.m3u8
+ Fox Sports Racing,https://epg.pw/stream/3d8e97b90a231099e00222179e4a1a223e9ecc502ca455a425a3028e26469dbf.m3u8
+ Fox Sports Racing,https://epg.pw/stream/11f820f6cff0adaae6a77a3a8c112300dc39b661d63d993043eb16530efb2cf0.m3u8
+ Fox Sports Racing,https://epg.pw/stream/9db0e8ed0826c1674c5708d891e9a7a999222383e03007e608358c7e1506e7cb.m3u8
+ Fox Sports Racing,https://epg.pw/stream/5425ccd6ef1a6ce7e6bb801865bdc509692478a4e9f3285511c001ac993a1de9.m3u8
+ Fox Sports Racing,https://epg.pw/stream/972bc559a0c83c3de2c56422c15850fc6ef7d555d6b92960db864bef9776769a.m3u8
+ Fox Sports Racing,https://epg.pw/stream/7ffacfd00ef742a96bfca5c681af14f0317f57a8cd8d0a5e491339964ceb2332.m3u8
+ Fox Sports Racing,https://epg.pw/stream/b096e6d8d3c47b4489f5933ec77e28836b0ceab3dfc68609a50c81e747e6067d.m3u8
+ Fox Sports Racing,https://epg.pw/stream/c2cf56b3616a48fc017d686e564675ba53a0fb5e08d6c439351164f7b5404d6f.m3u8
+ Fox Sports Racing,https://epg.pw/stream/1c6232302798c826c3e5db4b0aa4541df17a36ac0dedde48bd1bfe6ac00f5862.m3u8
+ Fox Sports Racing,https://epg.pw/stream/fab301e63cf441b75dc818e1713dbdd16ad7e0f2c571c3e24faac30d84b347ea.m3u8
+ Fox Sports Racing,https://epg.pw/stream/0304723564f7017d128d75c7b09cbf485d99cf83f49fe8f663c32930ae063246.m3u8
+ Fox Sports Racing,https://epg.pw/stream/0d23b1f9df249a1af5fc919e2321acb6caca4563480bcd86b0f1efce7c3d1305.m3u8
+ Fox Sports Racing,https://epg.pw/stream/456d34177e701dddf0d88090aff9200fdf2ed50d7ac3c09ee3d01dc4c5507590.m3u8
+ Fox Sports Racing,https://epg.pw/stream/664bfc068f79b70ebbf53590ac31547fa75ccac1eb4e87f3d88a928a5db92b5e.m3u8
+ Fox Sports Racing,https://epg.pw/stream/8eb6d24aef3cb138cca35c2bad169bf0db5ce315c841382da4344976a9bee406.m3u8
+ Fox Sports Racing,https://epg.pw/stream/483fe46b76b875a3ab09f612fa258837a75eecedc142843c8056910211da67de.m3u8
+ Fox Sports Racing,https://epg.pw/stream/4232466ff03e4fb260ff1872693836b6c1818dfecad5be8adb31e83745dd73ba.m3u8
+ Fox Sports Racing,https://epg.pw/stream/eb6f0983890a1b2cb0d827fc3fef93083618faf59d65de308f383699eb001ee3.m3u8
+ Fox Sports Racing,https://epg.pw/stream/d2dd924de6d31d3429e42ed859cbdb1103e41ef87af085232017666a507d55f9.m3u8
+ Fox Sports Racing,https://epg.pw/stream/f6d05a2b69b71d56585749db49b60c9ddd7f2f9e55ab522d6b2b3f6af79b49e4.m3u8
+ Fox Sports Racing,https://epg.pw/stream/d7c4102f8493e796c510f4115414dc3906c07cf3a85d161ea2d1d43d5de9ecba.m3u8
+ Fox Sports Racing,https://epg.pw/stream/35679358049273a0a5f76ca9753a6425a0d927a51c07d41f024068e96247993b.m3u8
+ Fox Sports Racing,https://epg.pw/stream/98ceb693da2c6cd28a0929bffaac5f6aa6347d1e692ea813c99b94f73d99de94.m3u8
+ Fox Sports Racing,https://epg.pw/stream/0b262438970289eacb14a5e04e8c52171687e6e21fae2bb4e60bb530e12b2bf7.m3u8
+ Fox Sports Racing,https://epg.pw/stream/9eda2fc8ec514b4a61bf696bf0c521fce12eac38cc58a626008e4ebd01bbc6aa.m3u8
+ Fox Sports Racing,https://epg.pw/stream/c4368af827b56536c6671e1e4680fa316a0935185299074cf14172a6c4a2793a.m3u8
+ Fox Sports Racing,https://epg.pw/stream/2ac0ecdeca5839399895c69fc7d223c14185652a857e34e9de7f41c4f0d2b43e.m3u8
+ Fox Sports Racing,https://epg.pw/stream/c2bfcdfb027d5f6919ffbc29b718f37483ee45639e1d2449e7c1f8a4ae4bcae8.m3u8
+ Fox Sports Racing,https://epg.pw/stream/af8f50302f622a8e6c8e72d09a0e4ba2f684fa2c770790ac9ad4831b07b8a8d4.m3u8
+ Fox Sports Racing,https://epg.pw/stream/2e6607cd224bd0b918a18c555734a0c2ce5d3bd32af3e3a3fac11ece32e371c7.ctv
+ Fox Sports Racing,https://epg.pw/stream/3ff64d4318eb9b400ad9c161b84fca7d109fd7fabc98ac260116ffc44c495b03.m3u8
+ Fox Sports Racing,https://epg.pw/stream/d94ddaf2c6cc0ab947d751a5967d8d55a451f77a92f19991f0c84a803912649f.m3u8
+ Fox Sports Racing,https://epg.pw/stream/7227e6c0732e2f8986c2ac9a9b192c42db3e6bca822ecb5de5664bb26461f407.m3u8
+ Fox Sports Racing,https://epg.pw/stream/6d096ba419014ec1d80584bf535523706d1acd71416ab26fd149fbbff7656f37.m3u8
+ Fox Sports Racing,https://epg.pw/stream/deccaf36bd4a091f343cab04020ca0c569abeaf2f8fe364d35ec98f5376560a2.m3u8
+ Fox Sports Racing,https://epg.pw/stream/1ae6871fa996a7cd305299a82b7cca0c45486c7285ad2acb74b97210b00c4ce9.m3u8
+ Fox Sports Racing,https://epg.pw/stream/98c0392e73f2b15d254cc221a84901b84f0b11c5d661090ae13034de515ca399.ctv
+ Fox Sports Racing,https://epg.pw/stream/b83568dabce5763413b419ce03c898b0e6c48c3511a0c199cb216e21600c11d8.m3u8
+ Fox Sports Racing,https://epg.pw/stream/57d94a3f54c64086784747d040a24b916dabe6d6489ae71d3e9988e5a3bad770.m3u8
+ Fox Sports Racing,https://epg.pw/stream/dd14e65344a8e74a5613bf8fb7bd99a041154056edc30ccee451050a49e739d3.ctv
+ Fox Sports Racing,https://epg.pw/stream/777838fc8a2c1a713225f4667dff8ffbd4b1497a1b18d17ef0d5a2b8fb226a98.m3u8
+ Fox Sports Racing,https://epg.pw/stream/0ec6de8eeacd8dea646bbb257eaae1e1f7e04aba7e13a76a2f1206ede25df5c5.m3u8
+ Fox Sports Racing,https://epg.pw/stream/54ec98445aaff88f6a703230ee8e2bce53f2317e65c6d8dddc9fba147acbcebf.ctv
+ Fox Sports Racing,https://epg.pw/stream/f0d7c5ce23b35b14bf8681b356d63ebc26a7a7d43041986936c15dac68a2ceb2.ctv
+ Fox Sports Racing,https://epg.pw/stream/2430ae77580b2c7fcc9afc28758b6f43cdec396ff268b4fb80c6594275202245.m3u8
+ Fox Sports Racing,https://epg.pw/stream/73119d3db8e55613cee3dc3034e31b4d634d859fcb3ce9015b463486297ea91d.m3u8
+ Fox Sports Racing,https://epg.pw/stream/2f119a76990f23a59b2ee77e3a70e1f21296ea55b10372d189b7d1bc69dc7008.m3u8
+ Fox Sports Racing,https://epg.pw/stream/34cbdad165c1e614d97df93ac91d1f89001bd33b69731897a67595a0d4237ecd.m3u8
+ Fox Sports Racing,https://epg.pw/stream/f58244880dc858b5d9672faca0bbb3027be919f9f926c5080009230f3ec9f88f.m3u8
+ Fox Sports Racing,https://epg.pw/stream/f0380ce4914878e50ce3396d17c4dc78846035d3751489521f838fe9bc944874.m3u8
+ Fox Sports Racing[ipv6],https://epg.pw/stream/b933e2e18e5c50c4811a8d33467a6d34ee89eb0bdb11dfb1c6f1ce0fa97cbd3f.m3u8
+ Fox Sports Racing,https://epg.pw/stream/14bbce508c9cf5b5e7cc12151881e4712eb7afc4ae1e6a58e6f78ae45a7f7c86.m3u8
+ Fox Sports Racing,https://epg.pw/stream/5558e35d0f89a684443b7136569f8a46139aee9326399ec151acc391ca68f662.m3u8
+ Fox Sports Racing,https://epg.pw/stream/0fab98c646087e6e71e516a2dcd5e73e5232692eadcf78f61924fed89cd0165f.m3u8
+ Fox Sports Racing,https://epg.pw/stream/6504f38c3faec6882b610948335ac519ee187b9c2a0b03395c89262c4abf6a14.ctv
+ Fox Sports Racing,https://epg.pw/stream/3c2925d8825c29686079a84e6f7c24587bb94aabc45c1d4227d8b1d4cc059711.m3u8
+ Fox Sports Racing,https://epg.pw/stream/773f0ca05d8ba99a8b564de0a6b65817986bab94aa7e010a04912ec4b902efc0.m3u8
+ Fox Sports Racing,https://epg.pw/stream/110730bc3bbf6fa7ceeaea5339ad72523fcf1ba2fceaca571f59f4a8f805b21b.m3u8
+ Fox Sports Racing,https://epg.pw/stream/b353ae55d0b89bc3b497b0b84a33ac4509661e7ea20924ea3ba6cc9343fd9967.ctv
+ Fox Sports Racing,https://epg.pw/stream/ac96a6a7a3562ef4339c0057589f59a045a1aa5c7ead8fb34aa70c8eed3870f4.ctv
+ Fox Sports Racing,https://epg.pw/stream/01adc5efe81edb43148c5654f62e03ce81339f7aeca6725ee0a0c9b1dbf713fd.m3u8
+ Fox Sports Racing,https://epg.pw/stream/285d2336fa53744bb34cb1b1a9f22d0352244b736d116860c90df86f66330e53.ctv
+ Fox Sports Racing,https://epg.pw/stream/1d5c0d0341ed29c1af481ec9452b8c951a5c5561b664e3948ed5be038e9ff57e.m3u8
+ Fox Sports Racing,https://epg.pw/stream/5effa9c47e2905097e172b4b68ad7b55f332ed497b7dade937d44da8eeb8e0f8.m3u8
+ Fox Sports Racing,https://epg.pw/stream/115afa3aac8abf9d5aa6d3c0ab7215086ee4d42060617f4b64bd66b006b8ab01.m3u8
+Awaz News,https://epg.pw/stream/fc8260d594695d651d5ce6114fda868af009aeed154be879a40cdee4f66218c6.m3u8
+CP 24,https://epg.pw/stream/34ffca8c7db968bf7d76fd056079e7311b5f59b19d06d29611fd7d9b69c5bb59.m3u8
+CPAC,https://epg.pw/stream/72a25cc75ece1e825e2c0ce64d9b589e62979a93342497a09ab80003126f909a.m3u8
+SportsNet One,https://epg.pw/stream/6746aca1475d3854cff6a1e082efaf6645c259d360c9253244627f7615558492.m3u8
+SportsNet Pacific,https://epg.pw/stream/c024c33549e30b9dfd2e8f55711bcb63a77a01f18a2ed85eeb3667562d480b05.m3u8
+SportsNet Pacific,https://epg.pw/stream/d30de4a1e0fc2e92cf377cc1d9c8dc5cfe092c7b0c5e603eb5b1eecad9486707.ctv
+SportsNet West,https://epg.pw/stream/979874b01377b9d6141868823cdd3ecc74ccbfebcabdec60932c80543da66cc9.m3u8
+Sportsnet East,https://epg.pw/stream/f8ae3dd8e3733a94372513915fe40697d1d1fcd28e2a662f2adf80213f881cf6.m3u8
+Sportsnet East,https://epg.pw/stream/06542a0ac87ec27b16f5e096012b684d8b14df05357d6189bdef61ffa47d1486.m3u8
+Sportsnet Ontario,https://epg.pw/stream/10f2842733a31c8fb3d461c8035995cc1d6c89d0df81c8b004fa10a815db4f3b.m3u8
+TV5 Unis,https://epg.pw/stream/56199538b07b1202bcacabfdb002454b3d41d6268e5f96586504e9125ef97487.m3u8
+TVA SPORT,https://epg.pw/stream/a72e19f657706e16dbe91b423faf15422bdc1fa54ee4225ef4473664e915b5bb.m3u8
+canal 9,https://epg.pw/stream/977759f880c79f063739523f85eb63ea8e2319e66b8a72ddc412285827b5c0ce.m3u8
+canal 9,https://epg.pw/stream/f5f7d35e8788e809c1898b225969955d696d811ddff237f7f7ca29f18bed3a3d.m3u8
+canal 9,https://epg.pw/stream/2c51cae4fb7f33e4fca575dbb30a22816c9d20058fae59f3baa6cce5971ef53a.m3u8
+city tv,https://epg.pw/stream/d73050c84ef5ffe820fc9d5c7ec0336cb1711b4a05f1fc46591fd1eaa78acef8.m3u8
+city tv,https://epg.pw/stream/eecbdad996f126f6c538eb91df535bf15007a8ace558d50985d58556c1e95050.ctv
+city tv,https://epg.pw/stream/7874cf2370f8b2e93dca93c661d230d8c35c13e21cc4a7dcee11d67b6a6f34f9.m3u8
+edge sport,https://epg.pw/stream/b7a865e0d0e03c93af0e90858ef297bfa28e601185bdf37f4ed26a1486e45529.m3u8
+edge sport,https://epg.pw/stream/e4fc247c942e915fc273df9e9608d3c5e460bd4f2171d0f69c5bc09900234fe5.m3u8
+edge sport,https://epg.pw/stream/ad8b375661196f83dc1bb6d0be01b3a43448a3f4f64624eabf9501964a0dd98b.m3u8
+edge sport,https://epg.pw/stream/c4776e4afe8b7013cac8e16ab2ae7eb4a88996a252710d8ba65f485b836c9491.m3u8
+edge sport,https://epg.pw/stream/199a550da4a7ffa8fab4ed9f21226c0d52ce22f229bf47082df52744d59ac400.m3u8
+edge sport,https://epg.pw/stream/7d1cee39d0cf5cd29acd37c73a77e80f70488d890fb975f92629a9a27ce903ea.m3u8
+edge sport,https://epg.pw/stream/0f0ad6a772bc931d24368b3de20da338ac97f2ed2440f5edcc326498121ba440.m3u8
+edge sport,https://epg.pw/stream/28198b071072b42f15b4562c296a9edc89618303f691b27339b8ddc1190ce866.m3u8
+global tv,https://epg.pw/stream/c9ba0cf59817ccb6303796ff6f876d3f1ed58f8029f927364f9fd5627a7af8de.m3u8
+gtn canada,https://epg.pw/stream/f48e4779fa486a1e9cb0e9b915f5b4af57bba7951b49b8c9a906339bdb707928.m3u8
+lsn - lax sports network,https://epg.pw/stream/ce0c8495db4aa92e6d6a3fbbb2fb5acaaaa4dd8bb1701ea32362f7d363335755.m3u8
+tsn 1,https://epg.pw/stream/6fccf79b112c4509bff5fad2979d5e0fda54c3769f156b68a295d5e4f4dd27b5.ctv
+tsn 1,https://epg.pw/stream/90850035fb27d6b760a4be6a6ce8d02c9655dc22d79a657d5cf361342d9cb00c.m3u8
+tsn 4,https://epg.pw/stream/07e3ae77bf1784b175e80f40511c33278804a03f0df00e5efa8aafde2b28c129.ctv
+tsn 5,https://epg.pw/stream/41cff10f36441b129e908607340e1ddb08e6230c89db35c095a32813ba0722e7.ctv
+tva (vicenza) (720p),https://epg.pw/stream/d7277f5f0806eb2b926b0c666755f9ce1c7891395690b3c644052767b792227d.m3u8
+tva (vicenza) (720p),https://epg.pw/stream/59cf93aedc0018c5addf71cebdfe8daf9da6f45fe2b0f4e053dcc60e9178b250.m3u8
+tvo,https://epg.pw/stream/49e3553eb9fd1756ffe6750415dcdf72675e1433dbf5643b2af25b402da30dc5.m3u8
+ช่อง treehouse,https://epg.pw/stream/1bb76c321aff92fc6dcaf8aa7b3c8b1a5ba0ec42d008ee0a88379ddb88b9e387.m3u8
+ช่อง tsn 2,https://epg.pw/stream/ed2bf685073fd3ccc77845fbc478e32721d2ff83f6f4901c67dda92372c595cb.m3u8
+ช่อง tsn 2,https://epg.pw/stream/8dcaefd765ccffd51fa1832376a05a9a36a9332b43f476080b4cfafd19feb6f1.ctv
+ช่อง tsn 3,https://epg.pw/stream/86b94e5845c4de9cba1c770d381a3a8bb58c18cecc88af64ea5c924cec7a03d6.m3u8
+ช่อง tsn 3,https://epg.pw/stream/9243fb2560718ed6e5b1712a8796e0275e949d1b0bf9333751fd5646e10ce100.ctv
+智利,#genre#
+CANAL 24 HORAS SANTIAGO CHILE LATAM,https://epg.pw/stream/40adc10287958a96b105faae6ecb3ea85c5f3e18f28ed4d271e4a67cbe78e05e.m3u8
+CANAL 24 HORAS SANTIAGO CHILE LATAM,https://epg.pw/stream/ca529b884d123f723c2e701357547926a5786c7b522e6770e3c9a5032b63f79c.m3u8
+CANAL DE NOTICIAS COLCHAHUA CHILE LATAM,https://epg.pw/stream/fa954b61bcfb59cc422d4f2f883d5020982e4c6bad61ae1aba2ff77f9689dd7d.m3u8
+adn radio,https://epg.pw/stream/067541f3bbb0c971f48bd366e34c2919391a4d0f246ad2c8cf3c197327099021.m3u8
+canal 24 horas,https://epg.pw/stream/2977bda3b9a76a236999966469423689081263e135ffb3597945071b7ade4bc8.m3u8
+español,https://epg.pw/stream/5a910aacf501a123031e9f96b8e85183f9102ddb49154585678c7251129504f9.m3u8
+español,https://epg.pw/stream/9751616abe0ea1fc9f0d3c06f9af9e85a012d80cb8b217d7869130fee6d73cf6.m3u8
+telecanal 12,https://epg.pw/stream/b4af095cfac3a18ca25beab7887b21de01870363ff1492bc6ae9c29945da5071.m3u8
+
 哥倫比亞,#genre#
 Canal Regional LlanoTV,https://epg.pw/stream/7a1e2fd10c8936e7f5d1c32d8c765b124100da31dcd8030ec63ee07dd58c7c23.m3u8
 Canal Regional LlanoTV,https://epg.pw/stream/c9bafdadff786d1e8848a24cdb8af0f2995dfaa8c01ab611633df5472484be4a.m3u8
@@ -4990,166 +5151,7 @@ syria tv,https://epg.pw/stream/b9506c5d46e393e9f0d9760d5bbcc58b619c576f3962f488f
 syria tv,https://epg.pw/stream/00f79ef788d366ba1216d8e897f14a1bda4ff8e01701b5994cd22967410a306f.ctv
 syria tv,https://epg.pw/stream/bb6ada7a6609e6334f86fb40ed25754ca1d0ce39ebd7c2a166f2db75b6accaa2.ctv
 syria tv,https://epg.pw/stream/c89f74c224509b60f6f26c1e6c44a232506e3cbf08b1d1a26ff889c846706bba.ctv
-台灣,#genre#
-115新天地民俗臺,https://epg.pw/stream/4bb6cd65c225d9000bfa15a013db79f1068df4d235fb7e2b041dad9ae2b4d1c0.ctv
-115新天地民俗臺,https://epg.pw/stream/83cb88afa92f7469a01bb33a62c2ec15328cacbac9c0ea94f17ce3099062cac9.ctv
-115新天地民俗臺,https://epg.pw/stream/f41827a1237e7180f5397cd04a3521f6bffe93737f13bd0f27dadeaa4f900746.ctv
-115新天地民俗臺,https://epg.pw/stream/a29ba2a4077fadda7271f9196d93073850de7b69cae5be8467b20fd906de21ba.m3u8
-Animax,https://epg.pw/stream/8959c648275f5c9b5d29364c7797ce88802775c745d9c726ccee1773f599496d.m3u8
-Animax,https://epg.pw/stream/bf8b2ee2054e29c905611d47c54f2b15e6de0b5e865fed02b8cef5876e1bf99c.m3u8
-Animax,https://epg.pw/stream/c00127d805e82b76c7aadbc58c94e6c08d7e35f9fd07df19c05597173345fdaf.m3u8
-DISCOVERY HD WORLD,https://epg.pw/stream/d476259f960b090099ac5b0617a17de7d827b7225ba978cebec1b338730b64e6.m3u8
-DISCOVERY SCIENCE TW,https://epg.pw/stream/035902f8b3b563e0b5a7cd2ef2ade48b6c805f0d378d4265059b9948e469c036.m3u8
-FOOD NETWORK,https://epg.pw/stream/ca05614fef9f090bedaf74eecfac46606417411992c65e72b72a2f4ab14f9ab9.ctv
-FOOD NETWORK,https://epg.pw/stream/9a562dacceddfab5a72330a281461ffa56d00a68cc96d014bd870344a79450a9.ctv
-FOOD NETWORK,https://epg.pw/stream/cdd389fc153bb92ff0e0c1e65a487111ee595b0e2f282f486035e57c7dd2758b.ctv
-FOOD NETWORK,https://epg.pw/stream/bbfc348558d8c650ddaf84b81f10246a08f758a183b7a52a24d8c24578e718e1.ctv
-FOOD NETWORK,https://epg.pw/stream/8ad565e63c0faedd345fe35393067ebc9f1f22412a25c87bca9fad1daaacaeb0.ctv
-FOOD NETWORK,https://epg.pw/stream/533337d80c4c3c8fa80412cdd7e7d729d81563e4e71e2a522dabd7aeb307f9ac.ctv
-FOOD NETWORK,https://epg.pw/stream/c75eeb5ebde73c609cef89bca777c08845ec1cce86d1efa8ddc6e19678e8a0d3.ctv
-FOOD NETWORK,https://epg.pw/stream/40eb2114bfbf6573d78f3c3df7cd6ee56bb46d9daa8db960d572a901b09e0bd6.m3u8
-FOOD NETWORK,https://epg.pw/stream/1681c243565e4d4085a9bb7c193e3d86b7445f144325dcb9ffb934f9510641cc.ctv
-FOOD NETWORK,https://epg.pw/stream/90a1fabb5a2ee42e297b914c99b0b3faf44b1a01cdf6972dadde31110c65841c.ctv
-FOOD NETWORK,https://epg.pw/stream/a85264dc60a98dcfb2909612b9d75b6de6e41c39ea901d9c26f91e74f5661e7e.ctv
-Global Trekker,https://epg.pw/stream/752f272be46e913e470b2d0ad6dd56853a88b5fa704ae831b0217f52d83de826.m3u8
-Global Trekker,https://epg.pw/stream/315d997def5917ea5bcc0a4c05b7eaab81d844380a44ccf14af702c46e3936e3.m3u8
-LOVE NATURE,https://epg.pw/stream/1a86f28388b512beaf71e98286d7b27abbbeecacc914c05b722c1fdd40f363ab.ctv
-LOVE NATURE,https://epg.pw/stream/8d9afb048cafc1de495b12fb4f3792b9c3526d31a2900218e3cca7768176b9ff.ctv
-LOVE NATURE,https://epg.pw/stream/9c867fb0e65cff4042c840ccd9d0fc1dbdd9125d1b66e4ea2cd6c4b621279fca.ctv
-LOVE NATURE,https://epg.pw/stream/50b37a23774517c16dfe5b104ce15ec4e4d933a704184d2981c37e7735d216a6.m3u8
-LOVE NATURE,https://epg.pw/stream/59c05b5f45ace2ee35d58a647079e8c79d2c9d622f35a2744e6ca39f1e7d62f1.m3u8
-LOVE NATURE,https://epg.pw/stream/63d67f2a207e6f649f16cdeb7dc9eb190a95de243d54505301b3d4b8861ece58.m3u8
-LOVE NATURE,https://epg.pw/stream/9738bfc90d9cd020ee8a9797361cfde7c85528dadd9638913a2dc0114384c687.m3u8
-MOMO綜合,rtmp://f13h.mine.nu/sat/tv761
-Nat Geo(TW),https://epg.pw/stream/e9cbfa8672ca34172dab382da2dd3f8e5dd24a3710923924f1501faf3b7a0f64.ctv
-Nat Geo(TW),https://epg.pw/stream/91d61b540bae7482cbe1cfbf93a38cbfd6bd1cdba516c9376b89b958a5a3c89c.ctv
-Nat Geo(TW),https://epg.pw/stream/a920d05e5ca5c23ed112e7c8b33f6b2b44258e5a7f2d36465bccdbb8843d9590.ctv
-ROCK ENTERTAINMENT,https://epg.pw/stream/8c8f12557120af11c0343207e354cbbaf692b5d271cb873dd58cc9632bb99845.ctv
-ROCK ENTERTAINMENT,https://epg.pw/stream/c71eac92bcaeee9085fd48e514f10f7a0068f67721f3ad6db9e9a501f4a05cd4.ctv
-ROCK ENTERTAINMENT,https://epg.pw/stream/1f75bf19fa96a21c86b88f77f0395e931082798623c11876b7f3f74f17e073cc.ctv
-Smithsonian Channel,https://epg.pw/stream/e9b55b0627ec0d41254df6d57f8f84d9519570dab7764510b4c609677fa22f66.ctv
-Smithsonian Channel,https://epg.pw/stream/3963d8bd349fd3c3305ff7271090906dc297acb3ed1d5de31b8f124637b49b43.ctv
-TVBS,https://epg.pw/stream/00c14f2d9028476600ce529e01307b3850eacdf925d087e697a7233c759200dd.ctv
-TVBS,https://epg.pw/stream/06baf79b6e6515fa271791223499a2ecf53f1917f24c680bfa8a7539162cce76.m3u8
-TVBS Asia,https://epg.pw/stream/b24ea75b5547a557c9eaab14ada1cbcfc1fb2f927c682aad461678671fed6157.ctv
-TVBS Asia,https://epg.pw/stream/d1c9d8557652b64438ad61572eab00656194989f0fa32d241354ed5a88f7fdd6.ctv
-TVBS Asia,https://epg.pw/stream/682a73ed19c05f74af508099b3bda0f58bd5a21c8ae8d08fd6802b1deae96799.ctv
-TVBS Asia,https://epg.pw/stream/2b5093889867dda8329030e009f1829782c8ee0ebf83df594f7963e32dc7011b.ctv
-TVBS Asia,https://epg.pw/stream/bec78e286aac6635512a9f28b62fd31b8e95a4a6c3d14cfb31cc3924b0f4725c.m3u8
-TVBS Asia,https://epg.pw/stream/1d3fd64401a15fe4c03686bd236262e655ddfa84c99879ae5273532ffd2ae4af.m3u8
-WIN HD綜合,https://epg.pw/stream/beedf009af55b6adf5840ba8defe6a88bb4e1b85c6e31907f4d0c93a4d6f1d16.ctv
-discovery channel cee hd,https://epg.pw/stream/94376536df0cfe2fdad4a6e4bf5b7fa6cd6d6fe49d9a53e99bcb2344979ffced.m3u8
-discovery channel cee hd,https://epg.pw/stream/3691e4c9c5e781829bd530b40a382e355859c454dbbc7c5d3786db329953c708.ctv
-discovery channel cee hd,https://epg.pw/stream/8691024f0b37817866deb4539e1dd3e6627395cd8ad9f9c0cae3063b6f390333.m3u8
-discovery channel cee hd,https://epg.pw/stream/6660b80a6b508f316b418a3ce81968759db73898ba0a261dce84ca223ec2cdd2.ctv
-discovery channel cee hd,https://epg.pw/stream/04a408a0354c634c7cad80a9e0f90ccfebc366c4024146c243abd12f513aab4f.m3u8
-discovery channel cee hd,https://epg.pw/stream/6a9357630adb8e0e9030f25b82de1e753361d6c822c33094a27c8462eadb6ae3.m3u8
-dnj tv,https://epg.pw/stream/cbec18c957f39e0c0815864db21d245391482b6c0273620422318cc0b24de644.m3u8
-made in hollywood,https://epg.pw/stream/591e0f2e83132e57ed5dfd03f6502828ae2dbdf70e450e1f165c22c40503dae8.m3u8
-made in hollywood,https://epg.pw/stream/856120e8ee2029d1e8a5984b2ee23320b8e768a4e90544fce77d3ee8cbb3a05c.m3u8
-made in hollywood,https://epg.pw/stream/8a1cbc1af24b8d74012a128ebd952be710ea167f34d6ffc5ce6203aeb0b14710.m3u8
-made in hollywood,https://epg.pw/stream/693cb1da3ce4d83011648241a481a18182ee8c44783c0f62dbeb2024fb6a7160.m3u8
-made in hollywood,https://epg.pw/stream/cb974b3858e96b0f844f145346f9f301213096aabd05986c7da17f19c9035361.m3u8
-made in hollywood,https://epg.pw/stream/989eb94e870bd36822d0078cb3fa743a9295f65d00b4b471c365c3f5eab578e3.m3u8
-made in hollywood,https://epg.pw/stream/9c60cfc4b5a062fc264fae9f3ec66eef1d6ffc0e88f3fbde003ede2c94ad186b.m3u8
-petclub hd,https://epg.pw/stream/de8e64dbbc14a0284ad805a67edc279bde1fc6ec898904aedc6fc5e83c61225e.ctv
-petclub hd,https://epg.pw/stream/b3dba2bf19d632d892e3eafc0bb6065cd219f3b73ef17ed90c9db9d992659e38.m3u8
-「河南」新野综合,https://epg.pw/stream/e22466cc931f87ee3348117d7805f44f25f699df8a5b91430e2fc4039b901076.m3u8
-「河南」新野综合,https://epg.pw/stream/730624d47482fed3331196e40e506833a98c72142af419b50c098c0fdedb850b.m3u8
-「河南」新野综合,https://epg.pw/stream/6ab2a2e7ba69c1875adb1017afd6a908963105d2cfd5034319ee1b89b37d1ae5.ctv
-东森 超视,https://epg.pw/stream/19cb39b5599a5ea2cde824c81f55696b8f505d8ee3c6511ea3f37ea7ef1bf61b.ctv
-中天亞洲,https://epg.pw/stream/b2c21dc375aa7d91af1ae24341e9065d56b0b142fef4d75f915a2b43552f907e.ctv
-中天亞洲,https://epg.pw/stream/7d5f7bb550596ec9f43aed600bd4ef31c93b7232035060e9bba7682f0de8dd3d.ctv
-中天亞洲,https://epg.pw/stream/f6e9d7395b1bfef5477b99b6710813db95712e5e33f617ab299228a90c2411f8.ctv
-中天亞洲,https://epg.pw/stream/4631a398ff32a1e8ccae925c4571c3cff405ccc18d125b394f180965c770cb24.ctv
-中天亞洲,https://epg.pw/stream/450940587fa1fc5e0d5e7dcc867cc7cf516be1703ac460838de30e3d298296d7.ctv
-中天亞洲,https://epg.pw/stream/1e59226934cf2ee352c61f573fc21b21a7d754f3dfdef717e741678046049c72.ctv
-中天亞洲,https://epg.pw/stream/14a228ce69868c95f5c2c75922dde9d5d30f9433b12cbbc74831ce5116087799.ctv
-中天亞洲,https://epg.pw/stream/392bd5c48cfbf25180dce5e61f5f97de6dd3d429d3c750a24103e3545d7f03a0.ctv
-中天亞洲,https://epg.pw/stream/6eec344685b0c1c7a94276677b1509b3f90837f552546464ff68ba72e8795fbb.ctv
-中天亞洲,https://epg.pw/stream/51fa756c939b22fb5a247657a2cd7e04e2d6a882002ddb09661f32ec3508335c.ctv
-中天亞洲,https://epg.pw/stream/c2b02c9e0bd33be98a91eb3dbcd0c270336765c2ac46e8343d8551e6e292dce3.ctv
-中天亞洲,https://epg.pw/stream/5da11f16c4b1bd5eda82e3cc51ae9c133ab688bf8936038c45016c6af87b7c56.ctv
-中天亞洲,https://epg.pw/stream/1fc2c15e1adeb5bf15d3d9d51140f60ef5daa4a31793bf2012204b678994a97d.ctv
-中天亞洲,https://epg.pw/stream/901aaff83dc9634e8986d4bbc4342f4c87e13a77ab59054be586f0d80b68e0a2.ctv
-中天新聞,https://epg.pw/stream/e5ed1698854b95fefb5c81593d928583bcd278f72388abddb10061f8c7d927e5.m3u8
-中視,https://epg.pw/stream/00c0e49f6b0ebf36cf01a6b87955f78c400927f22fac4390ac0838cebd333d11.ctv
-中視,rtmp://f13h.mine.nu/sat/tv091
-人間衛視,https://epg.pw/stream/05b9099bef592e55129817a0f82b4cc60378970bc856b993ae9e330e85f4351f.m3u8
-人间卫视,https://epg.pw/stream/b477995b160cdb9c7e4073eb76a5e241dfe20bcfee9faf4528af9377a53bf6c5.m3u8
-人间卫视,https://epg.pw/stream/42db7d21271f321cdd59f552ed6de00b634a389edf2db56e1f2b59852f9551db.ctv
-人间卫视,https://epg.pw/stream/9d0b87502ccb47a1a2c8211dc602777d5146e941c631c933743048da0b44053d.m3u8
-人间卫视,https://epg.pw/stream/ab7bcf5a18958aaf322e01631bd9d031db56960aeabbb526a8781fbe1c1f1ba3.m3u8
-人间卫视,https://epg.pw/stream/2a4504f486633cdacf70e84a9bddad9f70e8cdf960695cb54d5f278d83b3a3a4.ctv
-人间卫视,https://epg.pw/stream/4eb0323c70d760304396dda96d4193e878c24f1080b403142386e13bd15bb06c.m3u8
-人间卫视,https://epg.pw/stream/925df6e71c4dd75f935dbe02200a19e3893eea0a125da4d28447546e7a8bd092.m3u8
-創世電視,https://epg.pw/stream/dbcb37030ce1e99f5860fd270a76e63d2aa00a6a67f609619ab25c5b81a2e0e5.m3u8
-創世電視,https://epg.pw/stream/6dd46c6e6c146cc8383089ae906128af3d45cdafbff6b580d3dde1502e9c1d84.m3u8
-华视,https://epg.pw/stream/bbbcd26d0b86feca25bac4dce21109d46ea765225564aaaedec3b2b9aa876565.ctv
-华视,rtmp://f13h.mine.nu/sat/tv111
-博斯高球,https://epg.pw/stream/7df20d4d0d04045e5722792bcd477b161e7f457e358e314dd7bc5f8bd828b294.m3u8
-台視新聞,https://epg.pw/stream/d4774ec8a87985b129d45af1ff8f45ad7c554acd0d1cb9ce6cbf122255b2140a.m3u8
-台視新聞,https://epg.pw/stream/a68a66899669d90058ad8baacda8c9e59ba8b2c5ab1fb74e50ac7d3bc971e25b.m3u8
-台視新聞,https://epg.pw/stream/e44275a32f95c673d1f2a0084465ae30047704adb964b0efc00b7d7057c512f3.m3u8
-台視新聞,https://epg.pw/stream/6ffb325e878b6ae255f12f6f11aef268b32db0d6b8b43c53fa0041975274cba5.m3u8
-台視新聞,https://epg.pw/stream/b9fa8d19fa8492880b9c9f66eca6111adf20aee719d3cb1e4a027168ca382510.m3u8
-台視新聞,https://epg.pw/stream/eac1d72af640b2368193c724070f1cceb6892b6cb329e871864697f1905af047.m3u8
-台視新聞,https://epg.pw/stream/96afb8d6fa20bb65a774f91d5caa60abc507e35ade518c7992f5f652cadd0914.m3u8
-台視新聞,https://epg.pw/stream/a399e85fa5940ba0350181fdfa9e103f3556324a504c5cb5ef35c0c4f9a04c36.m3u8
-台視新聞,https://epg.pw/stream/1e6f4fea556314599d76bcf7a81101aa774142e1bd344e2354f552f5ca2ea562.m3u8
-台視新聞,https://epg.pw/stream/d3230731a96387dccb11e86bafb66b5715c55e8b3033cbf183d4972995cea362.m3u8
-台視新聞,https://epg.pw/stream/d388b721bbe24174167197bd8df71614187bcb174879a301f1bc24ff2d8d6136.m3u8
-台視新聞,https://epg.pw/stream/07420afeb8a2edf0654aac4b73fe562896504712677577e2929d4425986b3415.m3u8
-台視新聞,https://epg.pw/stream/7e38e8d94c527c78eb0b414d29e8100d0bf3f90d5c73ce799795fe3785675319.m3u8
-台视新闻 hd,https://epg.pw/stream/4c8adef47c01115677bc13b65593946135e6fe8c470fad1db810248c3ca10150.m3u8
-台视新闻 hd,https://epg.pw/stream/323de3953f32eaf0c224d78f1db77be185fa7ce9245786b3bd95d462d86d08d8.m3u8
-唯心電視,https://epg.pw/stream/821eba8c8f03a7d2b604051525642cfdca5c96a65d2fa7ca56ea9d179674b543.m3u8
-唯心電視,https://epg.pw/stream/31720d333f6038736a253006ad6cd6b08ea29626e1e79ce203944d493500bdb1.m3u8
-唯心電視,https://epg.pw/stream/5ea267787f833cf96fdaccfa4265cb6854ff3e67e5bfd4e3fd492986bcf82527.m3u8
-唯心電視,https://epg.pw/stream/7d651c567d48727fc8f95cef7d2b349246baef656e557211c784bc62024b10d0.m3u8
-國會頻道1,https://epg.pw/stream/25175c7fccfbd6b9eb84da550d209558856d777a651e95a9eee156246c364050.m3u8
-國會頻道2,https://epg.pw/stream/80b455104735b3ab7fa31625f949f7d9e9fbc0ef3b0f3fa14023d32922f5379d.m3u8
-大愛,https://epg.pw/stream/8dab0126668b960d4130c12b25e9278ffda43f5b66fa986287ed34cd97cbd721.m3u8
-大愛,https://epg.pw/stream/634d66848d8e5fe80d4fb498f3de9e0a841cad38d5e9a12d8e1b4a807a7f5857.m3u8
-大愛2,https://epg.pw/stream/2b383d639b6b2eade22f2d085141a38ae48a98f24b8a06f485e23f7211bbf909.m3u8
-大愛2,https://epg.pw/stream/60efaf070c91949a4c4e52c9d35746ebfb99b5318b43115c15205965c5807948.m3u8
-大愛2,https://epg.pw/stream/90c3c2fa9df0e57466057e690b618d69c34f5cfe8bdea2edf0522742a91c368c.m3u8
-大愛2,https://epg.pw/stream/adefa4b3b335e22e458ee3232eb44832e815acd82cf7ad1c489d2d11274c700b.m3u8
-大愛2,https://epg.pw/stream/d8ecd4005a721625fd1cf30519dc635fdeec60f7a294302874d5638972f56f68.m3u8
-大愛2,https://epg.pw/stream/5fccf4a4972d39810ed6ac299db54c1cd33cf614dc04364ed982a90592ebff1f.m3u8
-好消息,https://epg.pw/stream/797529276770285bb5212acd5798702e0db85532c78121a94f600759dec5dabf.m3u8
-東森新聞,https://epg.pw/stream/54221319de813f4675b6ccd9ab958d744ed33570caa663c854e9727240d7cbdb.m3u8
-東森洋片,https://epg.pw/stream/8b6c965b023696353ae23ce6216297fa6f2e13236497bcfe9d9955fb69be2259.m3u8
-東森綜合,https://epg.pw/stream/540631c1a98749d22fa009988f446bf60ab5c5a0a3f13a8419d30671f0284182.m3u8
-東森美洲,https://epg.pw/stream/4f75b6abb8483c7acd3ce3b93a088cb93d1be9ec7c8bf4d9137f0f4c3a2076a6.m3u8
-東森美洲,https://epg.pw/stream/3f54de58cf44244a3a2e14cd7388cac348a17ada96c4aba4b5a65f1c4ceeabca.m3u8
-東森美洲,https://epg.pw/stream/d9a679454b6c0b5dad7d457df83d71fb9a68adec2c5f603770e94b88152c5d49.m3u8
-東森美洲衛視,https://epg.pw/stream/568e26b29122e84e3527b97eca553332274777bdf39873fb234fb6581a3f6a59.m3u8
-東森超視,rtmp://f13h.mine.nu/sat/tv331
-東森超視,https://epg.pw/stream/c4bdb9e1c44e823ee9e33f3dbd887f65ffbdfe197707325552c2720a5b872d40.m3u8
-民視,https://epg.pw/stream/151d9e43523a82c3a3bdaa1c54b08177028c783cdd72a2fa26442073dd59ffcb.ctv
-民視,rtmp://f13h.mine.nu/sat/tv051
-民視新聞,https://epg.pw/stream/d74bc09a058876e6c637224a7b60a69874cc28b06fbb467deb379dac72062e46.m3u8
-民視新聞,https://epg.pw/stream/7270ae89dc1f30cfec2c03d01b6e2fbc50863f60936b534814dfd28caa72181e.m3u8
-民視新聞,https://epg.pw/stream/c5164ddd2983de1b83d87250bb921836d47363c90dc4643440e92060c18e98e6.m3u8
-民視新聞,https://epg.pw/stream/357581cc08ace7ef32a04c9c53578fe9906e137989e1f5e0355395f7a3ae8e37.m3u8
-民視新聞,https://epg.pw/stream/9e0c5226b50fcd68d592dc0ae62154c62a9fd50732329250ee0daf4879ccae49.m3u8
-民視新聞,https://epg.pw/stream/1d469cbfb06b06cde4dc59c21272a4e6da364621e97513d03523c96d0c7afe1e.m3u8
-民視新聞,https://epg.pw/stream/75e14c76b6bf52ae5f96e83d07ea3b69008f6b017d18a395b6c6346ef60bcb27.m3u8
-民視新聞,https://epg.pw/stream/59efca9eea64079ba2ac54830e73469d9a1027e2dfd67d768bd4206567866cdb.m3u8
-民视新闻 hd,https://epg.pw/stream/b63bf1df7bf1e2c47a873d3987c2d59a08d8e4dfed1e197bce7e791eb64eb16e.m3u8
-民视新闻 hd,https://epg.pw/stream/2603220ae7a890e8e1027a6362e9aaec880131ce06da58c4e89365ce6d410772.m3u8
-民视新闻 hd,https://epg.pw/stream/6fa1566ea8689cbf43afb55f899dc5ee945e1caabde5bfc367cc510aa794d313.m3u8
-民视新闻 hd,https://epg.pw/stream/c8bfbc31e5af4b4d07b7222dc9ac9315dd57fbd663daafea3ce611c5bc57cf83.m3u8
-民视新闻 hd,https://epg.pw/stream/76f0ee00f9e59f698ff954d5f79bf2c7f5ecbc83a47381bb74906acd165bd48c.m3u8
-生命电视台,https://epg.pw/stream/3f1da41967f70b7fc0c80cce65f2a8c6d9c74b85eb97d39b0f3745b36b69a875.m3u8
-經典電影臺,https://epg.pw/stream/98b5e5e277185eb959abcae72d13987779650fbb0afc1369c19a91f0e8cc5bc4.ctv
-緯來日本,rtmp://f13h.mine.nu/sat/tv771
-緯來育樂,rtmp://f13h.mine.nu/sat/tv701
-緯來體育,https://epg.pw/stream/e5507bbdc9dfef925338d5e3be29d249880f5702d13b4519c7def49163aa386b.m3u8
-緯來體育,https://epg.pw/stream/b972b56855f08c1e06c90358613ad336cf197fddacbc2868b5abdd7294b4dc83.m3u8
-華藝MBC綜合臺,https://epg.pw/stream/c36ae18458367072e8ae84efb20ce3ba685a177e6d8237efffe9317e80603746.m3u8
-華視,https://epg.pw/stream/2ef08642072574008f65939021951a59fe9fc71369c751393f40a1b2234e18c9.m3u8
+
 泰國,#genre#
 MCOT,https://epg.pw/stream/0b31059fdbbfdbb738b98503b79b20d6f83f89a01c3d89721445475cc87199ff.m3u8
 MCOT HD,https://epg.pw/stream/d8ffdf51ec0b496e6654664d881bf1d4d5e8e2d49602e7ab09e68fa3043f58ca.m3u8
