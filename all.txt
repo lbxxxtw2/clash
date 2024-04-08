@@ -7,6 +7,7 @@ TVB J2,https://epg.pw/stream/1936e0180ebd92426c3868ef2bdd66c8217fbe9b33c7061122d
 TVB J2,https://epg.pw/stream/35be49526efe9576baa6ecdfacd7c7b7a91e12d4991a5c65bebfe97313d8aa81.ctv
 TVB J2,https://epg.pw/stream/9a785bebd7cf671d3e5a7dbac74ffb79496585788e9af2bb60760b44109c84ff.ctv
 明珠台,https://epg.pw/stream/3ce97e80d81f8f3a2626acb024afe18285832eb51c609946e365a9974ef74cba.ctv
+明珠台,http://1.65.195.85:9981/stream/channelid/1803382046?profile=pass
 明珠台,https://epg.pw/stream/d10537b7c7bd5042706a9bf58776a08a4c2cbc09a65d612db415bc14ee1b9a13.ctv
 明珠台,https://epg.pw/stream/ac4c954ac1b36289d6279103388272849e930c79220fb88f2aa5e20146b12a48.ctv
 明珠台,http://nz189l149.bb27109.ctm.net:8892/bysid/2
@@ -32,10 +33,12 @@ TVB J2,https://epg.pw/stream/9a785bebd7cf671d3e5a7dbac74ffb79496585788e9af2bb607
 有线财经资讯,https://epg.pw/stream/23db82730f3b43b390d230a69d0ea0bff90c718930b4616f8815019ad7db1523.m3u8
 有线财经资讯,https://epg.pw/stream/5c4073692c6bfe2a6fcfa1ad9dc419ddf9264bcd61f4fdd78f980235227e8b0f.m3u8
 無線新聞台,https://epg.pw/stream/24ad86b6b170c8279e4b2961c998b8f0837e3217812ead12388ec930f2cb4ca8.ctv
+無線新聞台,http://1.65.195.85:9981/stream/channelid/2051586642?profile=pass
 無線新聞台,https://epg.pw/stream/1d57a34778340406c923ddde53b9bbfd4903d711783cf2d6eda414ce79d59f07.ctv
 無線新聞台,https://epg.pw/stream/cf9a086284373e6083058ffee13a822e2e193f5e19d3ff25b6e90062e4109c89.ctv
 無線財經台,https://epg.pw/stream/9a5717216f8e5e6563211d66d2867374bfdfdd8a9ee8c48b0de2ddcb3a1f9b0d.ctv
 無線財經台,https://epg.pw/stream/4cfbd8042c72a22081ceec0c87e7bb7ded78a5ea32bb6f709e5375a7304b8d1c.ctv
+無線財經台,http://1.65.195.85:9981/stream/channelid/1781676223?profile=pass
 TVB亞洲劇,https://epg.pw/stream/c88adc69fe22cc05c7ff2984ad14db99f461e6dda12687cb7bbaf5e03a357a38.m3u8
 TVB亞洲劇,https://epg.pw/stream/a4696392133577ed03dbedefe5c18c3c7a178b0899b2f814fa6c532bc521f8f4.m3u8
 TVB亞洲劇,https://epg.pw/stream/5bf2b1b6e25985960785ccef6dc0acddc7424b6fc178ba1530817265e730f56f.m3u8
@@ -839,6 +842,18 @@ cetv1,https://epg.pw/stream/14867319e0bd88b95b76ec4ccfd62c4a50370f70bccf3fac4576
 cetv1,https://epg.pw/stream/e307b1b8ba4abb239ea725762386835ecc037639b459e2f13232533301d4b092.m3u8
 
 台湾澳门,#genre#
+民视新闻,http://livetv.skycf.eu.org/live.m3u8?c=11
+镜新闻,http://livetv.skycf.eu.org/live.m3u8?c=10
+中天亚洲,http://livetv.skycf.eu.org/live.m3u8?c=3
+中天新闻,http://livetv.skycf.eu.org/live.m3u8?c=7
+台视新闻台,http://livetv.skycf.eu.org/live.m3u8?c=4
+中视新闻台,http://livetv.skycf.eu.org/live.m3u8?c=6
+东森新闻台,http://livetv.skycf.eu.org/live.m3u8?c=9
+公视,http://livetv.skycf.eu.org/live.m3u8?c=8
+民视新闻台,http://livetv.skycf.eu.org/live.m3u8?c=11
+三洋,http://livetv.skycf.eu.org/live.m3u8?c=12
+华视新闻台,http://livetv.skycf.eu.org/live.m3u8?c=13
+东森经财,http://livetv.skycf.eu.org/live.m3u8?c=14
 
 
 中國大陸,#genre#
