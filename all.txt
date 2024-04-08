@@ -105,6 +105,8 @@ star,https://epg.pw/stream/f24adf3ae738b4720ff1599714fc3ba70607c0f3ceea78303f37d
 廣東體育,https://epg.pw/stream/ff6983ce34a2ad295545550992df113dfeb39a061f903a8cf4dd426451c7530b.m3u8
 廣東體育,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8
 廣東體育,http://gmxw.7766.org:808/hls/2/index.m3u8
+廣東體育,http://113.100.72.95:8899/udp/239.77.0.112:5146
+廣東體育,http://113.100.72.95:8899/udp/239.77.0.168:5146
 廣東體育,https://epg.pw/stream/869475cf6ab5d187816a1b7fbd8649cfc0b41c452e5595eabb2a36e51a61eecf.m3u8
 廣東體育,https://epg.pw/stream/400d513c00980f7c4ababbd199234dc049cfdab4531b0da0f0fa0de0d63602d3.m3u8
 廣東體育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
@@ -118,6 +120,14 @@ star,https://epg.pw/stream/f24adf3ae738b4720ff1599714fc3ba70607c0f3ceea78303f37d
 廣東經濟科教,https://epg.pw/stream/2623d952147c792681ad5fe97ea7b7e4b883687a6ee2f3343560331009f7d534.m3u8
 廣東綜藝,https://epg.pw/stream/b5ae84ba5527e0074d6614c199a38821c09e9ee4d41bdcadb033d40ea3b23419.m3u8
 廣東衛視,https://epg.pw/stream/79202aa439fc4fb94a8304f8608737f7cff1626f2b42aa6d5552ecfc2bcacbaf.m3u8
+廣東衛視,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226216/1.m3u8
+廣東衛視,http://xxw.me0.cn/api/migu.php?id=28
+廣東衛視,http://219.147.3.106:4455/newlive/live/hls/26/live.m3u8
+廣東衛視,http://111.75.151.236:50085/newlive/live/hls/25/live.m3u8
+廣東衛視,https://epg.pw/stream/88869bbe44812d4aec4de520feed223e11c309bbe9fb7024556de45e3fa92383.m3u8
+廣東衛視,http://php.jdshipin.com:8880/bst.php?id=gdwshd/4000000
+廣東衛視,http://14.29.76.30:9901/tsfile/live/0125_1.m3u8
+廣東衛視,http://gxft.7766.org:9901/tsfile/live/0125_1.m3u8
 廣東衛視,https://epg.pw/stream/a2b6324b5cd759386fcda12a60815a4b4d53a9c2f683edea8725785508fad938.m3u8
 廣東衛視,https://epg.pw/stream/23718014ee69495ab3ace3cc974c9da1b887a4eef6e698a2afabbbfa8afac0be.m3u8
 廣東衛視,https://epg.pw/stream/d561fd3f552ba43e4c97c95b4fe965789e64a7ba920bb71faabc7079e1eff076.m3u8
@@ -129,8 +139,6 @@ star,https://epg.pw/stream/f24adf3ae738b4720ff1599714fc3ba70607c0f3ceea78303f37d
 廣東衛視,https://epg.pw/stream/36d4b0490036067e134fd3c43017884e53854341a79d8b39d8728c2367126f80.m3u8
 廣東衛視,https://epg.pw/stream/cee5cfaf0047e43df21ed1d00f03bcd3398f730317feabca730b45edfcb9d3bb.m3u8
 廣東衛視,https://epg.pw/stream/17c2caa98314cdbeecb0056390dc95867526843a2af1b951559870af9ec5e907.m3u8
-廣東衛視[ipv6],https://epg.pw/stream/2d599a92595f6e3defa6324326c0378034e5c3b40d1fb5adb08f71b4f205dbf4.m3u8
-廣東衛視[ipv6],https://epg.pw/stream/dbd19955488adc87c43d4771ab78f545dc87a2b79d8d5988d26ac60eba97c2c8.m3u8
 廣東衛視,https://epg.pw/stream/b6bca625bbf7067b856f83575bfca2d133d2494f67c97304f0ecb89aea239aa3.m3u8
 廣東衛視,https://epg.pw/stream/f73a3c2a19883e6ffd634e9cf8b47ab0b24c6e313413101b5fd8e5cb4342e793.m3u8
 廣東衛視,https://epg.pw/stream/3752e5819df4bb8c6a4c18ba3143efa79eb08028a4640d5472830c8a23694cc9.m3u8
