@@ -59,6 +59,10 @@ TVB翡翠台,http://iptv.diyp.site/公众号【DIYP】关注一下啊.php?key=ga
 翡翠台,http://php.jdshipin.com/PLTV/iptv.php?id=fct3
 金翡翠台,http://go1.bkpcp.top/tl/null-2
 翡翠台,http://go1.bkpcp.top/tl/null
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
 翡翠台,http://v2h.jdshipin.com:80/jade2/jade.stream/chunklist_w100.m3u8
 |翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=4&amp;time=20240926215313&amp;ip=111.229.253.40$1920x1080
 |翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&amp;time=20240926215313&amp;ip=111.229.253.40$1920x1080
