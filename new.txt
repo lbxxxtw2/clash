@@ -16,7 +16,6 @@ TVB翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40$LR•IPV4『线路40』
 翡翠台9,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
 翡翠台,http://50.7.234.10:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
-翡翠台,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8
 华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 翡翠台6,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 翡翠台,http://120.198.101.106:9901/tsfile/live/1007_1.m3u8
