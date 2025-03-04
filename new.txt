@@ -16,7 +16,6 @@
 翡翠台,http://120.238.94.82:9901/tsfile/live/1007_1.m3u8
 翡翠台,http://cdn5.1678520.xyz/live/?id=fct
 翡翠台,http://113.83.152.50:8181/bysid/1
-翡翠台,http://aktv.132.us.kg/AKTV/live/aktv/null/AKTV.m3u8
 翡翠台,http://huangtong-com.cn:9902/tsfile/live/1007_1.m3u8
 翡翠台,https://bxtv.587788.xyz/stream/bxtv/null/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb
 翡翠台,http://cdn5.1678520.xyz/live/live1.1.php?id=fct
@@ -28,7 +27,6 @@ TVB J1,https://cdn5.1678520.xyz/live/live2.1.php?id=j1
 明珠台,http://grandprix2023.asuscomm.com:8892/bysid/2.m3u8$订阅源|1920x1080
 明珠台,http://grandprix2023.asuscomm.com:8892/bysid/2.m3u8
 明珠台,http://113.83.152.50:8182/bysid/2
-明珠台,http://aktv.132.us.kg/AKTV/live/aktv/null-2/AKTV.m3u8
 明珠台,http://59.32.97.183:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 明珠台,http://bziyunshao.synology.me:8890/bysid/2
 明珠台,http://nz171l122.bb60246.ctm.net:8892/bysid/2.m3u8
