@@ -72,9 +72,9 @@ ViuTV 全運4台,https://yang-1989.eu.org/live/ViuTV-4
 鳳凰衛視·中文,https://tv.iill.top/phenix/fhzw
 鳳凰衛視·資訊,https://tv.iill.top/phenix/fhzx
 鳳凰衛視·香港,https://tv.iill.top/phenix/fhhk
-HOY 國際財經台「限HK」,https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
+HOY 國際財經台,https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 HOY TV,https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
-HOY 資訊台「限HK」,https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
+HOY 資訊台,https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 HOY 生活台,https://tv.iill.top/hoy/8
 HOY 劇集台,https://tv.iill.top/hoy/9
 HOY 怪談台,https://tv.iill.top/hoy/10
@@ -331,3 +331,4 @@ Channel U,http://cdn6.163189.xyz/163189/chu
 「斗鱼」火影忍者,https://live.iill.top/douyu/1997723
 「斗鱼」跑跑卡丁车,https://live.iill.top/douyu/7722576
 「斗鱼」跑跑卡丁车•手游,https://live.iill.top/douyu/6672862
+
